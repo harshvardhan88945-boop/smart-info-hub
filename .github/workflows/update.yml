@@ -2,8 +2,8 @@ name: Update Smart Info Data
 
 on:
   schedule:
-    - cron: '0 */3 * * *' # Har 3 ghante mein run hoga
-  workflow_dispatch: # Aap manually bhi button daba kar turant run kar sakenge
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -11,26 +11,35 @@ permissions:
 jobs:
   update-json:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: |
+          python -m pip install --upgrade pip
+          pip install feedparser
 
       - name: Run data update script
-        run: python update_data.py
+        run: |
+          python update_data.py
 
       - name: Commit and push data.json
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data.json
-          git diff --staged --quiet || git commit -m "Update data.json and clean old items"
-          git push
+          if ! git diff --staged --quiet; then
+            git commit -m "Update data.json and clean old items"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi
           
