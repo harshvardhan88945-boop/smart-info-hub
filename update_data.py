@@ -1,13 +1,15 @@
 from datetime import datetime, timedelta, timezone
 import hashlib
+from html.parser import HTMLParser
 import json
 import os
+import urllib.request
 import feedparser
 
 DATA_FILE = "data.json"
 RETENTION_DAYS = 7
 
-# Reliable RSS sources mapped to the 9 categories
+# All 9 categories + Sarkari Result + reliable multi-source feeds
 SOURCES = [
     # 1. New Case Law and Recent Judgement
     {
@@ -25,13 +27,56 @@ SOURCES = [
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
         "keywords": [],
     },
-    # 3. Job and Vacancy
+    # 3. Job and Vacancy -> Sarkari Result + multiple reliable feeds
+    {
+        "category": "Job and Vacancy",
+        "kind": "job",
+        "source": "Sarkari Result",
+        "url": "https://www.sarkariresult.com/latestjob.php",
+        "is_sarkari": True,
+        "keywords": [],
+    },
+    {
+        "category": "Job and Vacancy",
+        "kind": "job",
+        "source": "Lawctopus Jobs",
+        "url": "https://lawctopus.com/category/jobs/feed",
+        "keywords": [],
+    },
+    {
+        "category": "Job and Vacancy",
+        "kind": "job",
+        "source": "Bar & Bench Jobs",
+        "url": "https://www.barandbench.com/category/jobs/feed",
+        "keywords": [],
+    },
     {
         "category": "Job and Vacancy",
         "kind": "job",
         "source": "FreeJobAlert",
         "url": "https://www.freejobalert.com/feed/",
         "keywords": [],
+    },
+    {
+        "category": "Job and Vacancy",
+        "kind": "job",
+        "source": "The Hindu Recruitment",
+        "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "keywords": [
+            "recruitment",
+            "vacancy",
+            "vacancies",
+            "post",
+            "posts",
+            "exam",
+            "upsc",
+            "ssc",
+            "judicial",
+            "apo",
+            "apply",
+            "hiring",
+        ],
+        "fallback_all": False,
     },
     # 4. Internship
     {
@@ -64,7 +109,7 @@ SOURCES = [
         "url": "https://www.sciencedaily.com/rss/fossils_ruins.xml",
         "keywords": [],
     },
-    # 7. Parliament Update and Activities (The Hindu National + LiveLaw filtered for Parliament, with fallback)
+    # 7. Parliament Update and Activities
     {
         "category": "Parliament Update and Activities",
         "kind": "article",
@@ -83,7 +128,7 @@ SOURCES = [
         ],
         "fallback_all": True,
     },
-    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities (The Hindu National + LiveLaw filtered for UP/Assembly, with fallback)
+    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities
     {
         "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
         "kind": "article",
@@ -149,6 +194,7 @@ STATE_RULES = {
         "lucknow",
         "vidhan sabha",
         "vidhan parishad",
+        "bharti",
     ],
     "All India": [
         "all india",
@@ -158,8 +204,87 @@ STATE_RULES = {
         "parliament",
         "central govt",
         "india",
+        "sarkari",
     ],
 }
+
+
+class SimpleLinkParser(HTMLParser):
+
+  def __init__(self):
+    super().__init__()
+    self.in_a = False
+    self.current_href = ""
+    self.current_text = []
+    self.links = []
+
+  def handle_starttag(self, tag, attrs):
+    if tag == "a":
+      self.in_a = True
+      self.current_href = ""
+      self.current_text = []
+      for k, v in attrs:
+        if k == "href" and v:
+          self.current_href = v.strip()
+
+  def handle_data(self, data):
+    if self.in_a:
+      self.current_text.append(data)
+
+  def handle_endtag(self, tag):
+    if tag == "a" and self.in_a:
+      self.in_a = False
+      title = " ".join("".join(self.current_text).split()).strip()
+      if len(title) >= 12 and self.current_href.startswith("http"):
+        self.links.append((title, self.current_href, title[:300]))
+
+
+def fetch_sarkari_result_entries(
+    url: str = "https://www.sarkariresult.com/latestjob.php",
+) -> list[tuple[str, str, str]]:
+  try:
+    req = urllib.request.Request(
+        url,
+        headers={
+            "User-Agent": (
+                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+            )
+        },
+    )
+    with urllib.request.urlopen(req, timeout=12) as resp:
+      html = resp.read().decode("utf-8", errors="ignore")
+
+    parser = SimpleLinkParser()
+    parser.feed(html)
+
+    results = []
+    seen_titles = set()
+    for title, link, summary in parser.links:
+      low = title.lower()
+      if any(
+          k in low
+          for k in [
+              "recruitment",
+              "vacancy",
+              "form",
+              "exam",
+              "result",
+              "admit card",
+              "post",
+              "bharti",
+              "apply",
+          ]
+      ):
+        if low not in seen_titles:
+          seen_titles.add(low)
+          results.append((title, link, summary))
+      if len(results) >= 10:
+        break
+    return results
+  except Exception as e:
+    print(f"[Sarkari Result fetch note]: {e}")
+    return []
 
 
 def make_id(category: str, url: str, title: str) -> str:
@@ -249,7 +374,11 @@ def run_update():
   seen_job_ids = {item.get("id") for item in jobs if item.get("id")}
 
   for src in SOURCES:
-    chosen = collect_entries_for_source(src)
+    if src.get("is_sarkari"):
+      chosen = fetch_sarkari_result_entries(src["url"])
+    else:
+      chosen = collect_entries_for_source(src)
+
     print(f"[{src['category']}] ({src['source']}) -> {len(chosen)} entries")
 
     for title, link, summary in chosen:
@@ -300,4 +429,3 @@ def run_update():
 
 if __name__ == "__main__":
   run_update()
-    
