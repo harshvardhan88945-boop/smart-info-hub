@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T07:57:12.635247+00:00",
+  "last_updated": "2026-11-26T08:10:39.895740+00:00",
   "articles": [
     {
       "id": "96aa871f81dc",
@@ -1863,6 +1863,78 @@
       "source": "The Hindu Business",
       "url": "https://www.thehindu.com/news/international/elon-musk-says-every-child-in-us-will-get-two-spacex-shares/article71745692.ece",
       "date": "2026-11-26"
+    },
+    {
+      "id": "4ea497d36a1f",
+      "category": "New Case Law and Recent Judgement",
+      "title": "2026 LiveLaw (SC) 1207 | M/s PM Shah and Co. v Asmit Vijay Vedak & Ors",
+      "summary": "",
+      "source": "LiveLaw",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1207-ms-pm-shah-and-co-v-asmit-vijay-vedak-ors-560095",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "82984ba41b3a",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Long-Standing Use Of Vacant Land For Tethering Cattle Doesn't Confer Right To Injunction: P&H High Court",
+      "summary": "",
+      "source": "LiveLaw",
+      "url": "https://www.livelaw.in/high-court/punjab-and-haryana-high-court/punjab-haryana-high-court-tethering-cattle-storing-cow-dung-cakes-on-village-land-dont-prove-exclusive-possession-for-injunction-560091",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "92b692ac9992",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Landlord's Bona Fide Need Not Be Defeated By Subsequent Events Merely Because Of Long Pendency Of Eviction Case : Supreme Court",
+      "summary": "",
+      "source": "LiveLaw",
+      "url": "https://www.livelaw.in/top-stories/supreme-court-subsequent-events-defeat-landlord-bona-fide-need-560093",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "2de1990d121a",
+      "category": "New Case Law and Recent Judgement",
+      "title": "2026 LiveLaw (SC) 1206 | 3S AND OUR HEALTH SOCIETY Vs UNION OF INDIA",
+      "summary": "",
+      "source": "LiveLaw",
+      "url": "https://www.livelaw.in/sc-judgments/2026-livelaw-sc-1206-3s-and-our-health-society-vs-union-of-india-560090",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "4a7d04d1399e",
+      "category": "Daily Current Affair",
+      "title": "SSC plans to use indigenous examination devices to take computer-based tests beyond private centres",
+      "summary": "The Staff Selection Commission has floated an RFP for indigenous examination tablets, attracting interest from over 25 bidders, says its chairman. It is also exploring edge-based CCTV systems, as defence officials seek homegrown space, AI and communication technologies",
+      "source": "The Hindu National",
+      "url": "https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "9b1cfb73900c",
+      "category": "Daily Current Affair",
+      "title": "Supreme Court to hear contempt pleas in Thirupparankundram lamp-lighting row on Nov. 27",
+      "summary": "The application said the four Sthanikars had denied giving any opinion to light the lamp at the Deepa Mandapam nor were they consulted",
+      "source": "The Hindu National",
+      "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-lamp-lighting-row-on-nov-27/article71745742.ece",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "ac68ad1ea347",
+      "category": "Parliament Update and Activities",
+      "title": "SSC plans to use indigenous examination devices to take computer-based tests beyond private centres",
+      "summary": "The Staff Selection Commission has floated an RFP for indigenous examination tablets, attracting interest from over 25 bidders, says its chairman. It is also exploring edge-based CCTV systems, as defence officials seek homegrown space, AI and communication technologies",
+      "source": "The Hindu Parliament",
+      "url": "https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "c060a99c006f",
+      "category": "Parliament Update and Activities",
+      "title": "Supreme Court to hear contempt pleas in Thirupparankundram lamp-lighting row on Nov. 27",
+      "summary": "The application said the four Sthanikars had denied giving any opinion to light the lamp at the Deepa Mandapam nor were they consulted",
+      "source": "The Hindu Parliament",
+      "url": "https://www.thehindu.com/news/national/supreme-court-to-hear-contempt-pleas-in-thirupparankundram-lamp-lighting-row-on-nov-27/article71745742.ece",
+      "date": "2026-11-26"
     }
   ],
   "jobs": [
@@ -3186,6 +3258,19 @@
       "state": "Other / Unspecified",
       "source": "The Hindu Recruitment & Exams",
       "url": "https://www.thehindu.com/news/national/amit-shah-meets-ramayana-team-congratulates-them-on-films-global-success/article71745696.ece",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "427427e243af",
+      "category": "Job and Vacancy",
+      "title": "SSC plans to use indigenous examination devices to take computer-based tests beyond private centres",
+      "qualifications": [
+        "Graduation",
+        "Post Graduation"
+      ],
+      "state": "All India",
+      "source": "The Hindu Recruitment & Exams",
+      "url": "https://www.thehindu.com/news/national/ssc-plans-to-use-indigenous-examination-devices-to-take-computer-based-tests-beyond-private-centres/article71745706.ece",
       "date": "2026-11-26"
     }
   ]
