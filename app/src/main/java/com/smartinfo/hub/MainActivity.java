@@ -493,7 +493,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    private void scheduleBackgroundCheck() {
+        private void scheduleBackgroundCheck() {
         PeriodicWorkRequest workRequest = new PeriodicWorkRequest.Builder(
                 SyncWorker.class, 3, TimeUnit.HOURS
         ).build();
@@ -501,4 +501,34 @@ public class MainActivity extends AppCompatActivity {
         WorkManager.getInstance(this).enqueueUniquePeriodicWork(
                 "SmartInfoSyncWork",
                 ExistingPeriodicWorkPolicy.KEEP,
-                
+                workRequest
+        );
+    }
+
+    private void writeCache(String content) {
+        try {
+            FileOutputStream fos = openFileOutput(CACHE_FILENAME, MODE_PRIVATE);
+            fos.write(content.getBytes("UTF-8"));
+            fos.close();
+        } catch (Exception ignored) {
+        }
+    }
+
+    private String readCache() {
+        try {
+            File file = new File(getFilesDir(), CACHE_FILENAME);
+            if (!file.exists()) return "";
+            FileInputStream fis = openFileInput(CACHE_FILENAME);
+            BufferedReader br = new BufferedReader(new InputStreamReader(fis));
+            StringBuilder sb = new StringBuilder();
+            String line;
+            while ((line = br.readLine()) != null) {
+                sb.append(line);
+            }
+            br.close();
+            return sb.toString();
+        } catch (Exception e) {
+            return "";
+        }
+    }
+}
