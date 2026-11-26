@@ -36,6 +36,8 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.net.URLEncoder;
+import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.LinkedHashSet;
@@ -86,6 +88,8 @@ public class MainActivity extends AppCompatActivity {
     private final ExecutorService executor = Executors.newSingleThreadExecutor();
     private final List<FeedItem> allItems = new ArrayList<>();
     private final List<FeedItem> visibleItems = new ArrayList<>();
+    private final List<String> categoryOptions = new ArrayList<>();
+    private ArrayAdapter<String> categoryAdapter;
     private ArrayAdapter<String> listAdapter;
 
     private String selectedCategory = CAT_ALL;
@@ -151,13 +155,47 @@ public class MainActivity extends AppCompatActivity {
         listItems.setOnItemClickListener((parent, view, position, id) -> {
             if (position >= 0 && position < visibleItems.size()) {
                 String targetUrl = visibleItems.get(position).url;
-                if (targetUrl != null && !targetUrl.isEmpty()) {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(targetUrl)));
+                if (targetUrl != null && !targetUrl.trim().isEmpty()) {
+                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(targetUrl.trim())));
+                } else {
+                    openSearchForItem(visibleItems.get(position));
                 }
             }
         });
 
         fetchRemoteData(false);
+    }
+
+    public void openSearchForCurrentCategory() {
+        String query = selectedCategory;
+        if (CAT_ALL.equals(query) || query == null || query.trim().isEmpty()) {
+            query = "latest government job notification legal update india";
+        } else if (isCareerFilterApplicable()) {
+            if (!"All".equals(selectedState)) {
+                query += " " + selectedState;
+            }
+            if (!"All".equals(selectedQualification)) {
+                query += " " + selectedQualification;
+            }
+        }
+        openWebSearch(query);
+    }
+
+    private void openSearchForItem(FeedItem item) {
+        String q = (item.title != null && !item.title.trim().isEmpty())
+                ? item.title.trim()
+                : item.category;
+        openWebSearch(q);
+    }
+
+    private void openWebSearch(String query) {
+        try {
+            String encoded = URLEncoder.encode(query, StandardCharsets.UTF_8.toString());
+            Uri uri = Uri.parse("https://www.google.com/search?q=" + encoded);
+            startActivity(new Intent(Intent.ACTION_VIEW, uri));
+        } catch (Exception e) {
+            Toast.makeText(this, "Search open failed", Toast.LENGTH_SHORT).show();
+        }
     }
 
     private boolean isCareerFilterApplicable() {
@@ -193,6 +231,27 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setupSpinners() {
+        categoryOptions.clear();
+        categoryOptions.addAll(FIXED_CATEGORIES);
+        categoryAdapter = new ArrayAdapter<>(
+                this, android.R.layout.simple_spinner_dropdown_item, categoryOptions);
+        spinnerCategory.setAdapter(categoryAdapter);
+
+        spinnerCategory.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+            @Override
+            public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
+                if (pos >= 0 && pos < categoryOptions.size()) {
+                    selectedCategory = categoryOptions.get(pos);
+                    updateFilterVisibility();
+                    applyFilters();
+                }
+            }
+
+            @Override
+            public void onNothingSelected(AdapterView<?> parent) {
+            }
+        });
+
         String[] quals = {"All", "LLB", "Graduation", "Post Graduation", "General"};
         ArrayAdapter<String> qualAdapter = new ArrayAdapter<>(
                 this, android.R.layout.simple_spinner_dropdown_item, quals);
@@ -229,37 +288,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void updateCategorySpinner() {
+        if (categoryAdapter == null) return;
+
         Set<String> cats = new LinkedHashSet<>(FIXED_CATEGORIES);
         for (FeedItem item : allItems) {
             if (item.category != null && !item.category.trim().isEmpty()) {
                 cats.add(item.category.trim());
             }
         }
-        List<String> catList = new ArrayList<>(cats);
-        ArrayAdapter<String> catAdapter = new ArrayAdapter<>(
-                this, android.R.layout.simple_spinner_dropdown_item, catList);
-        spinnerCategory.setAdapter(catAdapter);
 
-        int savedIndex = catList.indexOf(selectedCategory);
+        categoryOptions.clear();
+        categoryOptions.addAll(cats);
+        categoryAdapter.notifyDataSetChanged();
+
+        int savedIndex = categoryOptions.indexOf(selectedCategory);
         if (savedIndex >= 0) {
             spinnerCategory.setSelection(savedIndex, false);
         } else {
             selectedCategory = CAT_ALL;
             spinnerCategory.setSelection(0, false);
         }
-
-        spinnerCategory.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
-            @Override
-            public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
-                selectedCategory = catList.get(pos);
-                updateFilterVisibility();
-                applyFilters();
-            }
-
-            @Override
-            public void onNothingSelected(AdapterView<?> parent) {
-            }
-        });
     }
 
     private void setupList() {
@@ -271,8 +319,14 @@ public class MainActivity extends AppCompatActivity {
                 TextView t1 = view.findViewById(android.R.id.text1);
                 TextView t2 = view.findViewById(android.R.id.text2);
                 FeedItem item = visibleItems.get(position);
-                t1.setText(item.title);
-                String meta = item.category + " | " + item.source + " | " + item.date;
+
+                String safeTitle = (item.title == null || item.title.trim().isEmpty())
+                        ? "(No Title)" : item.title.trim();
+                t1.setText(safeTitle);
+
+                String safeCat = (item.category == null || item.category.trim().isEmpty())
+                        ? "General" : item.category.trim();
+                String meta = safeCat + " | " + item.source + " | " + item.date;
                 if (isCareerItem(item)) {
                     String qualText = item.qualifications.isEmpty()
                             ? "General" : String.join(", ", item.qualifications);
@@ -394,12 +448,12 @@ public class MainActivity extends AppCompatActivity {
     private void applyFilters() {
         visibleItems.clear();
         List<String> labels = new ArrayList<>();
-
         boolean applyCareerFilters = isCareerFilterApplicable();
 
         for (FeedItem item : allItems) {
+            String itemCat = item.category == null ? "" : item.category.trim();
             boolean catMatch = CAT_ALL.equals(selectedCategory)
-                    || selectedCategory.equalsIgnoreCase(item.category);
+                    || selectedCategory.equalsIgnoreCase(itemCat);
 
             boolean qualMatch = !applyCareerFilters
                     || "All".equals(selectedQualification)
@@ -413,13 +467,17 @@ public class MainActivity extends AppCompatActivity {
 
             if (catMatch && qualMatch && stateMatch) {
                 visibleItems.add(item);
-                labels.add(item.title);
+                String safeTitle = (item.title == null || item.title.trim().isEmpty())
+                        ? "(No Title)" : item.title.trim();
+                labels.add(safeTitle);
             }
         }
 
-        listAdapter.clear();
-        listAdapter.addAll(labels);
-        listAdapter.notifyDataSetChanged();
+        if (listAdapter != null) {
+            listAdapter.clear();
+            listAdapter.addAll(labels);
+            listAdapter.notifyDataSetChanged();
+        }
     }
 
     private void checkAndNotifyNewItems() {
@@ -493,22 +551,25 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-        private void scheduleBackgroundCheck() {
-        PeriodicWorkRequest workRequest = new PeriodicWorkRequest.Builder(
-                SyncWorker.class, 3, TimeUnit.HOURS
-        ).build();
+    private void scheduleBackgroundCheck() {
+        try {
+            PeriodicWorkRequest workRequest = new PeriodicWorkRequest.Builder(
+                    SyncWorker.class, 3, TimeUnit.HOURS
+            ).build();
 
-        WorkManager.getInstance(this).enqueueUniquePeriodicWork(
-                "SmartInfoSyncWork",
-                ExistingPeriodicWorkPolicy.KEEP,
-                workRequest
-        );
+            WorkManager.getInstance(this).enqueueUniquePeriodicWork(
+                    "SmartInfoSyncWork",
+                    ExistingPeriodicWorkPolicy.KEEP,
+                    workRequest
+            );
+        } catch (Exception ignored) {
+        }
     }
 
     private void writeCache(String content) {
         try {
             FileOutputStream fos = openFileOutput(CACHE_FILENAME, MODE_PRIVATE);
-            fos.write(content.getBytes("UTF-8"));
+            fos.write(content.getBytes(StandardCharsets.UTF_8));
             fos.close();
         } catch (Exception ignored) {
         }
