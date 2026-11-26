@@ -6,6 +6,7 @@ on:
     branches: [ "main" ]
     paths:
       - "app/**"
+      - "build.gradle"
       - "settings.gradle"
       - ".github/workflows/build_apk.yml"
 
@@ -23,7 +24,7 @@ jobs:
           java-version: '17'
 
       - name: Setup Gradle
-        uses: gradle/gradle-build-action@v3
+        uses: gradle/actions/setup-gradle@v4
 
       - name: Create Gradle wrapper if missing
         run: |
@@ -33,7 +34,7 @@ jobs:
           chmod +x gradlew
 
       - name: Build Debug APK
-        run: ./gradlew assembleDebug
+        run: ./gradlew assembleDebug --no-daemon
 
       - name: Upload APK Artifact
         uses: actions/upload-artifact@v4
