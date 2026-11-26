@@ -7,7 +7,7 @@ import urllib.request
 import feedparser
 
 DATA_FILE = "data.json"
-RETENTION_DAYS = 7
+RETENTION_DAYS = 30
 
 # Multi-layer sources across all 9 categories with targeted keyword filtering
 SOURCES = [
