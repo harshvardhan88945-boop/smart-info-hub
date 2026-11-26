@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
     public static final String CHANNEL_ID = "smart_info_channel";
     public static final String PREFS_NAME = "smart_info_prefs";
 
+    // Standard Clean Categories
     public static final String CAT_ALL = "All";
     public static final String CAT_CASE_LAW = "New Case Law and Recent Judgement";
     public static final String CAT_CURRENT_AFFAIRS = "Daily Current Affair";
@@ -121,6 +122,34 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    // Duplicate Categories Merge/Normalize Karne Ka Helper Method
+    private String normalizeCategory(String rawCat) {
+        if (rawCat == null || rawCat.trim().isEmpty()) return CAT_ALL;
+        String lower = rawCat.trim().toLowerCase(Locale.ROOT);
+
+        if (lower.contains("internship")) {
+            return CAT_INTERNSHIP;
+        } else if (lower.contains("case law") || lower.contains("judg")) {
+            return CAT_CASE_LAW;
+        } else if (lower.contains("current affair")) {
+            return CAT_CURRENT_AFFAIRS;
+        } else if (lower.contains("science") || lower.contains("archaeol") || lower.contains("research")) {
+            return CAT_SCIENCE_ARCHAEOLOGY;
+        } else if (lower.contains("parliament")) {
+            return CAT_PARLIAMENT;
+        } else if (lower.contains("up vidhan") || lower.contains("vidhan sabha") || lower.contains("parishad")) {
+            return CAT_UP_VIDHAN;
+        } else if (lower.contains("economics") || lower.contains("commerce")) {
+            return CAT_ECONOMICS_COMMERCE;
+        } else if (lower.contains("history")) {
+            return CAT_HISTORY;
+        } else if (lower.contains("job") || lower.contains("vacancy")) {
+            return CAT_JOB_VACANCY;
+        }
+
+        return rawCat.trim();
+    }
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -166,21 +195,6 @@ public class MainActivity extends AppCompatActivity {
         fetchRemoteData(false);
     }
 
-    public void openSearchForCurrentCategory() {
-        String query = selectedCategory;
-        if (CAT_ALL.equals(query) || query == null || query.trim().isEmpty()) {
-            query = "latest government job notification legal update india";
-        } else if (isCareerFilterApplicable()) {
-            if (!"All".equals(selectedState)) {
-                query += " " + selectedState;
-            }
-            if (!"All".equals(selectedQualification)) {
-                query += " " + selectedQualification;
-            }
-        }
-        openWebSearch(query);
-    }
-
     private void openSearchForItem(FeedItem item) {
         String q = (item.title != null && !item.title.trim().isEmpty())
                 ? item.title.trim()
@@ -194,7 +208,7 @@ public class MainActivity extends AppCompatActivity {
             Uri uri = Uri.parse("https://www.google.com/search?q=" + encoded);
             startActivity(new Intent(Intent.ACTION_VIEW, uri));
         } catch (Exception e) {
-            Toast.makeText(this, "Search open failed", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Search failed", Toast.LENGTH_SHORT).show();
         }
     }
 
@@ -290,15 +304,9 @@ public class MainActivity extends AppCompatActivity {
     private void updateCategorySpinner() {
         if (categoryAdapter == null) return;
 
-        Set<String> cats = new LinkedHashSet<>(FIXED_CATEGORIES);
-        for (FeedItem item : allItems) {
-            if (item.category != null && !item.category.trim().isEmpty()) {
-                cats.add(item.category.trim());
-            }
-        }
-
+        // Sirf FIXED_CATEGORIES hi dikheinge, duplicates dropdown mein nahi aayenge
         categoryOptions.clear();
-        categoryOptions.addAll(cats);
+        categoryOptions.addAll(FIXED_CATEGORIES);
         categoryAdapter.notifyDataSetChanged();
 
         int savedIndex = categoryOptions.indexOf(selectedCategory);
@@ -401,10 +409,11 @@ public class MainActivity extends AppCompatActivity {
                             quals.add(qArr.optString(q));
                         }
                     }
+                    String rawCat = obj.optString("category", CAT_JOB_VACANCY);
                     allItems.add(new FeedItem(
                             obj.optString("id", ""),
                             obj.optString("kind", "job"),
-                            obj.optString("category", CAT_JOB_VACANCY),
+                            normalizeCategory(rawCat),
                             obj.optString("title", ""),
                             obj.optString("source", ""),
                             obj.optString("url", ""),
@@ -418,10 +427,11 @@ public class MainActivity extends AppCompatActivity {
             if (articlesArr != null) {
                 for (int i = 0; i < articlesArr.length(); i++) {
                     JSONObject obj = articlesArr.getJSONObject(i);
+                    String rawCat = obj.optString("category", "Articles");
                     allItems.add(new FeedItem(
                             obj.optString("id", ""),
                             obj.optString("kind", "article"),
-                            obj.optString("category", "Articles"),
+                            normalizeCategory(rawCat),
                             obj.optString("title", ""),
                             obj.optString("source", ""),
                             obj.optString("url", ""),
