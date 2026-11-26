@@ -37,8 +37,10 @@ import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Locale;
 import java.util.Set;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
@@ -52,7 +54,31 @@ public class MainActivity extends AppCompatActivity {
     public static final String CHANNEL_ID = "smart_info_channel";
     public static final String PREFS_NAME = "smart_info_prefs";
 
-    private TextView tvStatus;
+    public static final String CAT_ALL = "All";
+    public static final String CAT_CASE_LAW = "New Case Law and Recent Judgement";
+    public static final String CAT_CURRENT_AFFAIRS = "Daily Current Affair";
+    public static final String CAT_JOB_VACANCY = "Job and Vacancy";
+    public static final String CAT_INTERNSHIP = "Internship";
+    public static final String CAT_HISTORY = "History Articles";
+    public static final String CAT_SCIENCE_ARCHAEOLOGY = "Science and New Research (Include Archaeology Research)";
+    public static final String CAT_PARLIAMENT = "Parliament Update and Activities";
+    public static final String CAT_UP_VIDHAN = "UP Vidhan Sabha, Vidhan Parishad News and Activities";
+    public static final String CAT_ECONOMICS_COMMERCE = "Economics and Commerce Article";
+
+    private static final List<String> FIXED_CATEGORIES = Arrays.asList(
+            CAT_ALL,
+            CAT_CASE_LAW,
+            CAT_CURRENT_AFFAIRS,
+            CAT_JOB_VACANCY,
+            CAT_INTERNSHIP,
+            CAT_HISTORY,
+            CAT_SCIENCE_ARCHAEOLOGY,
+            CAT_PARLIAMENT,
+            CAT_UP_VIDHAN,
+            CAT_ECONOMICS_COMMERCE
+    );
+
+    private TextView tvStatus, tvQualificationLabel, tvStateLabel;
     private Spinner spinnerCategory, spinnerQualification, spinnerState;
     private ListView listItems;
     private Button btnRefresh;
@@ -62,7 +88,7 @@ public class MainActivity extends AppCompatActivity {
     private final List<FeedItem> visibleItems = new ArrayList<>();
     private ArrayAdapter<String> listAdapter;
 
-    private String selectedCategory = "All";
+    private String selectedCategory = CAT_ALL;
     private String selectedQualification = "All";
     private String selectedState = "All";
 
@@ -103,9 +129,16 @@ public class MainActivity extends AppCompatActivity {
         listItems = findViewById(R.id.listItems);
         btnRefresh = findViewById(R.id.btnRefresh);
 
+        int qualLabelId = getResources().getIdentifier("tvQualification", "id", getPackageName());
+        int stateLabelId = getResources().getIdentifier("tvState", "id", getPackageName());
+        if (qualLabelId != 0) tvQualificationLabel = findViewById(qualLabelId);
+        if (stateLabelId != 0) tvStateLabel = findViewById(stateLabelId);
+
         createNotificationChannel();
         requestNotificationPermissionIfNeeded();
         setupSpinners();
+        updateCategorySpinner();
+        updateFilterVisibility();
         setupList();
         scheduleBackgroundCheck();
 
@@ -125,6 +158,38 @@ public class MainActivity extends AppCompatActivity {
         });
 
         fetchRemoteData(false);
+    }
+
+    private boolean isCareerFilterApplicable() {
+        return CAT_JOB_VACANCY.equals(selectedCategory) || CAT_INTERNSHIP.equals(selectedCategory);
+    }
+
+    private boolean isCareerItem(FeedItem item) {
+        String k = item.kind == null ? "" : item.kind.toLowerCase(Locale.ROOT);
+        return "job".equals(k) || "internship".equals(k)
+                || CAT_JOB_VACANCY.equalsIgnoreCase(item.category)
+                || CAT_INTERNSHIP.equalsIgnoreCase(item.category);
+    }
+
+    private void updateFilterVisibility() {
+        boolean showFilters = isCareerFilterApplicable();
+        int visibility = showFilters ? View.VISIBLE : View.GONE;
+
+        if (!showFilters) {
+            selectedQualification = "All";
+            selectedState = "All";
+            if (spinnerQualification != null && spinnerQualification.getCount() > 0) {
+                spinnerQualification.setSelection(0, false);
+            }
+            if (spinnerState != null && spinnerState.getCount() > 0) {
+                spinnerState.setSelection(0, false);
+            }
+        }
+
+        if (tvQualificationLabel != null) tvQualificationLabel.setVisibility(visibility);
+        if (spinnerQualification != null) spinnerQualification.setVisibility(visibility);
+        if (tvStateLabel != null) tvStateLabel.setVisibility(visibility);
+        if (spinnerState != null) spinnerState.setVisibility(visibility);
     }
 
     private void setupSpinners() {
@@ -164,12 +229,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void updateCategorySpinner() {
-        Set<String> cats = new LinkedHashSet<>();
-        cats.add("All");
-        cats.add("Jobs & Internships Only");
+        Set<String> cats = new LinkedHashSet<>(FIXED_CATEGORIES);
         for (FeedItem item : allItems) {
-            if (item.category != null && !item.category.isEmpty()) {
-                cats.add(item.category);
+            if (item.category != null && !item.category.trim().isEmpty()) {
+                cats.add(item.category.trim());
             }
         }
         List<String> catList = new ArrayList<>(cats);
@@ -177,10 +240,19 @@ public class MainActivity extends AppCompatActivity {
                 this, android.R.layout.simple_spinner_dropdown_item, catList);
         spinnerCategory.setAdapter(catAdapter);
 
+        int savedIndex = catList.indexOf(selectedCategory);
+        if (savedIndex >= 0) {
+            spinnerCategory.setSelection(savedIndex, false);
+        } else {
+            selectedCategory = CAT_ALL;
+            spinnerCategory.setSelection(0, false);
+        }
+
         spinnerCategory.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
             @Override
             public void onItemSelected(AdapterView<?> parent, View view, int pos, long id) {
                 selectedCategory = catList.get(pos);
+                updateFilterVisibility();
                 applyFilters();
             }
 
@@ -201,8 +273,10 @@ public class MainActivity extends AppCompatActivity {
                 FeedItem item = visibleItems.get(position);
                 t1.setText(item.title);
                 String meta = item.category + " | " + item.source + " | " + item.date;
-                if ("job".equals(item.kind)) {
-                    meta += " | Qual: " + String.join(", ", item.qualifications) + " | " + item.state;
+                if (isCareerItem(item)) {
+                    String qualText = item.qualifications.isEmpty()
+                            ? "General" : String.join(", ", item.qualifications);
+                    meta += " | Qual: " + qualText + " | " + item.state;
                 }
                 t2.setText(meta);
                 return view;
@@ -275,8 +349,8 @@ public class MainActivity extends AppCompatActivity {
                     }
                     allItems.add(new FeedItem(
                             obj.optString("id", ""),
-                            "job",
-                            obj.optString("category", "Jobs"),
+                            obj.optString("kind", "job"),
+                            obj.optString("category", CAT_JOB_VACANCY),
                             obj.optString("title", ""),
                             obj.optString("source", ""),
                             obj.optString("url", ""),
@@ -292,7 +366,7 @@ public class MainActivity extends AppCompatActivity {
                     JSONObject obj = articlesArr.getJSONObject(i);
                     allItems.add(new FeedItem(
                             obj.optString("id", ""),
-                            "article",
+                            obj.optString("kind", "article"),
                             obj.optString("category", "Articles"),
                             obj.optString("title", ""),
                             obj.optString("source", ""),
@@ -306,6 +380,7 @@ public class MainActivity extends AppCompatActivity {
 
             tvStatus.setText("Total Items: " + allItems.size() + " | Last Updated: " + lastUpdated);
             updateCategorySpinner();
+            updateFilterVisibility();
             applyFilters();
 
             if (notifyNewItems) {
@@ -320,18 +395,21 @@ public class MainActivity extends AppCompatActivity {
         visibleItems.clear();
         List<String> labels = new ArrayList<>();
 
-        for (FeedItem item : allItems) {
-            boolean catMatch = "All".equals(selectedCategory)
-                    || ("Jobs & Internships Only".equals(selectedCategory) && "job".equals(item.kind))
-                    || selectedCategory.equals(item.category);
+        boolean applyCareerFilters = isCareerFilterApplicable();
 
-            boolean qualMatch = "All".equals(selectedQualification)
-                    || !"job".equals(item.kind)
+        for (FeedItem item : allItems) {
+            boolean catMatch = CAT_ALL.equals(selectedCategory)
+                    || selectedCategory.equalsIgnoreCase(item.category);
+
+            boolean qualMatch = !applyCareerFilters
+                    || "All".equals(selectedQualification)
+                    || !isCareerItem(item)
                     || item.qualifications.contains(selectedQualification);
 
-            boolean stateMatch = "All".equals(selectedState)
-                    || !"job".equals(item.kind)
-                    || selectedState.equals(item.state);
+            boolean stateMatch = !applyCareerFilters
+                    || "All".equals(selectedState)
+                    || !isCareerItem(item)
+                    || selectedState.equalsIgnoreCase(item.state);
 
             if (catMatch && qualMatch && stateMatch) {
                 visibleItems.add(item);
@@ -423,35 +501,4 @@ public class MainActivity extends AppCompatActivity {
         WorkManager.getInstance(this).enqueueUniquePeriodicWork(
                 "SmartInfoSyncWork",
                 ExistingPeriodicWorkPolicy.KEEP,
-                workRequest
-        );
-    }
-
-    private void writeCache(String content) {
-        try {
-            FileOutputStream fos = openFileOutput(CACHE_FILENAME, MODE_PRIVATE);
-            fos.write(content.getBytes("UTF-8"));
-            fos.close();
-        } catch (Exception ignored) {
-        }
-    }
-
-    private String readCache() {
-        try {
-            File file = new File(getFilesDir(), CACHE_FILENAME);
-            if (!file.exists()) return "";
-            FileInputStream fis = openFileInput(CACHE_FILENAME);
-            BufferedReader br = new BufferedReader(new InputStreamReader(fis));
-            StringBuilder sb = new StringBuilder();
-            String line;
-            while ((line = br.readLine()) != null) {
-                sb.append(line);
-            }
-            br.close();
-            return sb.toString();
-        } catch (Exception e) {
-            return "";
-        }
-    }
-  }
-              
+                
