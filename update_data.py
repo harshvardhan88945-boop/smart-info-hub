@@ -9,6 +9,7 @@ import feedparser
 DATA_FILE = "data.json"
 RETENTION_DAYS = 7
 
+# Multi-layer sources across all 9 categories with targeted keyword filtering
 SOURCES = [
     # 1. New Case Law and Recent Judgement
     {
@@ -118,6 +119,7 @@ SOURCES = [
             "bharti",
             "admit card",
             "result",
+            "notification",
         ],
         "fallback_all": False,
     },
@@ -127,15 +129,30 @@ SOURCES = [
         "kind": "job",
         "source": "Lawctopus Internships",
         "url": "https://lawctopus.com/feed",
-        "keywords": ["internship", "intern", "trainee", "stipend", "fellowship"],
-        "fallback_all": True,
+        "keywords": [
+            "internship",
+            "intern",
+            "interns",
+            "trainee",
+            "stipend",
+            "fellowship",
+            "clerkship",
+        ],
+        "fallback_all": False,
     },
     {
         "category": "Internship",
         "kind": "job",
         "source": "iPleaders Internships",
         "url": "https://blog.ipleaders.in/feed",
-        "keywords": ["internship", "intern", "opportunity", "clerkship"],
+        "keywords": [
+            "internship",
+            "intern",
+            "interns",
+            "trainee",
+            "fellowship",
+            "clerkship",
+        ],
         "fallback_all": False,
     },
     # 5. History Articles
@@ -159,21 +176,23 @@ SOURCES = [
     {
         "category": "Science and New Research (Include Archaeology Research)",
         "kind": "article",
-        "source": "ScienceDaily Top Science",
+        "source": "ScienceDaily Archaeology & Research",
         "url": "https://www.sciencedaily.com/rss/top/science.xml",
         "keywords": [
             "archaeology",
+            "archaeological",
             "ancient",
             "excavation",
             "fossil",
-            "research",
-            "study",
-            "discovery",
-            "science",
+            "fossils",
+            "ruins",
+            "artifact",
+            "heritage",
+            "anthropology",
         ],
         "fallback_all": False,
     },
-    # 7. Parliament Update and Activities
+    # 7. Parliament Update and Activities (Strict keyword match)
     {
         "category": "Parliament Update and Activities",
         "kind": "article",
@@ -181,24 +200,52 @@ SOURCES = [
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
         "keywords": [
             "parliament",
+            "parliamentary",
             "lok sabha",
             "rajya sabha",
             "bill",
+            "bills",
             "act",
             "session",
             "mp",
+            "mps",
+            "speaker",
+            "chairman",
+            "constitution",
+            "adhiniyam",
+            "sanhita",
+            "motion",
+            "privilege",
+        ],
+        "fallback_all": False,
+    },
+    {
+        "category": "Parliament Update and Activities",
+        "kind": "article",
+        "source": "Indian Express Parliament",
+        "url": "https://indianexpress.com/section/india/feed/",
+        "keywords": [
+            "parliament",
+            "parliamentary",
+            "lok sabha",
+            "rajya sabha",
+            "bill",
+            "bills",
+            "session",
+            "mp",
+            "mps",
             "speaker",
             "constitution",
             "adhiniyam",
             "sanhita",
         ],
-        "fallback_all": True,
+        "fallback_all": False,
     },
-    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities
+    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities (Strict keyword match)
     {
         "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
         "kind": "article",
-        "source": "UP & Assembly Updates",
+        "source": "The Hindu UP & Legislature",
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
         "keywords": [
             "uttar pradesh",
@@ -206,15 +253,40 @@ SOURCES = [
             "lucknow",
             "vidhan sabha",
             "vidhan parishad",
-            "assembly",
-            "legislative",
+            "legislative assembly",
+            "legislative council",
             "allahabad",
             "prayagraj",
-            "yogi",
             "high court",
             "uppsc",
+            "upsssc",
+            "yogi",
+            "adityanath",
         ],
-        "fallback_all": True,
+        "fallback_all": False,
+    },
+    {
+        "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
+        "kind": "article",
+        "source": "Indian Express UP & Legislature",
+        "url": "https://indianexpress.com/section/india/feed/",
+        "keywords": [
+            "uttar pradesh",
+            "up ",
+            "lucknow",
+            "vidhan sabha",
+            "vidhan parishad",
+            "legislative assembly",
+            "legislative council",
+            "allahabad",
+            "prayagraj",
+            "high court",
+            "uppsc",
+            "upsssc",
+            "yogi",
+            "adityanath",
+        ],
+        "fallback_all": False,
     },
     # 9. Economics and Commerce Article
     {
@@ -238,17 +310,20 @@ SOURCES = [
 QUALIFICATION_RULES = {
     "LLB": [
         "llb",
+        "ll.b",
         "law",
         "judicial",
         "pcs-j",
         "pcs j",
         "apo",
         "prosecution",
+        "prosecutor",
         "legal",
         "advocate",
         "court",
         "bar council",
         "judiciary",
+        "civil judge",
     ],
     "Graduation": [
         "graduate",
@@ -260,16 +335,22 @@ QUALIFICATION_RULES = {
         "b.com",
         "bcom",
         "b.tech",
+        "b.e",
         "degree",
         "bachelor",
+        "any graduate",
     ],
     "Post Graduation": [
         "llm",
+        "ll.m",
         "m.a",
         "ma",
         "m.sc",
         "msc",
+        "m.com",
+        "mcom",
         "post graduate",
+        "post-graduate",
         "pg",
         "master",
         "phd",
@@ -289,6 +370,7 @@ STATE_RULES = {
         "vidhan parishad",
         "upsssc",
         "up police",
+        "uphc",
         "bharti",
     ],
     "All India": [
@@ -302,6 +384,8 @@ STATE_RULES = {
         "sarkari",
         "ibps",
         "rbi",
+        "nda",
+        "cds",
     ],
 }
 
@@ -439,7 +523,7 @@ def collect_entries_for_source(src: dict) -> list[tuple[str, str, str]]:
   matched = []
   all_valid = []
 
-  for entry in entries[:30]:
+  for entry in entries[:35]:
     title = (entry.get("title") or "").strip()
     link = (entry.get("link") or "").strip()
     summary = (entry.get("summary") or "").strip()[:300]
@@ -532,4 +616,4 @@ def run_update():
 
 if __name__ == "__main__":
   run_update()
-          
+      
