@@ -9,48 +9,48 @@ RETENTION_DAYS = 7
 
 # Sources mapped to categories (jobs/internships go into "jobs", rest into "articles")
 SOURCES = [
-    # 1. New Case Law & Judgments
+    # 1. New Case Law and Recent Judgement
     {
-        "category": "New Case Law & Judgments",
+        "category": "New Case Law and Recent Judgement",
         "kind": "article",
         "source": "LiveLaw",
         "url": "https://www.livelaw.in/google_feeds.xml",
     },
     {
-        "category": "New Case Law & Judgments",
+        "category": "New Case Law and Recent Judgement",
         "kind": "article",
         "source": "Bar & Bench",
         "url": "https://www.barandbench.com/rss",
     },
-    # 2. Daily Current Affairs
+    # 2. Daily Current Affair
     {
-        "category": "Daily Current Affairs",
+        "category": "Daily Current Affair",
         "kind": "article",
         "source": "PIB National",
         "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
     },
     {
-        "category": "Daily Current Affairs",
+        "category": "Daily Current Affair",
         "kind": "article",
         "source": "The Hindu National",
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
     },
-    # 3. Jobs & Vacancies
+    # 3. Job and Vacancy
     {
-        "category": "Jobs & Vacancies",
+        "category": "Job and Vacancy",
         "kind": "job",
         "source": "FreeJobAlert",
         "url": "https://www.freejobalert.com/feed/",
     },
-    # 4. Internships
+    # 4. Internship
     {
-        "category": "Internships",
+        "category": "Internship",
         "kind": "job",
         "source": "Lawctopus",
         "url": "https://lawctopus.com/feed",
     },
     {
-        "category": "Internships",
+        "category": "Internship",
         "kind": "job",
         "source": "iPleaders",
         "url": "https://blog.ipleaders.in/feed",
@@ -62,40 +62,33 @@ SOURCES = [
         "source": "Live History India",
         "url": "https://www.livehistoryindia.com/feed",
     },
-    # 6. Science & Archaeology Research
+    # 6. Science and New Research (Include Archaeology Research)
     {
-        "category": "Science & Archaeology Research",
+        "category": "Science and New Research (Include Archaeology Research)",
         "kind": "article",
         "source": "ScienceDaily Archaeology",
         "url": "https://www.sciencedaily.com/rss/fossils_ruins.xml",
     },
-    # 7. Parliament Activities
+    # 7. Parliament Update and Activities
     {
-        "category": "Parliament Activities",
+        "category": "Parliament Update and Activities",
         "kind": "article",
         "source": "PRS Legislative",
         "url": "https://prsindia.org/feed",
     },
-    # 8. UP Vidhan Sabha & Parishad
+    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities
     {
-        "category": "UP Vidhan Sabha & Parishad",
+        "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
         "kind": "article",
         "source": "PIB Lucknow",
         "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
     },
-    # 9. Economics & Commerce
+    # 9. Economics and Commerce Article
     {
-        "category": "Economics & Commerce",
+        "category": "Economics and Commerce Article",
         "kind": "article",
         "source": "RBI",
         "url": "https://rbi.org.in/rssfeed.xml",
-    },
-    # 10. Crimes & Police Related Articles
-    {
-        "category": "Crimes & Police Related Articles",
-        "kind": "article",
-        "source": "PIB Home/Police",
-        "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
     },
 ]
 
@@ -180,9 +173,7 @@ def load_existing_data() -> dict:
 
 
 def remove_old_items(items: list[dict], cutoff_date_str: str) -> list[dict]:
-  return [
-      item for item in items if item.get("date", "") >= cutoff_date_str
-  ]
+  return [item for item in items if item.get("date", "") >= cutoff_date_str]
 
 
 def run_update():
