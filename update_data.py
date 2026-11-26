@@ -7,7 +7,7 @@ import feedparser
 DATA_FILE = "data.json"
 RETENTION_DAYS = 7
 
-# Sources mapped to categories (jobs/internships go into "jobs", rest into "articles")
+# Reliable RSS sources mapped to the 9 categories
 SOURCES = [
     # 1. New Case Law and Recent Judgement
     {
@@ -15,25 +15,15 @@ SOURCES = [
         "kind": "article",
         "source": "LiveLaw",
         "url": "https://www.livelaw.in/google_feeds.xml",
-    },
-    {
-        "category": "New Case Law and Recent Judgement",
-        "kind": "article",
-        "source": "Bar & Bench",
-        "url": "https://www.barandbench.com/rss",
+        "keywords": [],
     },
     # 2. Daily Current Affair
     {
         "category": "Daily Current Affair",
         "kind": "article",
-        "source": "PIB National",
-        "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1",
-    },
-    {
-        "category": "Daily Current Affair",
-        "kind": "article",
         "source": "The Hindu National",
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "keywords": [],
     },
     # 3. Job and Vacancy
     {
@@ -41,6 +31,7 @@ SOURCES = [
         "kind": "job",
         "source": "FreeJobAlert",
         "url": "https://www.freejobalert.com/feed/",
+        "keywords": [],
     },
     # 4. Internship
     {
@@ -48,12 +39,14 @@ SOURCES = [
         "kind": "job",
         "source": "Lawctopus",
         "url": "https://lawctopus.com/feed",
+        "keywords": [],
     },
     {
         "category": "Internship",
         "kind": "job",
         "source": "iPleaders",
         "url": "https://blog.ipleaders.in/feed",
+        "keywords": [],
     },
     # 5. History Articles
     {
@@ -61,6 +54,7 @@ SOURCES = [
         "kind": "article",
         "source": "Live History India",
         "url": "https://www.livehistoryindia.com/feed",
+        "keywords": [],
     },
     # 6. Science and New Research (Include Archaeology Research)
     {
@@ -68,27 +62,53 @@ SOURCES = [
         "kind": "article",
         "source": "ScienceDaily Archaeology",
         "url": "https://www.sciencedaily.com/rss/fossils_ruins.xml",
+        "keywords": [],
     },
-    # 7. Parliament Update and Activities
+    # 7. Parliament Update and Activities (The Hindu National + LiveLaw filtered for Parliament, with fallback)
     {
         "category": "Parliament Update and Activities",
         "kind": "article",
-        "source": "PRS Legislative",
-        "url": "https://prsindia.org/feed",
+        "source": "The Hindu Parliament",
+        "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "keywords": [
+            "parliament",
+            "lok sabha",
+            "rajya sabha",
+            "bill",
+            "act",
+            "session",
+            "mp",
+            "speaker",
+            "constitution",
+        ],
+        "fallback_all": True,
     },
-    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities
+    # 8. UP Vidhan Sabha, Vidhan Parishad News and Activities (The Hindu National + LiveLaw filtered for UP/Assembly, with fallback)
     {
         "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
         "kind": "article",
-        "source": "PIB Lucknow",
-        "url": "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3",
+        "source": "UP & Assembly Updates",
+        "url": "https://www.thehindu.com/news/national/feeder/default.rss",
+        "keywords": [
+            "uttar pradesh",
+            "up ",
+            "lucknow",
+            "vidhan sabha",
+            "vidhan parishad",
+            "assembly",
+            "allahabad",
+            "yogi",
+            "high court",
+        ],
+        "fallback_all": True,
     },
     # 9. Economics and Commerce Article
     {
         "category": "Economics and Commerce Article",
         "kind": "article",
-        "source": "RBI",
-        "url": "https://rbi.org.in/rssfeed.xml",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/feeder/default.rss",
+        "keywords": [],
     },
 ]
 
@@ -142,8 +162,8 @@ STATE_RULES = {
 }
 
 
-def make_id(url: str, title: str) -> str:
-  raw = f"{url.strip()}|{title.strip()}".encode("utf-8")
+def make_id(category: str, url: str, title: str) -> str:
+  raw = f"{category.strip()}|{url.strip()}|{title.strip()}".encode("utf-8")
   return hashlib.md5(raw).hexdigest()[:12]
 
 
@@ -168,12 +188,52 @@ def detect_state(text: str) -> str:
 def load_existing_data() -> dict:
   if not os.path.exists(DATA_FILE):
     return {"last_updated": "", "articles": [], "jobs": []}
-  with open(DATA_FILE, "r", encoding="utf-8") as f:
-    return json.load(f)
+  try:
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+      loaded = json.load(f)
+      if isinstance(loaded, dict):
+        return loaded
+  except Exception:
+    pass
+  return {"last_updated": "", "articles": [], "jobs": []}
 
 
 def remove_old_items(items: list[dict], cutoff_date_str: str) -> list[dict]:
   return [item for item in items if item.get("date", "") >= cutoff_date_str]
+
+
+def collect_entries_for_source(src: dict) -> list[tuple[str, str, str]]:
+  parsed = feedparser.parse(src["url"])
+  entries = getattr(parsed, "entries", []) or []
+  keywords = [k.lower() for k in src.get("keywords", [])]
+  fallback_all = bool(src.get("fallback_all", False))
+
+  matched = []
+  all_valid = []
+
+  for entry in entries[:25]:
+    title = (entry.get("title") or "").strip()
+    link = (entry.get("link") or "").strip()
+    summary = (entry.get("summary") or "").strip()[:300]
+    if not title or not link:
+      continue
+
+    all_valid.append((title, link, summary))
+    if not keywords:
+      matched.append((title, link, summary))
+    else:
+      haystack = f"{title} {summary}".lower()
+      if any(kw in haystack for kw in keywords):
+        matched.append((title, link, summary))
+
+  if keywords:
+    if matched:
+      return matched[:10]
+    if fallback_all:
+      return all_valid[:10]
+    return []
+
+  return matched[:10]
 
 
 def run_update():
@@ -181,23 +241,19 @@ def run_update():
   cutoff_str = (today - timedelta(days=RETENTION_DAYS)).isoformat()
   today_str = today.isoformat()
 
-  data = load_existing_data()
-  articles = remove_old_items(data.get("articles", []), cutoff_str)
-  jobs = remove_old_items(data.get("jobs", []), cutoff_str)
+  existing = load_existing_data()
+  articles = remove_old_items(existing.get("articles", []), cutoff_str)
+  jobs = remove_old_items(existing.get("jobs", []), cutoff_str)
 
-  seen_article_ids = {item["id"] for item in articles if "id" in item}
-  seen_job_ids = {item["id"] for item in jobs if "id" in item}
+  seen_article_ids = {item.get("id") for item in articles if item.get("id")}
+  seen_job_ids = {item.get("id") for item in jobs if item.get("id")}
 
   for src in SOURCES:
-    parsed = feedparser.parse(src["url"])
-    for entry in parsed.entries[:10]:
-      title = (entry.get("title") or "").strip()
-      link = (entry.get("link") or "").strip()
-      summary = (entry.get("summary") or "").strip()[:300]
-      if not title or not link:
-        continue
+    chosen = collect_entries_for_source(src)
+    print(f"[{src['category']}] ({src['source']}) -> {len(chosen)} entries")
 
-      item_id = make_id(link, title)
+    for title, link, summary in chosen:
+      item_id = make_id(src["category"], link, title)
       combined_text = f"{title} {summary} {src['category']}"
 
       if src["kind"] == "job":
@@ -244,3 +300,4 @@ def run_update():
 
 if __name__ == "__main__":
   run_update()
+    
