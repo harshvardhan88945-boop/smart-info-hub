@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T18:09:09.873576+00:00",
+  "last_updated": "2026-11-26T18:48:49.165111+00:00",
   "jobs": [
     {
       "id": "job_5",
@@ -1732,6 +1732,812 @@
       "date": "2026-11-26",
       "qualifications": [
         "LLB"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_816",
+      "kind": "internship",
+      "category": "Internship",
+      "title": "India’s Supreme Court takes action on child internet harms - ICLG",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWUNQc0pMeDh4VThyb3U4NFlTM3h1dHY3cmZjUkMxb1Y4N0NFdUQwWHQ1Rlg2Zm9RbmtsMEVmLUhuX1plekRjUnk2SUtUd1pDVTBaMUo2bUN4NEtrMWxiYUR3ZGw3TlNKbXY5alN6dmRnZ1laYThRYWJCdUdfZWgwZldUX0U0T2s?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_830",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "From Bangkok job promise to Myanmar cyber slavery: I4C warns against rampant social media recruitment scams - ANI News",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZXdUUlpCaGNzX1F4ckR0cE9qRmZSQUNxbDFlNzExcFBEcmlkQ0VMTU1rZVdrb3p5Y0lIUzhNRjlkRW03eXdkS2tiTWRKVThvZzJvZVBMLVdhQmxmdkVnOVZlZTkwNUJDd3RhRnhZSVJfRmp3T2FkWXRLcnQyb2FPdWJuc3I2d0N0MTdVMUhVbGNkakpGc0doekNZM3R2cngydFFRS2VwYlozSjdSbVBJd1VSaTZJT195RnFvQk9TbmpyOTdwZEZNWmR4UWJrRTRjVHAwcVVQU0lnYW1pT3hEMjhuc2x4d0k1VV8tblVXWVJOVGJKVFZmbDNHYk1XRE0?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_831",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Ex Tamil Nadu minister KN Nehru's close aide arrested in Rs 634-cr recruitment scam - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQNGptT0VONTlBaUlucERma25MM3RVNGRqbFAwc3RxTHZSeTlzWVhzMnFuWTlSUk84YTlERnJydWZBRG5lZU5lWG8yeFpyVXVoR24yX3dGX1dSYnhWaDR3bnptTEV5V011bllHR2d3cnU0cFdqRmtEOEREMWlMcV9LN0FMYlBDOE9UUkxrMWR3Q2pNR295aGJmWjdFSllMYVBZZTVueUZLUmxFQzhNRllEWTZETFI0ZXd3NkgtUDdOOGRZTmd6aHFHeVlwTjB5V3pseGZNUlFpNDBPSDZJWHRsQnZCT1VTc1hfbnpHVW1zWWN0bXhwelZMZ3Q1VEZPWWFjZUowZE5PTGE4OThGQ1Z3M2ppYWhsRFVyV1YzeEExSlBQV1dwcWNpctIBrgJBVV95cUxQR04xRkJMRVV5TEdNd1cxN3VhOW5PcTBySTZoUnNYWHhBMUwteGpPbGx1V0ZRMVZnVjRWNW14dXo2YnRmZ1FTN05JeXdmNXhQcDk1NHVhLUk5VlVCVEFnd3U3czhIMXpwQ1BMWExLdkw2cVZ2Qk12TWNCWktEMTVxMzFiaGNjVGJTTFBhTkxGTkpQZkFiakd4TEJ0MW55LWYtcjZaeTVGY1RVRm9TNkFDcjM4em5HTXo1TWcwRjJsdEJBY0lhRFIxM25ER2RvODdUalRhLVR2XzR2aTk2aHhBVE9ORlphRWlRaDcyRU9VaVk5X2hldXpEb1J5VmlXNS1uZl8zV3c3OV9paVB5RUZQd244aVBwT3poYUlwNXFrcGUtaGZyYzJOLVhZZlp0Zw?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_832",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Mizoram students protest recruitment errors - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcXdyQnlhd2h3ZTBDRW81SlZYY212U3FhWUFBcmtnOHRBOW1FcGJTYkRRWHVRSWpDMlZlN2Z6eWV3WWpzNlh6ZG5saUFmakxucWo4b1NOb1hpZk9wN3huWUxiTUN6SVoyUWhrRUdoWGpnZi1kdTNpWldPeVVERk5JWlVFMFBvUmhXR2J3b1RjbkRRS2hZa0hfZE9hMkxOZVpLYVVHdVphcGY2NWoyOXVIZG91ZEViSVFNRjlB0gHAAUFVX3lxTE01OTNtS2JpMFNmcXFhRkdHeGRTSm1PSEZZRlhvVll6WjdMVVdjbVQ0ZncxdHBVNWFfRVdKY1VzMTZTcXZqbDdmc0xqWkNpZkdXdE5qVXJsdlcybGM2UVMtOGpyVkN1bXNfaVNlTkI4VjB2M2MwWmlLWWNmWDM0LUdYbHJOWVBIU29lWU5TazFNam9ndG9zdFdYWWVUWm10QnVhUExUdld4Q0JiVVRpY1FDWTBVaHdWWUtRWFlZM2RJNg?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_833",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "AIIMS Madurai Senior Resident (Non-Academic) Recruitment 2026 - 46 Posts - www.rojgarpulse.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wbDlsdlp0MGNoSDhpRlVHQ1hWT21aSVd1V0dlVEEwa2s3WFVISTB5eUJZWFdtNXU4bGpsQnpQYXAybGc4WFhPMVBBTURsOFdLZ3NhRnd6SV9KbEREaDA3dkplVGRjTkkxQmdjX3ZmTF9QMENmb0M5SFN3?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_834",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "NLC India Executive Recruitment 2026: Notification out for 145 posts, apply here - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQcnY4UHo5Z3Iwc0lEX1R2bC1zYXNwRklIWk90SmJIWnVVSnhZaV9uZkNBc1VOWEZRbWFQSDMyVXlVOWkwbTZteHdfRk9sblBIenhjeXJvUnJjNE5BTjdiVmJfU0ZGS1RhOXBMSGtndm9rdlBmYXUyNWM5U2NBMzBJLXYtNHdROEotNXpwZWc4QUtDVTZhMzRENGZkV2JxdUdpQTIxSDlLMlBfNjFibFVtaUswaXlMUVFZbkZMYzVpWm9HVDBldlRWWXlUdXhEU2V3ZTloaGM1QXBON29RRXRtVFAwSzFkLVlsSGFDc1NfYXFVZ3QyRmt4cDgzcXJJUdIBgwJBVV95cUxNd2czX0E1MHQzNzI2cXFGTWY3QUVhM3A1WlZxSl82d0hneU91TFdiVmtCUjcxb3FXSmpKbkIxRFJrWldZRVBYMUMtUnJ3emlDMHhfQTAzLTFndzM3LTJmdi0tOTNZQzdEUnU2LVg4Q3NYQVlweTUxc1VRWGtBRS1FV3FvRmxzTjl3bTdpXzFxS2JGSE4xQjVZTU9ZYW5nVVRreVI2ejRCTjBtajA0NjB3M3FIS3VhZWRuOHpBSmQydFdUM0ZuVkZmM3pjU0J0dlBEOEo2QmJsR2FCMkxrLWZpcFF2c3hMVWlPZV9PSjRaWlowRksydDFNWUNpUXR1Tm8xV1Nn?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_835",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Maharashtra Panel Proposes Key Recruitment Exam Reforms; Recommends Strict Penalties for Paper Leaks - Telegraph India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcmVncXFEc3daMTd0SjVBdDFsTlVha2ZsbGtlYVZvRkNFRDFMUlhCR0cxcjhlZXNTcURaaUNNbXdFWndtUEhjS2RWaGJSRUlGVW1rQUt4OFluV3Nod1I1cWxVYTZsbWJiY3RDbkJRTkNaaXFCX2VscnNiUURaVTltYkFsYWlzXzJsRWNXUUdhTDJPZWZ1M2dlRGN6ZGNjV0pnTXlueG5UYlFYcDIwSVNVOXNzN0NFSW8xdGVNMEktUm0tcFJhN0RBbG9fS3dtcnpTREg3ZFItTdIB1wFBVV95cUxOcmVncXFEc3daMTd0SjVBdDFsTlVha2ZsbGtlYVZvRkNFRDFMUlhCR0cxcjhlZXNTcURaaUNNbXdFWndtUEhjS2RWaGJSRUlGVW1rQUt4OFluV3Nod1I1cWxVYTZsbWJiY3RDbkJRTkNaaXFCX2VscnNiUURaVTltYkFsYWlzXzJsRWNXUUdhTDJPZWZ1M2dlRGN6ZGNjV0pnTXlueG5UYlFYcDIwSVNVOXNzN0NFSW8xdGVNMEktUm0tcFJhN0RBbG9fS3dtcnpTREg3ZFItTQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_836",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "SIDBI Recruitment 2026 Notification Out for Grade A, B; Applications Begin, Check Eligibility - Telegraph India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVXYwVnI1UUhFWDFrTTZuR3VHT3VFdzFQOVR3c1VaYTEyNHhOTUViZ0Vsb1ZISFFjT1F3SDFKMEVQVTdrb1dZQWh1VF8zVENlenRNdW56am82VG1FQllOaEh2NjdCTjJGM3R2RlVSRElCQ2FOeFF1eHZZVGpMVDFiTVhxVWw0RUpLS1NEOHNJdjROb2NaRkFmbGNfcG1EYjBibVVkYTh2UUJIZTdQNUd1OF94aktJeHpEaFR5Q3A2OGh3U1JUWHdTQjRNaFF0NzRMOEJrcmE4b1R2ZldCUUk4Q9IB5gFBVV95cUxPRWVVWjhUTzVnVVlhaG80cGxUbW9wM2gwa2Q3VkNBXzJHLWFVNXhWV3hSb3pleXJWSGNqVTFzNGJSS0JjSWNSdVB6UFFENXV0RW50LTN3dUlxQnRJN0RBanZLWDZ3Qklyb2wwZTJ0WFBDMkZQSm1hY1BZM2k1X0FqVTZYLXdwaDYzeG4ycVdUU1Q4bWkyVjZscHFUeWw0X0JJNmtWTWZ3NlN2dWlqT1M5YjAxc2twZzR3Q21MT25vMnBpdzR1VWtiRG5BMFFCTFIzYmcweF9DbHB2VTRIVHlqeXExS2xGUQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_837",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Post MMS Kolkata Skilled Artisans Recruitment 2026 - 19 Posts (MV Mechanic, Electrician, Tyreman) | Apply by 30 Nov – Apply Online - www.rojgarpulse.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOclZwR2VSLXg1Y2E3eGhLdWc0Z0phVVUtclJDODFZU3lwdUFzUHhoU1ZJalRBLUQ0clFBNWRLOEJMcm5ZTWFkRnNEN0xoY0hjYkF6aUlyMXlQWHdraHI4bDJrSHkwR0loemc4aHVYQTBCTWxzMkhFVkRZcGd2aHlRRmRn?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_838",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "AAP Government Faces Fire After Court Halts Punjab Civil Services Recruitment - NDTV",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWTRCNVlYQnNham9IenItekJxc0xHWnRuMkg1Nm15enZqWXpiOHhPYUVoNFIwcHFJNHptQTVJdXJzSXZ2WktkMkJrQ3VvdmFscGZGdjZQQVVFX0ZPMkdwRkdnUGEtOGxnR3h6S1A5bmZSb2ZiZlR1MXJ2ck8wOWlqT3RHa1l6WUQ5YTlLUUoxak9FMHhKR1FhbDNPN1hSLTVoT1c3eWF2UnF3cHdPSmdnam5IQTlNOXl0N2fSAcIBQVVfeXFMT282eFFxVDR6cHVIRm9XRTJ5bkF5T3Q5UzE3VlZ0djE5eUFKd3Ixd2NEZ2NfNE5sMGxSQ0s3Y0NlR0t1VTdjb1pIeS1YeXAwVEdGM2d1ZUhLNmM0aF9oYVJ1V09wQ1NJQmtTUkJBX0ZaN3R5TVBtR2xmbGF6RlNuYUJ5ZWVNQkY5Z21QMHBxVjZwLVU3XzhtYlZaNmlfM3JhS29teVYyb05BTzhFdDYyUERFazIxZW53aUI0ZENjRExSVGc?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_839",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "HR must prepare for AI-powered impersonation & recruitment fraud: Truecaller’s India Head HR shares how - People Matters - HR News",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNOGpQV1lDQ2NIc05wdkw0cHhrbnE2QWxrb1R1amhPa1ZjUUd0ZlVxbm9ndUd3U3JLazdCWHM2X0Y2MDBlMlF0YnpfNy1Zdm1UMW1DbXRHNk5vVk5zSHR0clBCX1hXM0t1UzY0LWs1VUszeGVKSjR3ellUdVFaZTNXcnIzeFdyOHJHQndVNFo2aGFkNnRMbExkZGdZcWZTVGNpMDBFTUNvOUFYZGlLZVd2d05DOVlEbENJZXlwR3M0TGJMZWhqak43OW5XS085TzNtc0I0b2dQY3BfZG1FLUdkOEhGU1pQbU84R1Z2eWluTG5kX0E?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_840",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Recruitment in abundance, no room for favouritism and loot - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQODFadW12S2hjT0cydkxXNmZmSUhrdTFoSS1aa1cyN2hGc2M3MHdra0JhTmFDUU9ZTzg2dzBQeWY4RFZYSjNtRTlTWDJXVGZKZ0ZQMUR5NWhiMzZCeEctdTNFclFpdEp0Z1AyWjByNDl4TEotLTdvRk5LTF95YkRDY3VfOFNWWThzMVVRTWduMi1PMTNQWm5jV3Bfa09LVk9mcEo2a043MWJLamNwelItb1NIS2tsZVFJUkRjSm5hOHliNWR3N0VMU9IBzgFBVV95cUxQTHNUbXh5UFNFNXlhbFpJbVgtaDBkd3l2QUE1YXpEdnVROFZKUDBzLUdKZzQ4d2dXSWw4TEE1a2cwYkM0dF83ZzVIekZubG1GYXpGV3NUR3J2SUpISWpLZnVBR2hVMzN4ZlRhTnh4aklyQk12aVp1aUFYcHNRUkNQNENaQjRXUEU3QW16UWNhSU5aY2VMMUZyXzU5a3ktRGwwdU94RHF3bjR4OUhqSkRQeVJYdm9BSks2aWtScmo1T2h5ejg1VUpJX2xZd0NqZw?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_841",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "After exam paper leak row, Railways tighten recruitment safeguards - Business Standard",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVWs5eTM0U3VJMjhSV21FRGtXTDBmel8zSWo3UUo4ZFVuQzlmVUQ3VFFOYU5TNDYzWE55UWJkQ0tlU0ZxQXIzOXdqMjhNUFIxMjc4SmVlRGk4SDVHT2tFbHlEVDNTTnBSUU1qRHV4NGVVLVZHLUpyWVM4dHhyTW5tZ3hKcV9PMkFNMnoxdVlaNUdfdHgxa0hkR293UVpBOWJsaXg5QXl6RWVqN2llMHBmbFNmdnBCQ0QyN3hBMGhnZDZMbUZya1NJN2lZbWxRYThp0gHWAUFVX3lxTFB5OGlKQ3J2eEZlVnpJQVM2TjRvcFlEQ2dna20yWmd3OTV0U3RjNG1iSWZWclFIWW1lNTI2c1FtamgyYXhmZ1pDRzZweUU2ZUxaT0hGaFhTTkZMRmh0YmhWRFp5MkxiY21YTDR0TDUtTmUyYlFxSUN1QmdpT0FfaXljTEZ5N3AtS0hCRnBWd3hfOXJqXzJPX1ZsUDNNdUM2aGNEWDZEXy1MNHVZTUx6aU5LR2JqeHlHQXMwcjdtQjVCUGMxa3FpVTRlYkJiaGhhalA0TS1kdXc?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_842",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Agnipath at a crossroads: Does the six-year extension address the scheme’s fundamental challenges? - ET Government",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZkZWbzR3RjE0NV9kZDBRdmlwdGxBdzZEQS1HZG40Ul9nWlFvQkJHczM0dmw4d3RCRWlORTlsWVFxdVVTSjZybmhsN2hnUDVTR1NlTnJjOTJhV2l0eV91eHZkdnZrWnVBOWtOUTk1b3d5a2l6TFowUWFaOERDUTZiZDRtV3F4UlZHdGNNTUFEX3RkM181QXFaMlM3S291MzUxVDFqTFh6ckg0Zmp2TDdrRkRNRnNZNDBQLXJNVWpULXNoMDAyUjFwRkhjMFdad2xvQXJsWldFeGlZR29hamZIaTk5UU9uOHBEbUpZQUw0blgzeGVKbXNOWdIB_gFBVV95cUxQWXVhTHV0ekJrQ0JEbUZ1M3hqZGtLQUNhNFhpdEl5VTZTT0VSaURzLW9XT2lOS2NoN1BNWjZiNGpHTzAzUjZUZ1lrSS1RQUF1RUlWNzVqMXhlRGVGV1dDdm16SUpjSGhYejU2cWd6VVFfWEVJcHpEemxGMXgtU1Roa0hDYkpqa01wWjNxVkt6WlRpeVZCdjdqNEwzREtlaW1YMEJlWWtUaGo0RHJzRGJwLXB4TUtuX1FBNVVRTWpyWkdPMG5TcjdOU3RGSVgxRHlCd0N5VUN5elpsU2h1YWtzQmY0V3Z0cDZtVUtlU3Z2aUFFRlJKNy1KV0gxR0FwQQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_843",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Expands I-CAS Halal Certification for Meat Exports from 15 to 35 Countries - India Briefing",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRTJPYkNRbHpaNDFuX2lHanY4aVJuNzlhSVhqTHBxa3ZzVlpZTXhuMEl0U1o5Z2pFbTJsbFVSUV82ODRZdVo0eWlPT1pGY2o0Q2ZDUm9qSndYUi1MYV9UWExtdTEwU3RzQ09VWHhacVZLazA1b2JwNmhVMTctNmJ2bDRxdGNQTUE3bUUtRE1ONkMzVWZmR1pndDFEUzk?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_844",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "SAI Technical Officials Recruitment 2026 at Sports Authority of India (SAI) - Elets eGov",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLVhrVFIyRVlIRmd2SnRZTjBwOTBJSEFJNDMzdkhxUURtUTE0MW9uOE55eE5mR2V4NXlFZ0ZMUWZ6ZmM0UEVPQUxQbjFZVjdCaTBoR2tPYXE1RDFSeWZveE9XdnMxZFhuRm50Z1M4V2pGVG9idVVobmNwbms5R2Y3WngzZkExcDA3REVua1ZpODJNVkFzUGZiUUtDdnliZVlsRHpiNEp4U29ucDA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_845",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "NLC India Limited Recruitment 2026: Apply Online Begins for 145 GET Posts; Check Eligibility & Direct Link Here - Jagran Josh",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPZFFvcHZiMHl0cnRJbzgzVk1vaWk5blJfZlBxYWVEbVh2ajlNRjYzYWRsTWJvNG91NHFzVURfWFFFcXJWZ21GdVQyc0M5NVBVdzBnNlRwbHVXVnFzWnA5UDFFT19DelNha3ZNR3BwTkhPLVU0QWFFMlBtaUtKLVNGeVplemQteVNNY3gwZ25XSHRjVFZsdHREUlp4QlA5RFRXN1ZKM2NweWItTWN0dnBodk9PM0hYSG42YXNVWGpweTNHMm9YX2JSN280NWhGOFNPXzd3ejBnMEtkbVNrLV9jYm8yRTdKTXh6dV9SNVU1Z2ZXT05UWXpFVEtTYW5RR2otaFd0Uy1kcENJVGvSAZICQVVfeXFMUFM4ZlUwR2tOcXAyekg0dzNWSmJHV2xSWTFCamN1M2VJRXZhQklURVpUREQ4LVlEUUM1UVhVMDU0aFdRaGUwcFFYZDBOanJoWF84VHBINml6dWhMdHh1Ql9kOVFLZjVFbmpFQS1Ea0pUNjF5aUFCMHpSeFdIQnczdGFESFgtb0tTbzkxVUdCLU5PWV9LLWNBZGJqT2hDbUZ0QVRwemJ6dEtvd3Q3eTVBU1ZVbUJFR1phbnFoYV9BdFMtb0RQeHE5djZ2UldiZ09VVEVjSXNfNnVJUGxoODM1eFN0bEV4eUJkLTV4YjY1QXprbmFUZnBRYWp0V0UxWUQ0aW5CeEVDeGIwTzIyVlhySVl5Zw?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Uttar Pradesh"
+    },
+    {
+      "id": "job_846",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Cops Raid 6 Locations In Kashmir In Online Terror Recruitment Case - NDTV",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdExJS0VVcFJvc3FZQWU4LVdBaGd0RHBmR1MtcFdseUVaUDFtR211alNQWXQ0Y2FrMEkyQXFXSWNrRFZsYlR4Y3Q1YVU5QnBQYkdyM3JsOGF4cWthS2ExaDNEQjREaW12dlFTbkN2Q1lZSXNNREVFelB2LTVpaVNRNzVLTjZWZG9TNGdnc1lhc0VOU0JSbm1XOExRSUo2WVIwLWlic0pUYUo1WW_SAbMBQVVfeXFMTWRtS3hmay16VlVLZmNvWGYtSDg2RGZPTG5ad3J5Z0RrQmQwQ0J4b0VpTDk0aENaN2w5cXF1YzBtWUhpdHEzaEZZaEZ1eWZnTlRCZ0k4SEE1MVRfZUx0eDJEaU04X3RnZnBieFFkLXFhUExyRmdqZVl4bURiSlloTVhqa2hldzVMRHA1YktHRkRDYlM1MjA1UmpJM0FBdHY0VldMYmpuVGZVQ2xLeWxzZGFCbFE?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_847",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Exim Bank Recruitment 2026: 120 Posts, Apply Online - PW",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPejdMd1dkdnZHN2RaczUzX0dTbjdCUjE3aDZpZUFzdmthVlpucFV6bnNRbnVPUTBJMmVITzVvMWhJWTV0STNWTG5sb0NSS1Vpb0pKWjdLU0RkZzVmcVhoRVlMNExWMElFNXhBQ05keUk2S3JvalFTRXgzdmFtRWZ4b2VXYmEtOXBWdDg4?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_848",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Exim Bank Recruitment 2026 Notification OUT for 120 MT & Manager Posts; Check Eligibility and Other Details Here - Jagran Josh",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcmU3VFVYQ0M5TVd2QklIelR6Wjk5a1FOdlhockNLbkwwcy02TnhXbHpMbW0xb0lXdjkwc3d5aWI0NlR0Vk1HTFc4b09QOFF0SVYtaUQxak1XbG14Ml91a09DU2NOWVhZRk1faUVVQmtFVUhacDBKZG13VEk4R01DVERsVUQ1Q0VyaGNLbnhjYUVHMUdTV210a2VLdmROeWk3eklFREYyNTNXd2dOc3g0Smo2bkRqTGZtNWVnM2pCd09zQlYxWTB3LU1aTm5rRG01V0Q5dF9jRzdrNnRTVGcyTkRSeFl0ZnFmX3p6TVVxRWvSAfcBQVVfeXFMUFVORURSajFnU1ZJWDhuYUNmXzNmcE9GQl9SSUJCcmxnZVFPWmVmSm43U1I0OXNicWNrZEhUaVdSOWFuaEY1SjZ5XzhoekpYVjNJRVQ3azZ2bERzMTR4YXFCYUY1cTEydDdDSEhRTGxSV00teUVvbGR3aXo0dVhmU3k3VS1wNzRGZzNkck5JcVpKekx0WmhVbXR0dURUVUlBWWhrRm0wNjIwVTh4bF83RVA3T2JzZUpucnBQOXZBbzhOUmRKMGVuY0I2N1pYT01EcC0zbUZTX1F3SFJQT0l3Yk5PNU8xV2JRQW5WUkdZM2ZHYXdHOTRiOA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Uttar Pradesh"
+    },
+    {
+      "id": "job_849",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "AIIMS Patna Deputation Recruitment 2026 – FTS-15070(XVII) | 11 Group A Posts | 45 Days from EN Publication - www.rojgarpulse.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE15cHpqbzNxWTZrcGhrQURSOEc1aTRZcVlLZXV2TG1zX3ZkMlREbGNoN2MzSXltNjNKSUdqU1BoTnY3ME9tZWNjS0xVWGptY09CTnNWeThMcEZ6eHRDZ1VVclY3MzBRRXM0SzNpVGZn?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_850",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Business, Society, and Seven Flights: Reflections from My First Recruitment Tour Across India - Yale School of Management",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3RyZS02Nl8yWUdfWWpLZ1ZxVWJJcVQ1TU1LenlLNjN5WEFJSkl3X3ktOXcwek1Rb1VpWkdCSElIb0tqWENFb1BNeVlqZHdYVHpScXJyaUw5aFcxel93TjFsckdCeGFVU1hGOFd2YVp1NmNXdXV2b0VNX200VlRzUVl0eS13RkVKRk1pZkpvT2NHOFlqZVRMZzRaQ2xTUnV0Qy1ja05ROWZxdnhQQ2lsaDN4WUdnbTZl?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_851",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Karnataka HC names R Hitendra to lead veterinary recruitment SIT - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQ0ppcWdmSGVCeWgydXd2OUtKcGMzZGhSejZYSkx5dGtFc3E3eW03QzBmdDEyRmFRVGlMVFlKWHlwcWRFZEtzd3ZITU1BRWdQeERBMDExVlhPc0RHQmtpOEUyRm1oQlNLZVVkcjBNZmZyd01mZ3U0WDF4UmF6MTZtU0pwUVlxWVVZU0xwYU82ZEhyckJadFdUU2NxQWd4T21MdUpndGJDNkp4S3laNTlMM1hmMnJ1UGVpV25CYTdqX24yNjBUVE5GWjJnNXh5VXl6WkZham44M0JJVG9LeVNXLTN30gHnAUFVX3lxTE1NeWV2UWtZRlRkZHdldEFhYmlod0pmU2YwWjdRWm5IeFJ6aktfcEFhcjR6cEZBa0hzaGVxOFJTRnNrUEVKb0tTdWJncENNM0xTdUNQOW9nam5jVk1jYnV1cDRNSVZUWXhIdjhmdmU0RDNuSXNkZ05aQU9QQVh0c3g3c3Boa0JjOERSZ3ZhY09FMGtlVGN4UEFFZ29sczZEWUowTk4zblhRRDM5YWJfUmZweG5od3R5VUV1dDVqSmJXbW9ncU1JbFVTMk5GSHpMandIdjlPNC0wbzJvTURkUHA4ZS1LcWFWOA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_852",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Karnataka Government Notification On Paid Menstrual Leave - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ29aUnplTURFMDlGTXp0dW1ra0FTUWlEMUlPei1iYWJLdnlFXzFPRHpKUWtLdVpYaU9EQzJXdXBRVGZhV2hoVTBKaE1oQ2VKVmdtRUppdXNFQnNmTmlTVGVIV3U2a3QtS3dveFhDWDZoU2JKYXVHTWU5Z0YydUNmdFQ3ek50OG5FWGozRnl3OEVIZERQYjk2QzJaZ1FqQnIzQW9JdW1yTW0tLW9BRXFLM3k2RGxEZ0xkSWRz?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_854",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Indian Coast Guard recruitment 2026: Offline applications close today for Foreman of Stores posts - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNb3NacldXaVI2WDJhQjVWOHpyQk9sUnRqcThpS2J4XzAxdkRhcHdYekFuWGxEeGtoRnBzNFpwZ1MzTDVXNE1SMjNESDVYay12OVoyenZTYXlLZFpneXB4aDRHdG10YUVfOGRaLWJYWWJDOTI0d2N0U3h4NEMwR2NKb3VpX0xneEdBNzNSbVVTNlNhQTZhc1UyWjk0bmRrOExEaTZCcENyN3hsbUJzbGRRZXJtLWNwVFhsa0tyR0xHNERHSmNub3RYazBJdUd2Nk9TLVBkNWxMOVBpV3F6TllQa1Jwd0xCRVh6SExESEJTcjRYdEpadHY5cUh3OXdzM2xiZmk40gGIAkFVX3lxTE5wOU8yY1BvVFRocV9Hb0pQRlRGdzZSMjRxVkx1WDJ0Zk5LTllnRDZjaENWWkdueHV5YngwTTB2MHRtd3pJNTBhLVNJdFZkbFp2dE02dEZLdWxDTm1kNkVuclE5aGlkYXo0Z1lvUDZhWU9jWEFqaDNHYzdqWV9nYnUwMm1lS2gyWHRQV0pvdWhEV1VZSXQtX3h2UUhlc1VmM2NnQmpKYnNEZW5QRlVoVWxXZVVOVjhPS2JJZ0psOHJXc0tLMnI1ZnpfSEtoeEN6SE5LM00yTlFnWkFHbWNYUS05V3pKTEY1RnFQM0JzQlFaOUlUbkxRVC1mR0lxa01EWldxOUNneXVyZQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_855",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Direct Recruitment to various posts in Government of India - India Education Diary",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSUpuTmk5RUcwOXJpLXRmNnMwTWxhelBBOG9IajFKR3NfU0dwQXNMQ3I5cC1lX1J6U0dNZVJ5ZWU0WDU4NFBBVjl6MWFFNzVZeFRGajg0aHQyMXpJOHJ3M09iX0ZDa3p4YWN2dGMxS1hRRldTcmNQeUppU2hvN3lZb1F5dHJhZkQxcXZMMlF5Q09GNmxJaHBlYQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "All India"
+    },
+    {
+      "id": "job_856",
+      "kind": "internship",
+      "category": "Internship",
+      "title": "India–Canada initiative advances skills recognition and fair recruitment for migrant workers - International Labour Organization",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY1RDV0RzUWFpbG1vcUUyTHBYby04aDZlR2hqeHIxX0tvV3lFZlE5bHh0aldjcHFXQXRCRF9iUTZRS0Y2YTJmLUVMcV8zdDFOaXFPNUxUUUFIY2x1Ny1QaVI3a0U0NC1RWUxWVWpFdzFZUUhRVW1rR2hNU1M4OXcxRmY2RWk3ckJVcVVmeVJQdzZHUnc1Y1JaVXZyNndVc0ZHV01EeG9EVldnR3BJUTJCRGFPR3g?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_857",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Karnataka grants statewide police powers to SIT probing KPSC recruitment scam - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQ2FydHotTVJDS01mVlo1SmJDQWp1Y2h4ck4zSDgxUzZlLXNxNWVONThzZ1ZvWVkwU1pGbjNaeENYQXhrMmt2bDlxZVM3bW1WWFIzZzZPMHpack5WbHI2eEhEWmotSXhPTnY4RmZja0JZdC05ZGgxT2dGOXo1VTVsMFhlbDhzN2R0M1VjaHI2ZFZjclNQNUczRG5ubmFXTkowSHY3M3JQVE00LTFLTlVwMXhkMGoycDNDcWxwT3BrdWFHTURTTUhRQTFMR2htUWhOOFI0d25mS1JCcG140gHiAUFVX3lxTE91VlRBOU1PRWczNFZ0bXNGbllqTi1ORGtXaTQyalRBb0xFUVBINjU0NnNYMGtMaGJsNU43QU9YX0ZVdGtza2pVUjJYZU9hNDlUdjlBdFJiZmdNR05tdjVoUW40anNGdV9sbUJoOFU0czBPYnhUUjI0LTF6YzI0WjQ1cExwYmNMSDdjSmVQaVpSWU5USjBlN2RlcDR0SDJfSU1LU3JIRVJfZEo5WFZ1QmpaRHJWdzFoajlHS0pzdGhwaHc5eTcyaWlVNER3ZG1qVS1FV093a1Fqal9KVHpwa0F4WUE?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_858",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "NLC India Executive Recruitment 2026: 145 Vacancies - PW",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMeEw3a3pTdUhCbExsbU5FaGlBNXIwZklBakt5XzRoZUlYQzJ4NndqcWNEVThJbzdSaWh0SW9kTEs3Z0NFQ01FbGFjYVhvU09qaWV6c2xvVEtyZGoyb01kN0RYaElQNkdhekUxRDZ3?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_859",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "UPESSC Principal Recruitment 2026 Out For 2647 Posts, Apply Link , Eligibility - Adda247",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2sxQXNlbm0yR1ZZMlo2R3puSEppYVM3NlE5SFJNc2t2ajlNQ0EyTXg1UE9ocDRRbWhwd0NFMmxkNERGYnRBbkdWQkx0czMyVTlRdzJUX2d2RmtReGkydUtpeU9FeG1PdnByTmhUOENFbDFqamQwM2phNjRfWWlIbjBOOA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_860",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Indian Railways announces 1,215 station master vacancies, apply online by November 25 - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQQlRITm5YbFRkVF9URi1tVFZYWVd5UzhPYUJyalJPWjFDbjBMMHNYaDUzUGNRR1cwcmlwSXg0RGxDcVZUX1hSTWdTMlJxUnoxQXJkVWNzanhxQ0xWc1llTzV6NlVubWlzelR6RHVvMDB0ajk5dDU4SVZqeThtR2dMUmJwbVM3WWV3ZmRRTkF2NTRyeHpnckQ1TmlkMmo4ZEF4a0tCbFNwdUNjMVZGaEVzWTU5MjJSMUJ1OUNIdUc4MGc2R25Jc0ZfeGdXc1lLalp6NUdfNzlyOU02b3Jia0JUV25tS28tX3ByazNyVUt3TnVnTFc0c0HSAfsBQVVfeXFMUGc0RlE2VDJZdTFKNE9lVExocVB6VHR5RDE5RWMwZUt6Yzh0S0dzU1N2Q3VnWlc0R0pWUTkxSVJGa051R1o1VHJ6dFpKaGM1NjJUN1ZGRnliZVBTaldIbFNRZWp3b01fNnFhMnZweXJPWC0yb2NaZjcxOU5EV0tVUFZkWkVHcG12MkZHc0dNMlkzNUN4WHJKUV81UzhGdkN6ZE0zZW8zUnNxMjZsN0pXejlfS01ES2wycDFxZ3d5WlFRSU1DU1c2RF9NMFNEZl9ncmFrTVh3RmI2NFU3X0hEUnZTLWZabHV0T2hQUkN4MF9LYm9CamN0bVVIVUk?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "Post Graduation"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_861",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "17 jobseekers duped, 50 transactions traced in fake Russian Embassy recruitment scam - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxObERQTDcwMEZRekVjbVFrUHY4U1JXeEV6UW9hNFR4b3djY1JVUWtxVmg3a1B0Z1R4aXFMVFpNOWxxWmJvQndqVU5pcU1Yay0weG92XzFNYWlfSWhWekY0NU5OaGRjbV9YZ01MekVWOEdJR0hUUWU5eFdmM3lhUl9wU3VzYmcyNmVTN0syaTEwcU1WbXJLNEZNaEZ0THVpWmJ4OE40Qk1kZUxqcGVLNzJiM0JqMWhKLXlOMmJxd0dMaXhSQ1NEZmFPemtUZ182UmJCYXVhbzB0VFUtSjFNQnNRUnJpa0V0NHRBQlMxM1FlRmhjSlc2OE5jTGhzWHllay1mcS1uNnJiVFFsd9IBjwJBVV95cUxOYTVCN2I5Sm5DdmJzeEJrS0J0NzhsLVh6YnBOWFhwTnZKcDJIYnBXdTA4NmtsdGM0dEwzb1QwZVBXM3BTZkdMaFpKYUlydUZHckhWYnlEN2lXSnMxaFd1MF9jdHI5MlEyY3h2RFA2a0lJTnY4UmhpQ1puY3hSU2pWTFM1amd0cmt2bVFkN2RBT2pwNFppYVVxcFRzcU1zcVp4WkpPQ29qMHdYeEVSSVZEdTNqNWRxaEo2WnBoaXdsZUlFRFcxdi1TbFVwdms5SHZudzNPdlFMX0ZKREt4RXkzZlJMZ1p5bjUxeHFGdHhvc205bi1YSmJVVnVCZVNXZ1FnQ2pxYnUtYjJrcTc4aDRj?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_862",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Bank of India SO Exam Date 2026, Check Exam Schedule and Exam Pattern - Bankersadda",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41TUJLOUhDbW5xZVlnU0xzbDdYSVVGZzQ5T3R3STBQOGpLZlVKMndlaFViZDdLVG9SSEVxdHNOVTBYa080S3IwYk05bUpmRzJoWFgyUFlxN2hZWUx2WklKb1N0SG82UWxwUTFFZWVOMA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_864",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Decoding Karnataka's Revised Minimum Wage Notification - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0hKM1VOUktLT011aEhaZGNmOUpVZEszNkE2VlhCbW80MHVKU2pMcHA3LXUza0FCYjZkVWt2WUl4M3prUzNFampiZmlWWWFsNzFrUXpQc21DZ3RDMU1XNGZobGpNN0JycGhoTjYxTFUtbDlnU3RDREdqOG54MlFiVGZlVl9uMU96RHVCZFdQUUY4SHZOVnVhZmhLaTRVWGpBX09Na2cyeVZPZU04X190cmlQN2lBZw?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_865",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "JU Commission To Probe Recruitment Irregularities - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMTg4NXYwcEJTTjA2eWNyTlViVEd1QnY2TFduQXBUSVdUT2dsc21WTURvU3V6WWJhRXB3aXVLZWowWElCYWpIVngwZnBkZEU1cnd6eURCakxIZTRmd3RRZUdVUHBTemJjd29OdTgtc1hNc1ZUZXFmbHVFNmdEd29fTkNiWS1RbnVwLXFOeFduZWlYbEtYWjZlM2NpcDE2cHJ2aTZlNzZNblF5eE9zcnZKNk1mOHpITmpRTDdLaGFkRnJxQdIBxwFBVV95cUxNZTNDNTEzM09JalFBNkVkOWh2cV9XUVBYbl8wZW9aWTZLdXN3N3lSQmtRNmN1bWpGRXY4Z0lJT2dJN2VOQm1sS2ZzWGtCRHBBMnU5M2ViUHlkQkFXSVQ1Q0p4cHUzd1dMSW1POFg5cWxVaU1tSE04X3g3MkZwMkJhNHpzazdfLW05WUwtWUxrMDYwcUh4bEZWMFN1blFYeHZkV1NBV3ZCYkU2djRvd0lLZXc2STBqYkpuekFMYWZTYjh5dTB0UXNZ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_866",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "No By-Election If Remainder Term Is Less Than A Year; Bombay HC Quashes EC's Notification For Akola West Constituency - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOZWlZZUtYYmtfbUtJU25jNF9qbXAxcDBiOWdZM08zODMtWU1yVGIteS1rNGxpM2R3X2pSNnQ0dEZfdFhDTkhUSkhkUXZUWVNTWUlqd2pldkZ0M3pwTkpxNmxodF9xMnpIbkdjSVp1dXlXWHlvLVpVbGcybmRaVGY4R3ktZWlfWjFfdjA5MkgwMmdnbEdYdE8yQWtGQ2p6LUVFUXU0QWpDUlB1QldLMDFoVEQwRk8zYlB2cnJ4YTBxdEVlTWpVNHpRMS1BcVpnT2laZ1ZhQlI0UExEZDdSaDBTanhqaHFtUnFNcHpBVmdGZ1M5YUJEVnJIb19NT2JIbjhzNW12NG1xR0ktendKM3FuZV9NUkxyblFOWTJTYlNhQQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_867",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Home Ministry issues Gazette notification regarding Census (Amendment) Rules, 2026 - News On AIR",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSkxzOUN1NFdRWjNDTXpGSWpiUUVlZjFvMVV4WmJPczlkM1o3cVVMcjVlNkR3ODAxY25mTlF5MFlJNDhuNE5kLW9nMXZRbVQ0SmlQOHQyclo5RlZ2anlWbnFLRlBqcGo4VVBVSVh3Z1Z6V245UFZSQmd0ZzZkQW1uM3RYbjZXaXVvMXIyYVFNVFZUSi10cDQ2OHVCM0VTeVNSdnlmeHEwdHo?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_868",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "UP announces recruitment for 17,735 TGT posts in aided secondary schools - ET Education",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdS1kREdvUkpMUW1lQVliem41T3lhNGlGQ1drU1ktYjVUeFBnbTBtb0lqT0ZoSzc0SXo4WGY2NjU1YXZyREpnTVZ6SE5HX1VwMVpPeHdhRGZCNENiRG1IVzhfZlkzc3BvekozNUY3VXI5WS1HZTJkM0lpSzV6QlliV3k2bk1pT1IxS3hueG8yb2RTcC1LLXZsbEFTem12dHVHWmpmaHIwUm1LZmxpUnE3YndCb3hnMnh2UGFBZG9vVmppblVkUmtzWER3T21kQzBQYjhPc1dQamlDQdIB3wFBVV95cUxOSTB0UHBnOWVvcXROMkJ5Mmh2M3VJSGktQ0JuQVFFV2JfWVJsUHJOMlREUFVwd1NwZW5zcDJNcHpDcDREdXExQWVPNWhuS1lzS3E5SjNmd3NOaEdFZXRBaTRUOHlKTmFUTHh1b3JGT29RSXJPNjNlMmp0aTU5Y1JrcjdQU1F3QVFkMDlDX3lsU1lTNnNSbXdwXzQ3STc5U3c5ZExBRU5VZWdtWHVwWlgycjItZzlxam05US1lUlV2dFRhendJRktsbk1KMEJLenU3dE9Gay12MWpLeEo4SS1N?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Uttar Pradesh"
+    },
+    {
+      "id": "job_869",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "South Indian Bank Junior Officer Recruitment 2026 Out, Apply Online Starts - Adda247",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0YXFob2ZNb3BmNW1Na2VpTGxLeWRoR2tSNnVNSnMzc3Y1ZVZUMDNLeXhHRHNLR1J3TWVzdFJDMGRsdTJyQm5kMThxTDQ1OWtZNHQ0dXdETTFaQk93WmdfMUpyRklDSGpXWWgwSEpPbFkxWGs?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_870",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "BEL Probationary Engineer Recruitment 2026, Last Date to Apply Online For 350 Posts - Adda247",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZFR1Wk5UcEw3bWFhb2llN3VUcHdnNXZYZDNqSlNaUXZVdF9OeUl4NUF1SU1kNHFBWndGLXhwYlF1WTJ6TFczYTVlRDQ0djVxM2J5SUwzbkZfcmRmdUtoZWFweG9jSXExaWV6MThyNTFnWldkNEg4cVZLQ0poZjZIMTVFQ29kZnRmZGhhaQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_871",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Gurugram District Officer's Notification On Submission Of POSH Annual Report - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQSm1uSEctQlE3dkhyTm4tb2c3T2ZXcENQUXlsbkVXZ0JYd085VFk3RlpDZER5TVV1MVlmNF9vcnljOEZiWk9FV1RwRDN3VGFneG5YLWQ3b3ZYOG5YSFVMbi1PTE9EVkpCZm1qcmh5eUZqY3pfT1kyYXZ6ek5rY1RtRHAtRzlIUWVSUmZHcWRFb2hmc1NELU5UQk81QlJsS2x1ZDVtNm9aWDRjVkJUU0gtcjV4N1JhcFBOQnFicm5aQjRHUDctNFFvemxqN3BadWNfNENvY1JDZ21TU3NWLWc?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_872",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India's MEA Advisory on Russia Military Recruitment - Stop Russian Recruiters",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNc3ZKSWRRc2RoZ1RBcjltMHhmM0NiaVB1eEVKTEh2OWNERzI3ZEs1QlAtRTlfTWoxUTNPXzRHazNaQmI2cG5heU5pUDlXeHhNZmlXWGd2Mk85cFlOMlA1Zm4wVm51Nnhodjd4M1hhMFltVVR3ZnlYZ2ZyMjlqV2UwX182WURnMzJKLU9UQWNCXzdxNi11dEQ0SVZBSElnTFJua3RF?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_873",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "NLC India Apprentice Recruitment 2026: Apply for 1,067 posts by November 9, check eligibility and selecti - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOT1VfOXEwa1ExT3lrT1l6QXdxX0xhQnVJQ19EU1dDTkhJeEpjREJoOV9Bd3lLbWtwSmtUMUpnUkpmdlR1MHFjT2ZFMjNZZlZjZm5BMllvdnJINVBxY2tVQWhTZDBIV1B1N0ZjQzhTQXNEbzVXRzBfMUt4X2ozWm5QcWZ4eG5nVFN4Zl9uWXNCMmptNm53TG9nTVc0WUt2SHNWNjVkemVacGNZbnk1OUNDRlVfZWVBTXo5NVFyQ3ltLWhKTUxCejZYODA0a1FsZUgyd0kySE1rbVZURzNOX1ZKVlBPMk5TU3FtMXdtQ1RZc0stWW16ZXg1WjZ0UURtN1dLb3NmSmhzdks2YjFsWW9TOXhNcEptSEZ40gGeAkFVX3lxTE1OSWlDdnpoYWt6YkpkaUFsVkVUbDUyUXp0bTN5NktZd0ZOT254aHBSaVVQdF9MSTVNOEIySmNsY3pNQWpYU2NiaUktYmRvZXZYSXJuMFNLdlJIUWJhT1lieXNORWhSc2JHazA2RXNmTTJUU0w4RFZIZkpxdmUwc3VBRjNMZGdaazRJRVdleGR2R3ZxSWwyMVJ5akdlaWs3QVR3NWsydEplVmVlbXo2SzhKTTcxRUVmOWdTcktyQm9VWDN1M3ZyTnNocXcxdzFsT3FyOFdPRUZPZnpYNzlWUElIN2xlVTFkalduYjNycTNwZXNyd3lsSXVld3YwT29Ib1NsRl9PY3NYVGpkeGpqVENtb0p3XzZOMXp6Qkg4RWc?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_874",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "AI hiring outpaces overall IT recruitment in India, report shows - Reuters",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzN3S05KWUZNTnRhZDdUcERXbjBQT09sUXd1MzVWTk5mdFRwU2VXMzFwWE80SHRFZzFmSTVKbkhqS3UxZXp4ckZ2UFdiOUtnUi1lbTl2QUc2Y2ZxelUxMWkzTUswTGlGUnFiWG15TC1kcnV1dm5qSU5xWnA3N2Qwb0RWZk1RZ19fU0huNGxneUYzaHB4bkd3X2ZjT2JJTEJacG0xbHllRmVncDBr?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_875",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "NLC India Recruitment 2026, 143 Graduate Executive Trainee Vacancies - PW",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1pVHJGSV9ON1BFZTNiMkVubkpBbkdWSzR3ajlOb0wyLUxkTUhaSEQzRWJMbngtRGpkSllJcGIzYXFYVTlvSkQ2bHVmSjJCc2xrRXd5cjJ4VnFUUjlMOHBNaQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "Graduation"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_876",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Karnataka HC raps state over delay in activating KPSC scam SIT - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd3B6cFBBdlE5RGNIZDh0LXRGYXhSTF8wYVVuM25KN08zSFF3NV9KeGplbW5za2Jab1QwajF3anM0NUFsWm8xdkF3S3BySmk0ZW83aE50bWtPU29nekU4eVp3TGpKZ0Z4MmpWVy1BelFzbDhCN0hia2l3bVIydzgxUkhBdU02WEF5bkhtU1ZtUTZHcEo2WkF6cG1vSGFEMVp5OHhZYWh0a2V2aUZrT0xHSUFsMmNUQ2JJMHgzZkdBQ3pZbXh0QkNLUGQ5ajJkTUdfczNJNi01QUN4bXZUZVN5aE9B0gHnAUFVX3lxTE9EcGpQU1E4cHhlc21WZW1OVHMxZHl4QmpfTEhUOExGUlVmcXQ3NEJEQ293aGQtM2w5c2NTaHF2WjZzMnhQWWZoNFhVZVFQLXBsdlc5OGUwd3hZZWliZ3d3YkZicl9DZTgxcU9YQmN4djRiMTdHejg0SUt3c0lmcWprUVNvNTFQWFJKWWZENW9IYnVjeE1Qb1JlVDFCSlJmVHlLUGRPRWEtMjNkNTBlNGJOaFNlU2tfeEZQb2tjZmNaZ2lNWWdDam1raVZ6XzRZRm91VUo1X0xHV3JuZGVOaHMxalFoNlFIMA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_877",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India tops global hiring confidence as 65% of employers plan recruitment in Q4 2026 - People Matters - HR News",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQRXZBcDA0QzREbXZuTXJwX1Rsa1VEZnRNcDdpOHdXV0NGcmVITFhRVC1pU0Rub2ZmZ2lXY0owRENMWl9BN0I4Q05xWkt5M0U2NW1kcjFYMVZNVG1TbDQ1V3ZwLVlqYTliR2RFbF9OdXljY2JVYWNpdG5FZVpSeGlVT2dFZ2RBcXZKcm94YlNCcDVQUWxzbUtZN3ZoRWRfS3l0bDhucDR4Nzl2dDVjN3ZTZ294b0NvSWlDZFoyWkxMSlFvM2NfT21XQ1NGaDRZTV9nR0xlc0l3Z0JMem1OcEdTTUhDcF9XNWkwR3lv?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_878",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Karnataka Real Estate Regulatory Authority Notification - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOXk0ZDFjTjY5cEVmaUZRZUs2QlBITUtQTGR6QkRJUm5TdTBkamh2VER5bWthUW9RR2VvQXBidkxxakxhLUl0dDNJclNpQmlWWVVMNVV0dTBoRHV4MGEwNDBqcFducjMxemtZeXV5b2hienk0S0tfenRuQTNrMkJsU3lzd3JMTTFRSjNtR1dhZE5xZkVnOTI4V1dXUE05aW9YNzNCbWFRem5pMWU1NERNZ3NBSkx2c2JFeHBZ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_879",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Faculty recruitment rules in India: from policy to practice - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSVJuY1VRUWYyc2luS0NCZFhmV190WVdaYnVweDYzOGY4Y0dCcGtra0ZuY1RnQlRGcU81NkJSMGxodTRFNXVHeWVsVTlvRUdYcXVDOHJzZGRGTHJXaU02OVotZXRkZVozS3RHY0N3eVZuVGV4amZxa0FvTFJrTFU5dWJWcU1TSk42RERBMFhKc1dMY3g2dDYzM3ctWWFXZzl4MGU0N1VJcWtVaGJlRVhxYkZSc9IBugFBVV95cUxNaThZa3pBVUpjWndhWGlqcHJ5ZV96OXA1TGxId25jTWJKcGJ5MVNTZXhzcmc3RVhidTNka0o2b2l1RWtpZkRjNjZwczRUSFZNeXVwMDVRRU9hRUVDQmJBbF9XSFJqNmdudWpOT3hxWi1FYmpGRncycUR6R1FNQkNoTjA1Q2xxSUt2NlBHTnNvNW1ySGlfdjlQVXFEbklYYUFZMnhoXzdDaXJKSm50NlNBUTdiN095N3dEY2c?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_881",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "UPPSC RO/ARO 2026: Complete Guide to 501 Vacancies, Eligibility, Exam Pattern, Syllabus and Preparation Strategy - Drishti IAS",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRVlTOEJ2emJjS3J6aVp6aTItY2lEalhSS3VkZlBzQ0VkZ0J3RE5BcHZuOEtTZVRRTW5mcUlzVVBLcm9CVW1EbDFVenFVbTFpT2w5akdHenF0aHB4Rm43MC1HTi03SWo5aEtzNHJMcUIyTjMtRm9HOUZrUDdBYmtuUUhHTkIyZE5TRWNuY1h4dEdtZXJn?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_882",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Ban On RO Water Purifiers- NGT Directs Ministry To Issue Notification - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ2xkTTNXNllVZ3Ztd3M2OHVNN05XaFNfZTRuRXN4M3k3alU2aGt4aVJ1d29BMmlwWmxYaS1COU1uUzdUaDJxQ0NWemhubkh0TnlhNTdhTzRoVXA1Ykg5Y04yMW1iVWlWSmw5WUU2NUNxWDZvNm8teEZUU2V4RGRTUEpWT1RVbWx3SFl5cTJBSXMxSGc5ajh3UU1KTHRYRmVtUzdFYjJBblVpZ19CSHg2QlB3NVdLcjM3UEozTUtmT2Z6Zw?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_883",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Warns Citizens Over Recruitment Into Russian Armed Forces - Kashmir Life",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZUFtYXJHTjIxV0F3YUhiVzBla2RJVTNSTHJ1SUJDTW9EdTJyenlrMEU3X09OQXpicGw1SnlpbXBYMlBoQXpQTVprTlBSOGtqWVN1UHJfYVpDYUtuVnBlMURjNFFTOFNFdElDaDVzcVBXQlpiaElxMzRnUThiV0JaMWR4N0xTczA3NGl1VnY2MkRHWF90SDhKYzNGTQ?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_884",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Finance Ministry did not declare a 5-day workweek for banks; viral gazette notification is fake - FACTLY",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSDBJVVl4UlBXTXlrMHlyNHB3WWd5dmVvZTd5eVFFSXF0enlUSFlvcXZybnIyb0hKUzNyb2x0YXlWQVhad3hfRVVqaXdPaThqNFIxS1dWZGZqRXh3RTdtWWg0U1RXZFFNcXJrQzBhb09SaDRBNzdEckQ1a0ZwOUtXTTVEVFdLM1Fta091VGx0V1dmdTUyVmFIVWlXS1VXZkdnNzY5N0MtWVNjaW1nMktyR0M1MA?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_885",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "NLC India apprentice recruitment 2026: Apply for 1,067 posts by November 9, selection process here - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQM0kxN1lrXzhkRllyZEpRSndma2Yxam5rb1daU0lfTTE3anIyZnBrQ0owdUNPLTFzeV8zemNDUThCZHhlWHZGSFlXb3d6RVhwclJLbGtUN0hjd1JQUzZSSXlLSHA5Ulg4bEx6eWQ5czFWOVNOOFJPMUJ0OVNac1JaWUZRVENGaWRTNE1tZlYyN1BuNGFKSFBESXZmVmNMeDhQUkhlTVR5U2JRaUxJcnhxVFVtYWZ6S3Z1M1Z1Ykp0WmtxX1RQMnI5YjVrcUFsZC1vSTVNREtVaVlFVDRZbmhubXpn?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_886",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "UPSC turns 100: The story of India’s civil services recruitment body - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORUhBemg4djBROG5pclR6NHFvQU5zZ0tRbmdCcDRBZGQ1enRTNFlBaFRFd3ctc0dvWDl6UDhuc2xPa3N5aXBHQ3lYeU9rYmdIUGdJVmlvbi1zMTJ6ell4TWFOYUNWNmg3YzVWanZVcjdJOFk0MDRvbnNrMnNjaXJWVHdLdVRZQV9qTldSNlpsM1JWXzhPRzZxR1ZMcjZSMFEyam4tZnZub1Q4cWg0UHYxRjJNczNCbWF5emlFM29QOW14OVpaS0NnMXJ2czhnNVpZNkpDWTR6eThrTTDSAeABQVVfeXFMTlVUNE8zODlESmZ6d2s1XzN4U2lNa19nY3EyVlUwVHNTMWxMbWgyYjJvLUdCMlVGSHBLcEZUVVU1aVVyR2E3Rk5BOXgycFhSa09zUjJnRkNXSnlyTEVoUzE3eXM2QktKSHhMTU5wY0w0Q1A4eWdzdUo1VDBzcWtsUFlnSXNKOXRiVkU1eE1jQ01WdW4xTFNRMzBTdU5fRnJ6Zmg2WmFhYU94MU5xVTVpTXU2U0ljc0ZiWF9TdUVOVjdRa1FLRlM4MXY0RFpwTXk4WVJRalhaR3VTVlo2LWMycGY?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_887",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Post GDS Recruitment 2026: 25,000+ Vacancies Announced, Registration Date Inside - Telegraph India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcmd0M0ZyMUZ0V1JIWkZpMTkySUdlc0p4a0hYcllzUDFoUDlHRkxORW9ZVUtQUmlVeVJrR3BDU3lXMVZzaC0zTVFnX0hlT1Joa1JoaVBjVVhqajc2QTJKbE56YXhabHBYczJOS3Ntbmd5aGlVckhyeTJJVkkxMG92SGhOYVRqeWdiUjJldFNlZm5ZZ3ZIMTZiZFY1dnBYeVZ5dU5meWsxSEpybFFub2VYclA5UlFkR0t0ZXgzLWMyYjd5SWRhek5YZ1IwbEF4MktBUFFheTRyd09mQ0VxTGJkOVMwMNIB6AFBVV95cUxPSTNfTHJqV2FpVmdLZDNqeEI0YTUxcGM5Yko0V0JELWZCd0FCb0tFbGNJTnh3YmVTV2diNE9NLW1nVkRuc3RZb19tVlNhdUoweFJHVnRjMFltdXNGSS1MN2ViUXh6c2VaYlFFVGhFc0hqTEoxMllWSDF1TnNVZVJGdDhRX1h4UlE2OUotSEhGSjhwZUo3dUVtOWJDQlBuRFVfcUNvZ2dTM1FMcmpFa2lEYlRGb1ZuV25mVGZ6M3p2XzdTcU1RMnk2R0ZiMXI1ZGhJelJEVkZ5b0Y4QmlRNmM5MUp2MVI1cEpV?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_888",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "SBI Assistant Manager Engineer (Fire) Recruitment 2026 Notification Out, Apply Online from 4 November - Bankersadda",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLUhKSDg4NGcyY05qTnYtdGFjY0Y2dURJN1NFaWd6a3VwbzRqTnQxQUpsM1R2Y2U0WlRQTE80bG1ISFl1MGFPbU9VYXBfY1ppamwzNFpvcHZkXzBBa0N1REw4LVp2cXhTVlVINEo2ZnJOUkpSX0t1THBSdFJ3bVMtMEpGalpQclZG?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_889",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Faster Payments, Stronger MSME: Government Mandates TReDS for Settlement of All MSME Invoices by Central Public Sector Enterprises - www.pib.gov.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yZGhzQ055MEpKSV93cjhjMVEyUXY1NzUzX3drMXdtd05qYnBJb04tYjRUNHpFTkRSQ09wVng3enBycWMtRWN0ZDZsY1BWLW8yODRUZmRLZXZTclFyUjlSbTk0TzlMVGtqYnBBV1BrR1djeVBFS0hlYmVMZw?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_890",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Post GDS Recruitment 2026: Over 25,000 vacancies open, check details - Business Standard",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaW9rMVNTYVExOXZVSFE3V3Bpc2F0YWhPV0IxdFFJYXQxczhuZVBFZGVHX2R1c19JaTJncEh5MklXRXhobWpra3BvWk9FekF0bW5oLTRSWC1ZVERKXzRiWG8zM1A5NUxjY2NGN3NWTWFzNDJfRzZLSEpRTEhtcHRUSU1Ddl9kdnNoUS1LZmN5akZlZExRV2g2Wjk1bW10R3BrM1lWNy15aU8tWVAtSnR0U2t6eUxsQ3BQbTNDVUtIbkpDMUpsdWtqY21JYjlZQWxNcG1nV21FN0tNR1BD0gHiAUFVX3lxTE1NeG5ObF81VnZCVFYxRnRabWNIekxBZ1RmVFBHdUNsX1otRkFyMHFIeXN2eHBXZTlYQTRyajZraEp0UHM3RFlWSFd2NkM4ZEVZYUpRLTgydWlPUHFpMjcxVnVSYW5lc3VhbEh3UHlEWmpiYW4zR1N0elhzc0NCR2JDQWVsT19qU1BQV01RTlRJYUFiQW1ncGVPYmRLMWt4blRKdWZoVmNCSlM4a0h6Y1lBVEtXUkVfRVQxaVVuckt2MXh6MVNfcm55Mi1KS2JZN19mZmdnZE8zOTQwY0lUX1JDZ1E?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_891",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Credent Launches HealthcareJob.in for AI-Powered Healthcare Recruitment in India - ANI News",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQX0FTZHNldTJzZ2Q0ek5KNk1raWdoOGRWRzAtanFEWXFGZ0V4dFlFa0hZTExGajh5NFJDQWRNckxMNFAzM0ZTY0xneVF2WkpnM2E0RExkMTNPRHhPSDJEczI0MVJGZFkxNmd4bGFKVWY4bUtnVEtiUWRiQ1AyV1FzcDJNUW9MYXlPQ04yZ1k0d202VnJMMF9FWEI4eFFHS3lRNjNRWEdJcDRBRkd0QWF0WXBmV1MwaTBkVEVScFl6a3padTNyVlcwZld3?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_892",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "India Post GDS Recruitment 2026: Registrations open for 23757 posts - The Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQzBZMWtsbFMtZHdpb3ZZLXN4aXZPa1pnMTdIZDVNa0dSMXhnWTl4ZjFuVkhGQVdlLVcyYm5PYlU0OGRMOUFtOUxEd1FYazAzdUVqUGlRdUF1QTRWcHBBRXg2WVlFX3F3OHJnMFN2Y0I4aWdLTzJKNEVKVUdQRDFnaHJoWC1tU3FzaVUzeDBVYnhFMDVGbUNEdExwV3l0OVZhWkxGMEhzNHV0eWtxM25YVEdSamtDUGtyLTV1SHBKZ1NleERxcjlTXy1waXd2eWhwS2ZMWEE2M2lsQ1BLejU3NW1OZ0gzSl9IYkJRRg?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_893",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Vacancy for Event Coordinator at ChessBase India - ChessBase India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1mejdSTzAzaGtpOGFuVjhnSTZLZU80VVNoWVQwaFVvcVlYdmNaM1RLd1VEeDhOWHlTb1k0QU9ZZy10WUwydkZoMWdiZHRmaVI2bFlNTHNCWDFKUmM1ZzdlUkdBVWVxMF9Bc3VEOG5IS1Z3TjdVbmNQTl9n?oc=5",
+      "date": "2026-11-26",
+      "qualifications": [
+        "General"
       ],
       "state": "Other / Unspecified"
     }
@@ -7324,6 +8130,825 @@
       "title": "Digital India Programme Completes 11 years - Vision IAS",
       "source": "Google News Search",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZW9NeHpncF9qd21LRGI0aDBoMVhzNUpLd3V0M2daZHZJeE93ZE9LSDM5ZmdRU2M0OExEMnY1NkFSYzV6UnRVNWpXNVd6ci1YYWdfS2pzbGN3TTh0U1BjUThXTnNUZktzTVBTUWdYRXlweWdjcVBNaU9jUi1mQWlVY3VVYXNzTjV1UmlpM1A2am1NUnZVbG56ODRBNWNJNl84ckxHamU3VjVFWDByMVV1cmNaUThlZ1pnU3JfVDA2MG8?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_755",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India's Supreme Court and Summary Judgment: A Business Guide to Order XIII-A - Global Advisory Experts",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeWFvdVZ4X3dlZm5vVHM0a0FORW1XQUZEMTJSOF8xblMxbnZkTk5IbWZCLW0zWHF3a19tbmVoR2s2RHc4RkViTWdaQTh2UC1QZ3dra29paG1jaXNwRVdCVm5nNGpOMG1yNno4d3lqcDdIc3ZyeFZ4ZHBwV1k1S2d1STdNR2tUYm1mVmstM3FXSkVFWkE?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_756",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India: Supreme Court clarifies GST on solar power systems - Global VAT Compliance",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SSXlYT2hEdm1GWnpPS2VobGljT0JjWEI4Vy1LTUZ6SWwyOFEzdml2S1BLX2FKWDQ5eFNKdkgyWkFOQW10NkNIX0h1dVI2bGJUbEwtaEhKQzJuVGQ2WTBRdENwWkFFbnBkeXFxTW43LWtfWlA3THZEX3RKd2xPUQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_757",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Refers Two-Child Policy Judgment To Larger Bench, Questions Its Relevance - LawBeat",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWC13cU02cjl4cHJFRE5PQnBBZ1ZUVG9sQ1c5SjRTOU95Z015MUx5N3RWNU00enpSVDlyOHI0cnc0Y3NSbDA0SzNGQ0hCWlNoQ2paWXcyMm5ueERISEEzMUFlTDJjM2VBYjhyaTlwVXY5U00yOGE3d1czUWNCTzhwX19rR3owODllemZkYUVFMWY3aThsaVJoaFVpUmJ0Y28zVkxiSDVxZFBtV2xSRl80RkJZQmlQNjRKNUl2eDdpX2t0RTBGV1BIY1gyMDRfN2dJT2ZN0gHYAUFVX3lxTE9LRmFrNGtlak1LVHpzOEhmQ19LUkZ5NnRjVE0yeG53SEJlSklzaC0xdUFQYU9oUUpISm9nMlZDTm9mcjFraG9HRm5TOE92NEFpU2Z6U2oxd1NvdUxGNWk2bDJTblNiT1FpYVRQR0FMTzYyZC1SQUlpRGpJcy1IY0ZwRS1yejlmdDNFaXBrUks3VnpSZUwxMUxZUi1DU2MtU2ZZLXhLS09haUlIOU5pbFlrTUw3RUhJU2NwcXdGS2U5SzZ4TlAzak9UTFFZRENCZE9MNHoycmo4TQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_758",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India's Yes Bank files Supreme Court petition seeking review of AT-1 bond order - Reuters",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM0JqcS12QnFqZHNjMVg2R0pNaFVwU1Nya3E3a0dJQ2lDTmZFZTBtY0Z4engzLUJXNU1VVXU2cUVSQ01KWTAwc19BQmVtdTN6XzRkSUZWc1ByRjhnNTNCQllPdXhvZk5yNnVZbVVUZXNBWFNvUGlkNUVCdXNrM1MzWkxWWUJOV2c1bFhLQXh5WEhTTTdMWEptel9GLWlVajU4d1JicE0wOHVzazh1TS1HRUR0REkwbm92R1JiUkh2dXY?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_759",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Upholds NCLAT Judgment Ruling That Insolvency Proceedings May Be Invoked Against Corporate Guarantor Before Proceeding Against The Principal Debtor - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPc0FZZnd6Z3FCVUU2aVltRENIZ21Dc1dQVTBUMi1PMzRrR05hR3lFVjZQR296SVh3VlNscV9IZm5aSTR2bm5OWUNWWTBUTUFCc2Y2dlBXcXBJcmlPWGFoa2o3RmJPam83T2VCeDI3OTkwNmhiaTlXclZxWXZtcFkwM3BRemdoUHpNcXFSVFEyMzhiZ0JicmZlRzJQUlF6VURFM2pzZ1BfWE9zazYyejkyY1U1R2VsWEUwQ1luZ2NZMjhWQkZUTUszcXpiYnh2VDl1T0FSVVlxaW5YalRlRHRjNERWVl9jUnoxa0FlQmlVcVJtMUpIaVJHR0JaazBPVmVpcXlyanZPV2d4bHExWWM2cHY0UmRjQkVEdXpkb2dPRVNHOURWc0NldFVVd01wQklNSldNUEJBZ21XTXV5LWp2SmhsUThUQkhLR3hBQnJNdTJPei1PQlRyeEdHd1VBSms?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_760",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Bombay High Court Directs Compensation As Appropriate Relief For Illegal Termination; Held, Reinstatement Cannot Be Granted After Retirement Age - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQWlp4cmo1d1NyMnAtUWhsSXNtVFJnV29VZFRHVml6aEpTRTBleGlsc0V4bDNnYmJPX0VfR0lfWFVnb2hXUFlJS3VnbFNrT0tlaWE2ck9XNkc4RnR5VzJBbkV2amRTUkc2SWktRS1YcW9DZHlFSGU3Q01GVHB2dVVZaVVqdUNncEcyNjh0cXZqX0dUNGktRTFJNk5LWG96cWEwajZEVHY1dDNad09SOE1faFV5d0ZCNWlkSjUyZ1VOSERIMFJXbG5ZQVJNTUlVMHN4TUViNGV1aDQ1UnctOU1waERBcXBjOFR5UGFteFozMW9mcGtKTWE3b2ZTWC1LQTBBWG11a1cwNHljZnVQUlByUmVPeDBsMmltRFhYdHU2SDJxZ2lURGlZeS01VWRLZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_761",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court judgment questions two-child norm with falling fertility rate - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjJORHZNZTFRbXZHdHV5MGk0TnNsQW1BUzBJTUhSZ1hrWFhDWUlNNWU2cjhkSjVCQ2h2MzFjeDQ0LUp6RmcyMHJNWFFpSUhlMzBRVlM0Q0dPR0JWWjUxc3pKcVpabG01TWU5SXF3SjN3Qk9aLWszbzNxLVB4cDIwY1Rjclk0Q1dVZzh1Q0VUa2ViRGU4YkxMUldRQy1DWFVkUjVCaWRnUXZ0QWdNTlBNeUxWQnJWVVk0bTBvd3hibHQxQkNiRzBPMTd2VnpDYlnSAdYBQVVfeXFMTW9fQi10M3JqRWlQNGtqaXJEQmNfSWFmWmlCZkF0YXUtWmRhVExMZ1dIVzZEV0FOajN6VDlqNENsYUVBSnplSlVQLVFhZDk5YmJXb29jcHR4SzkzdWE0MUxNYmJ6eGpPckc1dm5EcHBCNkx0Y3Y2V1hQWmZmYTRHcmNRWWRJZ0pDZlRlcElJOGF6UkpTMDM4QlNHYzVEX0FuazNzRUVtajdOTUgwRkp6QkFjT2FfMFZ0ZTYwd1lmYXBJZ3YxMHViRmFBOElyNkJ2QUljXzJQdw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_762",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Expert Take: What the Supreme Court's Ravva ruling signals to oil investors - ETLegalWorld.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQclBDd0U2SUljZEctdGlWQ0Y3TGxsVi1kVmpSZFdGZ3h3ZEw1TEI3bkc5WHJCREJhTC1Ib3VSMW1aZ2xqR1k0OFRTcnoxNmMwMVRkVEwxTnBZcUx4WE1tSDg4enIxZE51bloyZWlwLTFZX09OTnhGQ0t6M2lkSHF1X3M0RUFqUDZYaE9rZy1aMnhJeDkwc21TcFI2WmpyM1JESzd6b1Q3cDE1a2wwdmt6N2YzRHFKeURLNXBMTzg0cDlHVTkxQU4wLUd3ckUwSnBlMUZTazhzRdIB2wFBVV95cUxOUFNwbFFlNldZaHJ5U3dyYmZzM25EbU91MGxHUUFDQVRnUFg1VTdqWXU2WlIzWHBncl80NXJZZy00cTJ6bTJlc0diS1FObjBoZ3JyZ0hLZklMSUtJR1ZhT19RUUV3VTVQSlpNQ2I2V0tVTVZhbzNJV1FMSXMwSV82bFU4OGRET1JrSm9SNEp5Skh1YVZuMGczR2h3MXdjNGpkWEtSX0dpTmhZMGNUSTM2RUhJYWk2c1VtRGNBYnUtYXVLRE42SE1fanlIcW9pZDEzcVZkVWhVandqclk?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_763",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Has Supreme Court Taken A Step Back In Its Recent Judgment In \"NAFED Vs. Alimenta S.A.\"? - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNcDhrdDFFYTdvY09hLVZucHRzR0wxbE93N3V3ai1UV2hEZWk2V2tLdzNZV3RBTER2YU1DS0diYzZXbGI1YWZDZkRuQk94R2xOMFpUaWJCM1FxQXhaZmcyOXFXQ0lCcnEzTmRyS2szdWZFXzh3ankyRDBHRUpPT29rN2MxVVNPX0xZeWRwWER6RmJqTVEycXkyWUprb3NfS1BIZmRYSnhMTjVzWFY0bklKV1liQXV6VVAyMDB2cHFBeFBSSUJlWUpfNFBUYm1RY2ppVVV2TlIyeTVQLVVnRDEweEZzeUF5SFVEX0NzRHh4Xzc?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_764",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Held That A Writ Petition Seeking Recovery Of Contractual Dues Is Not Maintainable - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPdUhCQlluQnFjWlJzTFFWVlRtLW91YkJGMXlOb2RYbk40bDhOVnV2aVhlSVA1TW9GaF93MENNMkIyVXYzcnpCWnpnTmZPWFlEb1NpY3g0VF90eURaNDUzZWNYY0tSbDZRUmlhX3RzeVFOMHNOUWNRUHBrS3o1U25KaGJrMnlOVTVVdDRiNDNtVUFqVzE0UWJSaWdHak50S3ctcTBTbFdwZ0FRV1BZMzRqdWotSzRRVEZvd25VSzBuUVVXOG56cXNsNzBPVVJOS0ZTWmxvYmUtTmlVNlpCY2Z1N0F3ejRfdWVWWFJ2bFRfdElMVDd2ZktkNGl3aHNOV1ZXdGlJUy1uVFNtOHM?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_765",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Stays Operation Of High Court Judgment On Online Fantasy Sports In India - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOREZEWFU3S1ZEMUtPbUNDSWZlQVV6RnRqb2Zvd0FDQ2VPNU9sWGVRV0ZURFVqVzlINlR0aXlWekVFN1ZVYUR3eGg4NXpZdGVnV1IwNEJMUms4ZXEzcDVPOFMyRkpPS0tGbHlIMXllOWNhRzhCQ0xhd0xadEs5dVhRLVlMMVJNcy05M01XdE5oRXZqd08yc05NaHk1SExJNThETmROUU5IVFlHdU5kOHdtZG1aTXFud0VpWnh0S2FYdEgyX19WZGhxMExHWTl5QVMwMzc4ckhlSElwTlVwVkxjVDlDN0taQ2pkaEdOaFduaTBkekhYZ0E?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_766",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "DU Photo Copy Case: IRRO Challenges Delhi High Court Judgment Before The Supreme Court - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNUxyNWJmeTZOTGthaXlORjRSZWdWeGswY2hONVlRdjhTbmRFVFZ6MmRiWTlwSnJqemFRLUlVU1psY2RMMldPRzR5akxIenVBcTJFM3FJc2xSbmhHakN1dG42QmlBUklMd1R5ZU5Ud2N5LVpnSmNzakx3bnlsRERTVHhkcVFTV29kN2dBNmxwdU1jdE1pUmRkTzc3ZHZ1aWg5czQ5bkxfUlFNYjFUZDRFWWllU3k1ejI2ZVJDRm51dHR1X1Z6ZW1SRld5VDhfRFpXY1JpbllwREZaM3RJOG9xdW8zOVdxUQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_767",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "OBC Creamy Layer Judgment: Supreme Court Says Ruling Applies To Parties, No Reopening Of Seniority - LawChakra",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YR0RSY1pmR3dzX1Ztd0R0SjYtQ0d3YWdMZ2p4SUxMZmFJVE9oVmg3bTBYbXlvOFFMeW9DdXpCWjFnS21CbW1xMHJMMmhySlA4eEwzUDFWamlOcEljdTJNZ3VUcFRIRWd1RzRGQnlB?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_768",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Article 22 Clock Starts At Detention, Not Formal Arrest: Supreme Court Lays Down Duties For Magistrates... - LawBeat",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMmp0YUdTalFDRlZHUzdwTXZRTU01VDVSU1NkdDcwdDJHNW4tOHdsVVBFem5HSTNsODFYaVlLTmJrLUtacnhEQ3hieGJwaG82VmQwZXJqdVF1WC05RnNwSGM4bWxiM1dBY3J1QjQyZmRtZjZwcFVOUFNlWlAtY0JBZm1tNTVDdDVPdTUwMlFEVk9oTGo4c1hWWjlQbDBuYURTT0lUZzJQMklrRlJwZG1sWFBjZkg3aHRhejNfanlpcVBfZkJZQXZYazZ1X0VldkNfeDJkekhMTEVpZ1NiME11ZGNlWi3SAeoBQVVfeXFMUFhMMkV1NE5CV0R4bjVYWTJpWFJ0d0tBVlh3X2g5SjJkMlVrZXF5VWFPZHh0RmczUzlZMkt3Skc4SFgza3AwQU15cFZYVG9oS0M5aDdSc3ltblNVMVBxcDMxOGZtT1FhTzMtUlQ0REJiOFdINV9obmRvLUlSVEdpQmMxWVVDbUpJczVvUTloci1NU2xBRU9scXJWejd2MnFfSzM0WWVrdFpWUThTNWFaYUhKci1lMFFaYk9QbEk3UjAwNUYtRHh6bnRTMjlYWUNiVzNxajlyOU54S2QwQTVLZHJGYjktZ0RxOVpB?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_769",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Hon'ble Supreme Court Of India Observes That It Must Specify Whether A Judgment Is Passed As A Decision Inter Se Parties Or Binding Precedent - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOUWZOLS1QN3hKYmVTd0o4YUhNN3hsX1hLaTYtWXpEVlZXS0tmZmhzVUp3UXRJMmFaajNOQlg2NHdrM3ZtdTJoVGR2eGdMcUp5Z0hoQ0RMVGtHTkNGa3VrVjl2bnRhUDhFSzh2bDZHOWszMnpnTkd4SjZUTFhIUVVJZzJKcUVEQUpXRG01S1hueTB6eVpNdlVXRl8wWUdaUG9NWnJMeFp1N1hkMEdBNmpSVmlGVThZaDNQWDE4RUpQUEd1bExzY0xiM1pwWnp3ZWQxejZyb0pKcTFhZC03X1JMdDJBSFdOaHprRGNqdmJ1SDV6b21Ra01XMGVSZldfakx6bkdhTDFBR2pBYU1aM1k3bE9wZTB2dnNjN1ZCVUFEWmtSWUhiMWE4ZFZFV2R6bXZGbktiR29GTDhVVUk2eU84?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_770",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India's Supreme Court Strengthens Summary Judgment In Commercial Disputes – Is This The End Of “Putting The Obvious On Trial”? - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNbFNaVTdSX181OFI3NnlJUVlvY3A2VlFvdnU5VTFaemRfQ3RFTXFMTXE5ek5LN3BpZUE0VkljdHIxWDNBUW9nTmVnblB6eUJJVUpWRGFSelgyQkNlbnJjdGQ1eUpLVHJJRDByNFFLOXliQ0ZEaVp2VGZ4RnZXbjllbzM2b2huUFZvRk5GZ09yR0tZSXhnTkNKNm4wWlN6Ukd5MFQwVkk2OW5Tc1oyVUtFck44cURfYllMLU0xV2tKV0x1R3dJWW5LbjlxUkFpc0lBVE9URFVoY0F4cEJEU2pLWG1PMGlLMkdOc2dqZTVOTllDOVE2dlViTTRTTUFsODJjbnZ1eTBWbUVnYWJlbDRNWER0TmpUdW5NTG8wY2Z2ZGRTY0U?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_771",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India's First AI Copyright Ruling: The Delhi High Court In ANI v. OpenAI - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZGxyLVllNUpzTHc5RDl2TjF3Sl9uVTBOSTFSdTVkSHRPVTVIMkJVdWYzY2xJcWxJcFB4Wi1hY1FsQlZLWlg3NE1wWlBkXzFGWms1MUdRSW81TUNIV3JwVHlEbENvYzFWdWc5dVJyZzIxNVk0SGVwX1Z5cFNQdFV0bGFuN2lvSm1NRU1BQjZNTFBsekx0S2pTQ3Bqa1k2b042YjRwd3FNUEh5TTVkRHlkLUJwc21xUnh1MHVCV0hTazBtVzJYZWFmSzd3ai1VMF80?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_772",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Revisiting Patent Enforcement In India: The Delhi High Court's Judgment In CCA v. Rosenberger - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQ0VOWjhuSmdxQjNRYXhWdGw4Ylo3S05tVDBuS3dRTHNlc2I4WHV6aEJabHF0c2VaNnBqaHMwLUgxQnNzUGdNTWd0QWtyUzZxcEFLVGZqZFd0YlJrYmNjMkpFTWxfRDNKNUdRNVZleDd1Q2R2N3NXYzA5WXdRWUt1dDJCdFI0bTJWNm1JamFJYjIxd0pnUEZnUlo0TE9tUnRFcEhiNzF4c0tvRGhFa2xDYjk0a0tSYzZuRXg5S1d1N252UjlPLUFTOXNrQ01vUmdaWjNITG1pMUF5QjZjeHhCTGVKMXFmdGtSQU5WRQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_773",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Litigation Update | Supreme Court Upholds Occupants' Rights In Redevelopment Projects, Reinstates Mhada Orders For Permanent Alternate Accommodation - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQdl9GdHJ3MVJTZlZFcG5KRE1ybXNGSU5xQ2kzQTFvYnpTeG5VU1k5VW1laDQ5cnE3dWdQd0ZWWTlhWkJhWGZSR1ppRWUwRlJFM3F4VXdwQTdoa1JydFZHbUNzclh1VFNiaXRGRjNXV09EQ2d1OGJ3VFVqamtWaXBKWXhZT0ZWTC04Qnl6OTRJTGw0d3YzbjhNNGExOU9FVkNwVlJvSE5WV1BZd2dsazhLZjItNi1xUjNwd2hYaVl6NmYyU3Y0bjk3djhBMmpVdlllNVRWa0dFMGlPQS12NEdrc0xhX1NQTDdXdDBMYjlRNF9FTHFZR1hhemxrbUYxbmh2d1VBQ1BKX0didHJKNm40WS1QNGVrOTR5alI1VzV3TGdQY3NON25BanpHcVJxY1NweGFuanVKLURiMVowQUVmWHh5OA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_774",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Landmark Constitutional Law Judgments in 2025 by the Supreme Court of India (Part III of IV) - SCC Online",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZUktWGdCSWVLV3ZmUGNySUp4QmVjYkNnLW9GaERWLXRsQ2UzVXdVVW5RenNKU2FuejhnNHBUR0dzZl9aZE5LUDl1NGdwcW9NY0FlRWxKZXFZM0xoV1YxVDhBR2MyYzMySUgyTHFoVGhWRk9OMEF0T1hydE5QSHdGUjFqOXRzTjRBdUpGZlhWWmhBRF9MRVg3aWRxMEVTSVhWQ3NiVVFQNDZZcWZJRjB6ODFtNU0wb3NRSWdZ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_775",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Held That Compliance With Rule 9 Of SARFAESI Rules Is Mandatory And Goes To The Root Of The Validity Of Sale - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPZ19EMGRkQjVJYkJvOHYwaWJGaVVZaWJDSXN0bWhUaC10SU16X1oxOGJiZzdtN0kybHdSNDZRc3l4Ym5WS0VGZmQtQ0VIcW5HSkt5NXk1S0pkN3J6TXd1RGlJeG42cmpoa09CeTYzN2Ztajg5Z3hCNUNZejVSRHJCbnQ0Ykt4RU9kTlItSGF4T2dDTU5Rc1Y4VVB0Tm9ESDFJMjRsaWhrOElXdjhpNXVrYlNxcTk0b2k4RTRDS0FFMXVfYS1xczBreFJBWHFFYXpKaHFyRGZoNXQyNElTeE9pTkhUSzJfUjJHQk53c2dLa3FfcjRKTDJkV1QyR3MwWTdFanFkbkFLbXJ2blFYb2pLSUtWdHBabzNhV1NyOW5ZcEx1VW51NHc?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_776",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Clarifies Judgment On OBC-Creamy Layer Parental Salary Computation - Live Law",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEJUT0ZjR1l2VFVqR1hIaHgydE9nak5jR2FYUDhtUVZXSU96Mzdua2dzcnhWRW8zODV5TTJVSzlHRlZNZFJ0Wl9DdUM3V0o0M3d1eGkxVVBNdjQ5Z0Y3WTVhWVl4LUdXZXR0b1RSVVRqekdMaW5veExDQUJ6cWpCUDllanppbWp4dXlqSVNPTmRlcmxEUDl2UWkxMWpucU16MzI1NkdXMzRpUdIBrwFBVV95cUxNdE1peVg2NlFkUnBXSTZsM3p0TFFUWWRJQ1BUZ3pCejVwYTdydnlpRmtCMFV0UE5OdHMtUUtMWmZjTzVkWFJYdE16NkNpY2haWmJrTnljNEZIa3FYMkljVmNXVzdTRGJIUEVzaElmUVlpNUxoNWlpVkFEX2M2cjBEUk1GR1VGSVlZbWd6YWZlZ0txczY2WUtNLXMtNVdmVm9SWnRLRUYxT1pqSFQwdXJF?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_777",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Punjab And Haryana High Court Strikes Down JAO - FAO Retrospective Amendment As Unconstitutional - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNamxqUDJNRkpVWFRnb0NoM0ZzQ3I4aWNDSVVaZHJCbGwwOEtwN2IxNU1oZm13ZjB3VHF0djM2OTRyY1JldzJlZDZnd25ocE9oWVNaS21tUW0wcDdoZFNVcG1MazZWa1VuYXROZWFlWnNhdWNaYk54VWY0X3VWdmJENHhfb1hDVGFTMGVmb0ttUzRJaEZGZHlSYjBSTWc1UjRBN1Qxaks1bUtWczZZaTJkSWxsUWQtaGpzeTB1NnNYVGlxcHVQZVpUTDlsTkdDb2dtaldmaGREdjVhbUxwcTl2ZHRFWHhaLUZfX3NtdVhnNGx6UTBDTkE?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_778",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India's top court voids Yes Bank's $880 million AT-1 bond write-off - Reuters",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMzFfQ2pjUjd1eUVySlhZZlFrZHNJaWdTako1Qmp0UWZuUFhxSHBhVEdNeXVJWGZvR1k1Nm1vdlBtVnFUZm1PNHRHUm8ySHdySFY0T3hMX2dwVnhRNXBMT3NEeTQtTlRfNVMtbURneUNhRmRibU9vRjE0MGQwZl9DZV85UERLTGpJZFdqZTI2SUYwRjJQZmU4a0E3NXo1Y2F1c1Utc0NfNzFZSFVOYk1R?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_779",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "UAPA Bail: Section 43D(7) Applies Only If Foreign National’s Entry Into India Was Illegal, Says Supreme... - LawBeat",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYS0tSFpqVEg5RkZtWTN1ZWtqTjh0d0RWbGt3eWU2OG1lUjFhRVc0RVd5T0Izc0ZSVEZraVFkNms0RGtUY0ZLRmRjSlNLaFZMU2YySk56aUd6bVR2cl9xZVFlUHpjUWpMVWRQcFJIRk5IWW1KYUMwSmxMWkZHSnAzbTc4Skt2QmhpQTc1cmNKdjgzSlVCZ0lKQk5UdmRTRW5zaGkwM1NfbnBWTDVZWEd1QklQT1ZzT0JQS3JEUUxiZG9VdWphc1VqbGZiUDVnWVpVZHpNZXVSNWI1aFZNajM5NDZneU9PRVR3d1pz0gHwAUFVX3lxTE5wTS1lWUhUbWtBdmJEcV9jN0l6N2lwMHNUVXJUN2VlME8xbWtSREtLYTdaZzFQTXNrUzhiWlhQSnkyZEZKRFU3UVpyZGEzc1M5OE1fTlV1TGU1WDBoSU5fTjZuNGtBbEVZREk1SjFBYjBDWXRrMzlVZjFuTlk4MHk0T056ZE9JOV9vYVRUOGgway1Pakp1Z0RSTnFYV0NaQnd6UjlMaG0wY05kQkg5V2tlRzBuMGZnaERUY19wNUxOTkRVMzBTdW1zTmhLaE82WE1IQ0ZHVkIzSk9QUmdLZVlkc0s0dHdtc0FqOXlwZ1lwbQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_780",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "The Supreme Court's Power Under Article 142 In Cases Of Irretrievable Breakdown Of Marriage. - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOdEJxM2RNd2VkZUYzSWoyRTZ0Q3dUNnQ0cUxTLVJhMUdaOUg4cWlCdnJCS29XU3ZOd2VCSFc4Y3pibXBONjNGYnRHTElHMnZQN3BtV01FeWxZbnpGck9RMXNCaF9RaVlEWEhxQ29vR1kwMWhZdXNBVTNMU3JfSjZjb1JzLUpHSzI2SGZOTHREMDctbnFkM1hmelQyaElaLTUtSm9jR1Z6V015cmxkUlg4RFZoeS10cGFxOEZCc2Vqa1MtOERfNnZELUhRY0dJUml3Y1ltcG5QaDZFUXFCcXpnOHNvYU1nMzNHdmYxVHMzbw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_781",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "In A Landmark Judgment, The Supreme Court Of India Holds That Arbitration Cannot Be Invoked When The Arbitration Agreement Or Clause Is Contained In An Unstamped Or Insufficiently Stamped Agreement Or Contract - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimANBVV95cUxQS1RVME1mV1BpZGZreVIyeFJCeEtnQ1NKTHU0R3RjbXZzMFdDbzZsVU1mR2xpTmlfX1JHcU1nT1Fsa1NYbzlxUFB1eDNQVE1nVU1haUpSWVh0dE10ZVpabnp1QWJFNXVJdWEyZGNrWmN0V0VTenZRRDlVajZlbEN2TFhfZ3Y5c2djME1tWnd1cUZTTWFBZDhLdDZDd2w1eDI3QUFUMFAtYjdHdTBzRjl2LV80bkRsQjhOTjE3OExnTlpJQXM4OVFCU0ZlbjhzT0M3QTNaOVI5YmdfSHJTZnVoTXZlemYwSW9ONTVtTnZJaHh5SzFRbGwwQTZaSHdfTGg5UEZVbXFjaEExM2g1YkNGQ05hcEQwYWZ1ZkFkcTlGWkVsSUFvZzVNeklndDdjX1Y5YWFmQ2pkU2Fab2IyLU5DcWRmbmx3aFl3SVFySWpCYjVoZEdDU1JFeHgzT1VFYlVwcE1LUTNjcDI5dDlKSVE4cHpuRlE1bTNwLUhzLUlIbmVnOTNicnAxOTJ6OHFYUTVrMXJrdkp4NEo?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_782",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Held That Parties Do Not Possess Any Vested Or Automatic Right To Seek Admission Of Additional Evidence Under Order XLI Rule 27 CPC - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOSngwSWNOV2tiN1JwdzRmeldFVExleVpzUnkyTk9kVklTOVlZbkRrUmVadDNqUi1XRUQwdzFwdHBFRjFTaEFwODNtMWR6UjYwVkxOT0ozdThpUklXZ1dUdFZnZzc0T3d4SHRpWXhDN0hOQk8ybnpiYUsyYllYTWZWbjVSa0NvZjc5VHVtbHBFOUhnUlQzSUpUQVVKd21YaTJXY0UxMThubDJ3YVgxRGx2anZCSnIzVUpidWktTHJMTTdwN2pNbFZ4VVlpODZiR0tNQlRXUEhqZllGUkI2cFZEYXkydGRKcEtPRWJSVU9JelUtQWNCUDdIRWJWZVpmYnBIMmF4OGVMYjdKd0pQYXBkYjFDUFR6N0Z0SEczcVF6ZmRZNm9QdmxFRVNRRlRkdDYyMVF2NDNyWDBpcUptUEIwX3doUVU?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_783",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Affirms Validity Of Section 16(2)(c): ITC Is Admissible Only Where The Supplier Has Actually Remitted Tax To The Government, Provision Held Neither Arbitrary Nor Unconstitutional - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxPSXFWcmE1RzgweF8wN3cwa0tLM0xHUWhrWHZvR3pocE1MLW5mLUJaY2NMc2MtVkw1ZWQ3OGpWRElMSllvV09SY2xtVE1WM3ZSYmM4c0lHVU1qUk5lc3R1aEJ2Z1pySEpIOUlDb1pXemZyUEtkOHBudFcwZ21Db3J6dWxmNi1rbW5rUTVYN2gtWGJSeHUyOGR2cWRZWEJvajVGVHlOam1NenZ2NkhFcU1kZnZ4cTg5eUpvMl9jb3JhRDBiVWY2dTlrMHdjQkp0cXNOQlhfMWJGd3Q0OUlwQ3FzMGx4QkNiaDZLRE5jcTJPU0R5YWhBY3FELVlKb2RiWGxPY0dZLUtIMnFNSVBJYkpVOHN5dVpxcEMxc1dQYTJRd0lBLVppUDVpYnhXTGFrNC1TLVZSclNYYzdUMk9GQkE4TkZPeXJuSnR4Tkd2b3AxcHdOQWhnMVQ4NlJn?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_784",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Bombay High Court Decision – A Game-Changer for Redevelopment Approvals - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOeDhZdTVQU3NhNnBIZmxzTE91UE9JT2pZNzhYeHlpNFN3MEJaa1ZNbjkzZHJTMjJyVGY1c1NHdndlS2E5UlJHcFE3aGVXUDhzSXF1d1pXbXZia2xQZ0JvRVJUZnYwbHc2Mkh3TEdCSTMzUW1GZjM1dWQ2NW5ReEo3cVNSX01PV0paMWZoOFVvc1d3R0xKSHhWSWVvUEdZZ0k2c1pUeUNsYkNlb0hKU3lKLUFseXd0TjF6Vzh1UURXNmEtMmFRQ0tQY0pTbnQ2QXhMbC1PNzNZTk1VSTdUNW5aWWh0RU9wS1k?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_785",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "When Can A Provision Be Deemed As A Clarificatory Having Retrospective Effect: Supreme Court Of India Clarifies - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS2R5WEMwbEV1NFF2T0JOakI4ZEMwV05SOEZIM2VVY1FfMzBSOGMxb2xDVE5YeS1RQm01NDc5OFJkbVFMWW16RzFtWFBVTnZUWk5uZ1l4c09TS19UanhoRDFybGxpX21GUFZkNmxYbWV4UE9JRkExZzBCVkp0WUpFcnA4eVhoWHlhaDNKWXQxYTdiQnlPdlZocFloRm1wR1NUakk5ZkZES3hEaUYxTktfejFBaVI0c3I3cGUzNkJZQlI0TTh2RUlRd1J0TFBmb2VlTUFDM3ZRN1czRXJLV0pVbzhTR3RFaWFtMUZ1WVhVdVJiNnc3QlhMc2VhWHdzSWh3dE02N1ZoY1Z3YW1SZ0k1YkNvXzFoZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_786",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Reliance on AI-generated fake precedents - Supreme Court Observer",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLUZYemdTRjhIeGNQMTgwc3BleFpIMnBkRzBJYk0yenNhZmZ1OUxiNGI2NDExUXROenZZWWRxYW5ZeWFlcGFqcGFlZ28xZWtqcDF5RGhmbi1TdUJfV01JNko2MVVIVVlSQURVVFF5VmRuY0p5M1pVd0J3c1BjODZFOUVFZ1djT3BnQlBKZnNRM0NhRmNCM0k0cXhNVWI0eWlVTjhUbG10aDdLSDlX?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_787",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "The Supreme Court Of India Clarifies: Order II Rule 2 Of The Code Of Civil Procedure, 1908 Cannot Be A Ground For Rejection Of Plaint Under Order VII Rule 11(D) Of The Code Of Civil Procedure, 1908 - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNLXZpWU1YNG1qM3RGRVNXMlAzSXBVeDdMM0RJREtJRFJpSVpVTjdKbDliemMzVkpkUGVVcHZQWWpfVTI2YWtFeDlxbmlfQk9kdjlPejFxVEJsU21PcEdLX3dNbkRCU3BaMHF2YWl0OUJTa002X1lkZzBCYk9jaWZkQUVzTlh6aTNTVWVieU1mb2tJbUhtSjgxRDk0ZElOazkzV0RVNk9FYWNteHVrRWk3VmZFMGdjbzlLVFpyYzkydm4tOHlyZllUQW8tTDdfbm9vZmhfNFVCakwxbGg2cUJ3N3ZseG9tX2ZYLTIxRWpBMDJHX1l2M3AxcTI4UDVlLWI5NDIzVTlXZWIxWFNMUTZiZ1k4aUF4eFJ2b1VLVVJQUnhKMEtZQVpRamFyVmZUZWZZRkttU0FXdlhZVWRDbDExc3lVMExCVXZhT184LWM2VjhhaEdEOHNvaXR4MGR1c3lqbWVmRWRLcVNPM084QzZPVmZxUHBZdjFHamd4OVUyMWFxeGM?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_788",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Delhi High Court Held That Security Cheque Can Constitute As An Enforceable Instrument Under Section 138 Of The NI Act - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdGNZak9oOEEzS2VUdlB6WGg5UzRPSHVZOFU4Q25NVUlPRm96b3NaSDVockp1WWxTY0dNMFdQT1FpbnhIbXZSR3haekRkc2EtLS0xcE9hbGw2V20xVU1uQndGWXd1dVdUclB2VGhrU1pOY05KbmthU2Y0STBFTW9JSVNibGJzeEhJSk9ONjFWZDZnU2dLTnE2YUZiTzg1bTRWYUpqTklSN1NNajgtYm5ib1p2UU5oRUxxQWlsNEgyaGpHdGp3OWk3eGtHMXYyUGlDXzNVbWdoSWlQclF1dXBJY0RmYlVYOVAzY1hzeDZvVERhMVJ6ZGJUSUdYSGpiTV9TQWU1RkVlNV93dFBCS0FsdTlab0hBdFg2aUVBWXZXNFA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_789",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Held That Co-operative Societies Can Participate In Insolvency Resolution Subject To Compliance With The MSCS Act And Their Own Bye-laws. - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNbU50UWxjdk5jMWw4bWJ0UWo4ZlZ2NF81azlmbXJWQVNWVFRXaS05X2RzQ2x4V05vWTFVMGdOQ2ljNUtlYUdsTXNXNjhKd1JLbmpUWUppSVQ1bGtJNkZ3QWNfaURtem85aFh5UVhsQ1dVRWwxM2V6OUs3ZUZyR0NxNUktYkd6SlFrUmhBTkxjVGdyUzF6OXFHRTNHVUFYX2c2MTlIZDZUZ0owRktJdzR4LXVreVJTNi1WQzZCaUthWjlVYk0weHdzRXlGbEVMMnJEMXlMQ2kxVEJVLXdwQmlPNW9rQmF2M09QVEt4c2RROGFycENFN2pSa0I4NmF1SHNPV0tObEFvODllbVQtSGwwUk9xQlJ1cnNDT1lVdzJxcXZDSUFFWU90N2ZGWmFlN2lQSnowVnFtdHN6Z3NHUXkyTS1HN0pERDVtb0tIVklUcUg?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_790",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Bombay High Court Judgment On Pledge Of Shares In World Crest Advisors LLP v. Yes Bank Limited- A Concern For Financial Creditors Under IBC? - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOblVEXzhLb21KQ1g5TDhrbmhfSTQxdDNIWWVFaHlhZ2kyZDRDRlZOSmttN05JSkFzOWdUUzVMUlUwR0duQmVpMl85d3lGY1QzUWxRSzdDYmNIOHktNm1SbkkyemZGNl9UWUEzUkFIeHlHaHFfaXJMX1F0Nk5nN1FyX3NHa21MODM0MFgwN2xZZnBZOGZaaktzN1NsWHMyLWVnR2ZJdER3RXdVd2dWZ3dteER5dDJQUmQ5UzBJWVZQcjFzQWNaY0cyb0dqeHpQUE43MWtXeThoNDRCRVVFZFM1VHh1a2sxejlreFNYTXJqbGlJdFg4QzBYbUpMaTRlQW1SSGN5TlQ2WFhud184MU1oU3MyRkhZZUJUZXdRdjhtbzg0UGhfb1lzeUVpS3QtUkE?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_791",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "MHCO Update: Supreme Court Judgment On MSME Dispute Resolution - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZmZXSms0Z2EtQnYwYjB1QURhbkFqTk90d1prMDlYYVY0T3RGQVMwNE9odHVZLVk4WHpjRzNIYjc0b2FEQnJWeGxyZnpYX1pSM1FXZUhNRG5Nek1tM3F1ekg4WTFvbmpGMXozUFg0VTdSUFJsaE1zblNZcTdfc2M2MFZRVFZxQUVmdGtKT0o1UGhRRXBEV2RBZFhGbms2TWZLbzJCSElVQTUyQ3B2Ymdub2RaaHZzRVVSa28wYTZSSjRHTW5CbGlueGQyQkNtTFJqVXAxcQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_792",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "24-Hour Period For Production Before Magistrate Runs From Time Of Detention & Not From Formal Arrest : Supreme Court - Live Law",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNTh2N2VKRzJ0WDhkakJMUkxrckNvc0E4VjVSVXNNeG1hcG4ySTZMYkpXSDVNUlgwUzlkcTQxWUNJYVZXelpfb2FoRnRsTWZlNjNmTlVhSWp1emJYaVp4YWFKN01fN1EwWjFRbzZoOU96dG1BcHVpX1dDeGFOckZrZXpVVlJ5bE1Td3FqWGdMRjFkMGVPVXFUaGRUbVktUGxLM2hsVG1zcGVmX25pTGFlOF9rcHRQaWpJYUZaVkx4XzBTazhIZUtya2R5cDNCVUtTOGJ5Um9wd3pxMDJVOTJPbkhIcFItb2p4aEZZUA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_793",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "India’s landmark judgment on corporate criminal intent - Law.asia",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZZnNGN1dZZEJGeTdOYlk1RXJKT0dfdEdLeEVheTBzOWlQajhiWmNNNmF5NnNPTjNwRU9qbE5MSHl3aFlqaXdjem0xX1JOZUpvZVhYOEROOFRoV2xvWmNIcS1FY08ydVRDWm1OZ1Vad1k?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_794",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Recent Delhi High Court Ruling On Non-Binding Research/ Financial Advisory Services - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeE44TGxFeC1HNGdxc2kybF96XzMwS2hRU3FIaUVlbWxhSVc3M0NUcVV1b00zMnFlWUVHUFN1UkZXcGVhaVJpMm42LVhBMzJ0VnZGdGFLNl9hMnZmS1ByaVQ4STFMYkJHeG9id1pMcW04SjVVelpndUg2TkUyYU55aHI0OVJLRF9Gc0YxbkJLSkwzdGJ3RjNVc1d3NGY2Z2JjY0VnU2VQYnAzenhYUnFyX0FydjFCam1SQ1ZiNVE4ZHpIOVMwSGh6QWtTVGxWT1dSdzRyT1QtQ08teGdoYlM0?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_795",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Artificial Intelligence And The Indian Judiciary: Lessons From Pooja Ramesh Singh Judgment - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYjR6c0p4NFJKMlRjaHVibmtMT0RzVXlFZG1Mb0hJZW5tOGtBU0RYRTJKYm8tb3NQY3NjeHc0MmZlczlGNmp5MGhyTFNKMXpaVkp6T3IyMWdZNXdud1Z4Y2hWaTBMYWkwNzV6NklNMkpOaUc0bHFwOWMzbzMzOEkzU1ZmUUZlanc0Z2RpaTJmVDRWR2VXdUxBYS1oYnpCY3NWVTRMYjNEUDk4NzdOZUdEM3Blb3N0SEJScTctOEFUTVZkZXFzTWNISkZhQ2lrRVFNTldiVnFZZ1cyak84?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_796",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Held That The Power Under Section 151 Of CPC Has To Be Exercised With Caution And Circumspection - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxNZEdiaGVjWFB4ZGpnV3V1SGJRTFJfcUNnYWhNajJSMnAyTmtmeTcwcjg5MWtacGY1YTdqX1k3UnlacGJUNy1FMS1uOXY0TlpCaUJLbUZzS1dlaFZsN093ajUtRXVKMU80T09LTVRJb2JfM1BCaWJIR1NKOHpRZWxqemtjaUY0ZU9SRHVtZllscWR6Qlhad3lqbXV6MGhWZm9RZFRsZXJYZk02V0ZIcXUza0ZTZnZhcFVFYXlycm1xaUY5Ykg4RTJCclgzaTQwczFjb2xLX0lyaEZNVVhjU0ROV3ZCTTJTMjctWFQ2bHl6QWxNdlNJVmxSekFxTXFhSnJEYW5seE5GdkRXSTdjb2pUejh6U3hGb2Y5VnZFNTJn?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_797",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Held That A Garnishee Order Cannot Be Passed In The Absence Of A Crystallised Or Admitted Liability - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxOSWNVZE13eHBOcTZhbmtKU05BMUFPMWlidzJYYnhtVHpuRzVuZVJ4Ym9KVHJhOXpseG5waTRQaGlSdktaanRtRzdoM2gxM25jTVhDNXZTRHpsbGJzYm9obTZSY29Bbm5Tbk9vbWpyNnVkRmVUeE10V2UwcGgtRnZ5SzlkV05iRnVMTHZ6RGI5MVUzTDlheGhhNVFXOUQtM3REM1JGbnQ3cFhMY2hobkI3Ml9mRWktNjdidllnUnpBdGdUWW1kdzE4eEl2SVQzeFc3Zkx4cGJPT0NqZk41T3ZwQ3ZCNkJ2eEtzdVlZR2N5bV8wc0NaeFU2MUE0d3EzMmxaU29DU1pRYlpVLVZQcld4QnJLV1d2NFpCS3g0d0w0djNWZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_798",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Held That Delhi Courts Would Have Territorial Jurisdiction In A Recovery Suit Where Part Of The Cause Of Action Arose In Delhi - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOSmNUdEdCOEtHb2NSaWJUVnVCTVE1S2R2VjN1cHRkcWxBMW9CNUZKaUotXzJNTFFfUThoQ2FOZDVMZXJuLTBNemw4eUJBeVFNQnpWeGNudm9aUmdzOVYzOGdXaW4xdlIyWUlSOWtxbWpscGt0MUNzS01adTVLUXItU2tzaTRxWjhXaVB6RnhPY0Vzd3VpWEZOS0FIUDZPa0lTTXlWY0pHdVNSb0FrOVMtVzhyTHRkMGJfR2tHNVVXQVNRRlBYbHJCUTFiX3BZZXVxX2pNTmgwNERXdlVCNzd6dFJjVlFOczMyUzRLUkhwV3dJa0xBMWNrdUQ0NU85RXkwMHliUmdobTF6VC1kMERDR1BLWW8wWWw1WVk5Mjh3TU96SlVKNmh0cjA0c3Z5UENVdXk2YndMSnJBSkJVdmRKRVN0eV9aUQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_799",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Held That Attachment Orders Under Benami Act Cannot Be Challenged Under IBC - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbW15WWFkWWZpQjRFcDExQ1dQN29TcWUyTXBkck5GWVU0ZkVfUE5WM1paaEtXSWdqNnV4RXZCYlpEUEJ3VGhtaG1yZGZ5X09xUEZtZWI5SG00U1U3dEw5TWJ6UWdudXJTTXFFMGpzR2RPcXRfa3Y4RDhabXlSMFVsOHZneFNzd0xYM0d5d01jdjQtaEQ4RVdKZ2NidWlxYXlKaHAxLUI1ankwLUowMGNxRkVqelhwWUpLLXMtUXFzdEV4RDZMRU9XME1hbE1rQVdqMUZV?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_800",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Registered, Then Cancelled: What The Delhi High Court’s Heritage Artifacts Ruling Means For Descriptive And Composite Trademarks In India - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQUnk2QXR5bDNIdFpMOW5BSFZOWWNxMl9MU1VxOW1NeHczNDNpY0pLUkJtanJqODJ3UlZoa1dnSW5ESEdVUkFRV3U3dkZCVWtESGFITFQ5NnJzZzdXUjF4T2JXdHlvTVVtV2JrOW41cHdUa1d4eGY2aDZYQmlkdWYxYndrMktMb3dxc1c0S2Job2ZHbXN0MjhWa0c1UVNqVHViSGc2NkJEbDRvZkstbVc5TU9fY0c4OGhIYjBGWWk3SmVpWWtURmV3VV9FY0hLYjJ6RnNnRWNTcC1NdnRyVXNhSEVaYktfbFlqSWFHb3NWWXNPbEJVdWY5YWtHVDl5R3V3S1NpVW5nY1Nud2lMMmlXekQ0S3JXSzZ5alV3UldIMngyNndTZllj?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_801",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Allahabad High Court Held That Sleeping Partners In A Partnership Firm Are Jointly And Severally Liable Under The NI Act - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQYTJmTzJTdXVSbDNablluU0R1NFFGanhRVWZTZGpuNlpJRHNkdEYwdl9WOXl2cWY2ZWZZd01wOG03aG01SVN3cWkyd243UTM1aVFYR1FPSXJ4YjQ5Q1VubnRjc1RxNUtUMkhsa0R3TzZuY3Nzd0VMeF9pU0NfZ1NNRWtIWk9OdzJGTXBYMVJpWDUzdTdPUkhkSDN4R04xcGttNTZ4QVBXb3NKazVXbkNuM0FwejA5cDZYYjN5RUtCTG9MVkJYT0FGMm0xc2NVWDl6cktCZ1RTNjRNTTNnYXkwZlI4VTFzcmpscXhpZWptcVBvVjhTT1B1UG9XMW1RLXg3RDZ0U3F4ZVBRTUNCb0toSmZHN0JqM2NPdXpiRUFkZU1fUkU?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_802",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Held That EPF Dues Have Priority Over Secured Creditors Under SARFAESI Act - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWXFuX3ZhemZuMVZHNmpsd0RHZ05MZWJkTU0tckFSelV5bm15S3pIMkdCRjgtU1NqMGRKUlBiZUwwa2VZVTNOYnZDcmZGWHdLM0VJU0swY0o4UG9FZlhoc2pObkllU0VxM19UTVJGY05pTVdIeFNMRlB4ZnpXU21lYWRkSmhvTlc2VkgyQVE4UWZ2YXNIWlNCc1dmLXhmSC05ZS0yMTg2TzJnQUZIS0dxZE5abGJxVzI0MmlMSHhuOXRYLVg2U3VsZzlEcEFnbkZpSzlvMjJpaVE0MlhvaVpTU05JY3o1Ry01ckYwUUhDb3VjM0FERFdmYQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_803",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court upholds Andhra Pradesh High Court judgment on BC reservations - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRE5kMFlDeG5INkQ5X1lPazlRaUptWFZWQzZOODIxNjdlV2FGamRDNVZzOC01bXV3QTQ0YVBJVHpWbXQycEZtNkNLd1VvVG5OQWtxUHVva0tQalVkZDl5anRwNnVsd0dtN3MwN0NFZzQ1NTM3UUhaTWxYc2wyVWJPSWpwcXBMZ05ubTJxMzZRZXhFR3JxWndxZ2NMSDZqZmlGSXRwbVZBaXl0cEVxQzBpWklKZ2FVUTZiR1pWT3FkUGljb1NhY25hMmRHeE10eWoxNzBCQVlTQzFoZC1JVVZiLUJMd9IB6gFBVV95cUxOQWFZY0Q2NWV4ME1LbFNsanhFZ0M1bFVOWklJQUZrcUQtdTE2UlZHMWhGdU04NWVRQUhkUWFaV1pIampWR2IzRlpzbmtvYWd4WjR5TkstX3pybmRmRTIwR1g5UUV5WWNXU1U1LTNRdWFwOVk3MVBrZmZCWHVfSmZZLU9KbmVRTFRLbGpPTmxXMkFpM1JwN3A4V1ZwZXQ2VlJBdWxYc3JhcHZWWklxTjJCMFJIREM5RGlxNno5bDhuZ2o1cDVqTFRhTGlFZlhUTzhSeEE1OEdQdGU4VkdEX3hvelJ6RUtvLXRscGc?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_804",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Apex Court Overrules Its Own Landmark Asian Resurfacing Judgment - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ0JlT3NpS2dlVURnYmVQaXNqXzRvZmZwdlNwNXhwWG5IRXhOUEVzUWg2Qm1Fbjl2aGJuMGdkOVVfNUltYkdWMjBTNjVGU0FnSTU2QXN5b2E2MVZvcjJBbnRxbUpHdW1RZGdwMERORnJ1YXRUQWpsOEVETkZCdnNLRnZLSVBkcTM0cmlTN19RSGZhQm5mSC0zTUY2ZlNLRGZiY1dvUk5kaXRmdXNsNDJSeFhLazdsaFpXdDFTTXp2a2ZYSGRqdUFZZmNjQVZVRzc3MmFubHk5bk8?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_805",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "‘Wrong Precedent’: Lawyers’ Body Protests Supreme Court’s Handling Of Noida DM’s Plea - The Leaflet",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb1pzU0VnbzR4V2VMX19ZejlWc0FIaDJ5SGlXT09hQWFfVjEySFJaT1N5RURiWXFsemhFUXhRd1FadHFyOUYzZ2FxUWkyUmF6QzNQc0dmcUpUY2d2TlFKTnMzLTlmejFoRVR2dHp4QmR1UVRVM1pXc1BQaEZmaVh6MnBaNTVBd3JNY1phZ3JyRUtNWjNfbjltRUwxbzJwbmlZVmhFR1VKaUhjdTBZWXA3VEhNZmhadw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_806",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Held That There Is No Mandatory Requirement Of Filing An Application Seeking Liberty To File A Replication Under Order VIII Rule 9 Of CPC Where It Is Necessary To Respond To New Pleas Raised In The Written Statement - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxNRlB1Y2ZoNmZES2dlX2ZOM0dwOTZMb0pHNHFzaUIwVFVYMG8zV2VTR3VKdE1TSWRiNjUtV3UwS205ZmRmZmR0dkpXNjdpaHQwS3FYREFabkhqQ1V6RmxXSDFXUHQyT1VoeHlOTllFQXh0VXZyLThYV0FaUkxCM0N2cERJLUpkUFhfS215U0hKU1JlZ24wQWNyMHduZkdqblJqUG9GZUcwZjZ4bHRMdGY0cGoyUnpfNjVWLUdGNE91UWY1eDBzZ09TMm15Q3dtTnhRUU5EX0o3NlJ6N1lxS0poUjlyNzlnZDB6TnNHY3RncDVKVGNRX252RlljWlkyY3IxSmhpTHQzTDNVRjdpMFo4T1RDal91dW10LXhEVlNXTk5TR045UWFWeG1pejlsUTl5Q1BwMVV5SDhXaVJfRkRqbXFnSjUzcU1pOEZsNWlNXzAzSDNWSkJ2S0NNRFYtaDBXTDhGRTlLVWdHc25hcFJ3SURwUHRUQm9VN0tYTGtSMzVaaHJKY0FwM3BtMG5jWTczLVZFYUN0cW8tUm1IcHl4d3JsRlJVRWtHVk9ybEwzU3EydnI0WG00REhxdUc?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_807",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Filing Counterclaims Against Co-Defendants: Supreme Court Judgment In Rajul Manoj Shah v. Kiranbhai Shakrabhai Patel - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQMmNtNjNrc19JWGZiZzFDd3RId1Mta01qdGthUDNSNHpKYXdwM1F1bGlGV0s0cFdXNWwycjQ3VGhUU1l5b3pOLVRxZ1V2c1NmYVZvUVZVZVJaVjdYemt6a1c3cFVGY285U056dkp3aDFxUG5JSi1TTGxIdmxLZk1WZ2dyeDVvRFZQRVB0VmlncVJjM2E4Zks4TENHNmR3eDg1QU9SUW5DRVh3VkFxcTl3WFY2U2I1QnlrRFZpOW9Fc1pvQWdGQXVEUjdUbmdFMjRnOUlkZG9DYkphX01kQTA0N3BXdkVMQTNRdkxESnJXbktyR3c2NEFrUFpXVWhhdGE4U2o4ampVaUtkYlVraElveGQydDB1andwWTBF?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_808",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Clarification On CCI Approval Preceding CoC's Decision: Supreme Court's Ruling - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVV9qQ29rSVBlODJqTEM0THdUVVpFc3ZrR1ktX1J4bDQtQ2c3WnE4b1R4WFEtLXY3LUxXQUJmS0JOdXNFcHhXVDQ2cXQ4NUpYaXA3eDFaVzBWeGtjNC1vZ0ttaDFEc2VFN2N1OVRWanMxeE01ejlJdWFwUlY2MWRHaUV5VlpmQ3Y2V2FqQl9pUnhJUDljMzJGVEZNTEUzOWtELTNvZUUzU3h2S3k3c3BRUEhxcnhVSVlELXFSeHdQYmk5enhBZzd5UHV5RmpZU202X1JSVC1SSWxtWkNMXzlSRA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_809",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Excludes Bar Of Limitation As A Preliminary Issue Under Section 9A Of The CPC - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbm9ycjZKMFpYMFhHQzgyOTB1UEtaRzVYNW80R3BCQjUtQXBIRTRlWXhPM0NvNzZQd2xOaGo3R2dSWVUzcUttUllaVHNaYWgzNTlLenM2aW1kVmtMdGZUV0VoUXJjQ3ctVXlkaFJodVlwN0JtekVlTWdPV0FxcGg1TFlqMDRjWFJwMFkxbDlvWkJVNl9iX0VLcUl6N2w5TWh3NHd5TDNmMUktLU1xMnlIY3hzSVludUIzSE9iajRQRWFVdXVoZEtEY2pOallYNGVTbmRwbHJxOWt4RTQzQTYtVkdKc1pJV052WkF3bm45QlhJZS1RRm9nVlRwYm0?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_810",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court October 2026: Explore Key Judgments and Top Stories | SCC Times - SCC Online",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQW1sREFjSlJOWWlNLUZ5Z29EWEU0TlFIVzFseTVFT2JLcjF1QW10ZFBMeWE4UGE0dmhZSDd5WU9DdzY4bDZNaUNRbUVfR1l5YkJ1NnJ3eVN2cTdEZFc2VjQxcDhILUZ0TDg0aWRJbVVVV1dZX2tPNEk2WERORGplajVQLUZESno5cG01NTFJS3BIcmhXajkyV3F3UktHOEU?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_811",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Delhi High Court Held That Ancestral Or Inherited Property Can Be Attached As Equivalent Value Under PMLA - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRF9RbUQteWlLNkhKOUczSHB5b1g3ZEV0WGRKZU92ekIwYlg0QXZkaVdGZG5fdDA4NzVzbVF2MUdGTU9XWmxBQVpqbEVqMWl2VHdUZXU0ajB4MzRPRndVODdfdVRFZHR2TTdlaG5pbkJJaF94R0JNVElrbE8tUU1KMW5oU0J5TjgtU0YzWjZiWVY4Qm5SX0s3NjF3cHJTZjNiLUItWndiM1hpdWNobEN1VGNnanBLOW9ybUZTd1pkVHFoVTVUY2hSZlF2U0ZoRDIzV2VkOUNUSlFQLWRLOEpvWFNmTlBSbTBuVWkxQ2ZvTkVYX3B2SGlPUVVwcG9TOUxCTVc2SA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_812",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Top 5 Supreme Court Judgments Of September 2026 - Live Law",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXlxazNzODdIdmttdmtJLWNmS09tNXpvRzVRMUFNUTRsdW9vRktHTUcydThhbFJEb0lxRGh0b3QzWi0yVklxTTFfVElLOWpjQ3pfdV9jNkdKSUI0b1dyTDFkU19hdVMwODUyYzZhTWJSN0kxOHZjZDB3YWRKR1l0eE5xSC1XbnBIQ1dvaDZXZFhGbmphSmfSAZsBQVVfeXFMUHlBTTB6S0hVWkhXbWZ3b1VfZUFTWGg5cXl6WUYzWENkT05NUnhMSmhEQTdfVHVmbGwtOFdrNTVEQ2RLSG9CN3VENlgwclh6YlROUjZCZzVSakVDWjY2ZWpJdWtSU0ppY3JWUGZjbUx6M1pxWDgwRjllWnJSODBZU00wcjN5SERDa0JWc0pBN01CU2lsWHhNNWRmZTg?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_813",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Held That Mere Pendency Of Complaint Does Not Render Arbitrator De Jure Ineligible Under Section 14 - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQWDZiSFN5bnFrb2VzRWlucGVocnAyVlE2SWgtV0xJWEJ2dlVWY0NkYkJzMi1lbVF0dXJCZGZJZHk3VFJyQ2tDdE1tTlRWTUhvdjBvYkpxVVF4eU5rZ0MzV2lCM0JNejNhZnUyQXhDOWdmSTQxaDU1XzVIc2dZRmxpaWJiRjNjNjAyOTB6SW1FWDloZ0pEdnctbWZGRlBCbXNaS1J3TjExcEYzT3FKNjRrR2F1V3RRZm9sdXRZR1lOeVZuM3MwT29QSk5aX2JXWG1hUzlrNTMtaEdkdUV1a00xU01DRFZ0ZmpJMEQzMWtiTkNIWEFEQkhzcnVjOXpPX2ZWdFJiWm1tVUdqVFNNMm1rMWtHcjg0RktXZEVhUExIT2s5Zw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_814",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "The Supreme Court Of India Clarifies The Law On Registration And Stamping Of A Sale Certificate Issued In Pursuance Of An Auction Sale By A Court - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQcHkyMl9aWnc1OHllLTNNajd0RmVfWjZodkRTLXZEa2JoUUM1WHdmSDdLYzE2d1VObF9vRy0yM2ZlS1UwYlJZaklTXzNORmtWNnF4X0ZUekFDdHRiUnFEeWszODJoX3B3dHJkVlB3dkFFTXNJRWx2SjJwVWxuUDFnOFMtSVREeUVoQmFJQTk2MnJOMWFySWUwQzZGMnBXNjJtUFk4bXpOX1lXZ29XSXhBNm5FaUtFdFE0YWQ3Q0t0WDlnelBMenI5MGo5blI1Y1loYlJPMGIxYWpJR0p1cl9YdFNVMWJqMWNkUW94MlFETm55ekdvbEFRMVB5M1liMlNsZ2RoeTh2YkRCVXZsQkVkNXNTa1RYOHFFbThVRlYtQ3Q2M2pXaFIyUFd0TkRfYmhQVEZ3LVl1TnBPdHprY1lJ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_815",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court Judgment - Tenant Eviction Public Premises - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUmNPN0NTMHB5ZDJSc3ItTlhaY0oxSmozb0h0eHkzQ2ljY0FvY0pFc3VGaHJEN0Rsb2JhYXZJN2E0Ylk3QjgwTkp0YVFqSzIzWU5leVI0WDVnLWpIU0pPUVRBQzRzdkltTlV4cktxa1p5dUZMUDdIMEFfcmRZUFdqdVBNLXdkSmhSd1pXdXMzeUJiMXJfblVDWWxoaGlBVXZ4LS14NWJOS0o2MmN3V2NwRTY5dDNERm1hTkxTNW1aUTJ3TnlBaEE?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_817",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Modification of Arbitral Awards After Gayatri Balasamy: Does Bhupesh Bhayana Walk the Line or Cross It? - Wolters Kluwer",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOX3ZjM1lUYjRHZlk0WWtENDhVTGJtSXEwZDJCRWNxNU05R0RGZEpTQXpyYTBCZkJla0dYY0Q0cjVCOHEwZG5CdUxrV2s2cG42MVdWYy13eHJKekJ2YmR4UW0xRi1DLU5MQ0FYLWJxVnh6NVVFRE0zYzhjUDNTaHdGVGRmVDgtVzF5eDdYTjFtUmxEQzljXzh0UHR3LVZpTG5DdGg3T2owTW9EVTZHVXotYmo4X25OcGlUbXlzLVNFMmFlX2lUajFtMDR2ejFtSkNaSDh5QlhiQTBHWFNKTW9DX3JJakVld3JHRk0yXw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_818",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Real Estate Update I Supreme Court: Property Registration Alone Does Not Confer Ownership - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPN29tdVdBbXB2WWx6RGVGSkk1QndXSC1pbG1MNHFQQnJhamJUU2paa01Vc0pnSUtTTklBU3ZYTVZ2Vm1UTmRZM3Z3M3NuX1BZc3c4Yks5X0trTFVhRWFiM1RtR3YtQXRvb29pelZPME1NVTh6RDVDNkJDYXd2Y2pFT1VDeVprVU1JeDd2bTk1eHNGV1VQQ0trZHVSdXpWLUxPMkxVSUZBRTZ6MFJYbV90MGlocVNyeFJPcTFxM2s4ZVFnWHc2TUM3U19UdnU0Qjd1VXV6cFcyVTJhYUVZQkVxeHhELTdaZm5mempXS1R4U2RGaUU?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_819",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court On The Right To Be Heard Before Taking Cognizance Under The BNSS - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQREQxbnRFLXFjYklvWVp0MGhFZEhETWpqVi15RDNaWEtMb1JCRGxBUmFsTFJBNG1BNFl6OGVOakFuQkhMTzE5QWdYY1hoRVhFdTlrX3ZRWWdHNS13MktuTE1jc3Zqc3RyV01jQ2hPRzcxUU5iMUFUZWIzeTdjVFlMcUs0N2RONkoyUldsaUozczd4RTJ5c3J6TnZVZHhpQ3dNTVBfSEVTZE9TeDZESkVRSy1YSnVBLTNtMkxvN2RrYXlRS1BOSFZoSDJoWTJ5eDRW?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_820",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "A Corporation Can Be Prosecuted Even If Individual Behind Offence Is Not Identified: Supreme Court - LawBeat",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORl9pbXE5VmN3RDlCR2Jrb0dMcFZfbnloVXBKaUJTUm5hQlg5eWwxVHB2M3U2d3FEbzJqOWl3Z2VEQlQwOWdobV9LZ0c5U1doWFFsbGRJNEZZOHFJVmhXeklObVVPSmNORnZ5Rmc5VXZMQXA2ckYtdGQtVndTSW83Tlk1Rk85NlJuYmpwTnNXVjRERmpRUVVnLTk2dmZYN2RuM0ttbTZuVzNjMmhJaTRLZ2lKcnktQ21yWUhSdmw3UTBhR2Ztd0kxdVpkNTJodmlSOHpxckFIQlVBOFZ4ZVliaDFB0gHnAUFVX3lxTE4xemJwVFF1bkFoa3c3dWNCRWJTSjI4US1IVnNTczNOTHZ3TTB3STB5Q2g2TGV4TjRwLVBaSXdGZnpFamFhVV9nVVNpbjBGS1N1UmZZajRFczBmVlF3ZDFXWlhMZVNZZG5RSWRMal9KZVJ5ekNyaTd1eml5QkdYWWNnU0RUVklWTmhDczQ3V25lS1RDN19RWkREOS1kRHVobzdoRUNwY3ktRU1tRW5KU0ZVZHJNbmpyVjBsMDNnUzB1MGNtVU9NejktMC15M1Z6dUhMcXJwYk5qSFgwcEtVSlMtY0Fob2N5NA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_821",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "What is the role of State government in appointment of High Court Chief Justice? | Explained - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQd1puNWN1b2QtREhpY0hWV3VKWG9tM1BKMzBpVnZWd3RaYk5xbE5LMmwxRFlnc2NVQ3NiSVdnU1gxMEJPM1pwNjU5bldfem5NdTVvTGhaUF9fT21BTUJ5RGd6ekw0M3hPWERUSUx3enJvRTVRRVlMOVktM0dyOUpBd0dfVU5OWnFkTWU4clI4d2J6dk9xZU5rT1phZkJOZlFRb3Z6OXVKSE1PVzVWN2ZHWUhBbHl6YngtbUU0TER4UDgyUDBDSEZuTUxndW1fczNyb2x0OTJzOGFlUUlmUlNuYnlR0gHoAUFVX3lxTFBmMzQ1Ti14STNMeFItSkVYZndRWHJKbndMc1pCNTg2WE1IZDV2OTR4VDNCdTIzTnFfdEo2UHpOVmJDTlJ2WGJVYURSYnl4WENyZ0pIZ3RPa0RuaHZRdXByaDFJbFRicXlseG5LNVp4WlF0WUxWVk0ybHBvMkpFRkUzV00wM2EteFpEdjNyZlJaLUdsUDlwU0JlbW9WVWhKcElOVG1PeWxRTHZoLWtTWkphanplcmNFd1RGcVFzdmE1Nl9lbUhGVTlzX2V2S0J6ZWhLQkwtMm40ZUJudnpoUEJobmxWbFo2Vm4?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_822",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Trade unions sound alarm over Supreme Court judgment on definition of industry - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbGlNa3NqRl9QNnFEUkxKQ0M0WS1CZ2xfdlRSUlZLUXJtakNNT3dDeUV0cUg1RVlEdGZkdWFNU0NLQzJuMkhHM1UwTmR6aWU1eUVBbE1rMHJEc003OG9HdzhabEpPOHZ4R01aX3pqSWRsNUh1RFhJNHMwSTFmRktMMEppOEdHT3Bpdk1MekRSOUNNUnNDWUY1Mm1aMGFYQlVGNWU1ZlB3aTEyMUpuZ3pKSUxtcHNyZm1GZVQ3QnpuQWdubDdBVU5vYkswenVqWVJVS1VR0gHaAUFVX3lxTE1HNTc1Sm1sRDE2YjY1SEY2WTJXZ2Fvd19aSzJ2VE9nZGl3VEhoYzhmV2h1dDh0M1E4OUNVM3paNlVlemZVM2RsMTRQa0w1RXBnencwOGJ2NWhaQkJETmdaSDVVX0k3T3JfNFpSQVlINTU4UU5ONUdZazVUNjhFV0F0MmM2dVEtaWNjNjRwMnF0QjR5U1R6WG0xVF9xWVVnUjJGR2FfbDR4MTZFOE8zOXE4dmQ0TzkyS3BhaDBLT3h2aW5WNFc0VDdHbDc5WTRmc3I2MWw5Ti1BckZR?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_823",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Delhi High Court Ruling: Charge Holders Can Now Register Charges Without Company's Digital Signature - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTXl1bENVbURpWFdBcVpmaVgzMklsbjNmWGhoQzZ5eEs4bXpPRXpwYk45anV4YUp1ZnFYQzF0RzNReV9kWDFaU0d2TTBKQk5UX05MOUdVNS1VYjhsV1VoVXlQSlhjR0dPb2FNT3FwZlkybktYUmhWY0t2MzJGSmZLcGV2UEx4R0xjN3FqSEJKeUxZM0FDcnMtZHVMODh1SXN0NktYenpYOG5WTl9BUkZLLTJTaDlJVUhOSjBnRWtlLXBvU3J2cnBXREpMN19QdThENmE2bGdDaWRnNjhwVExGSnoxNlZLMVhSRFdJdG9SbEhSNV9YTEJSMjdYc0Q?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_824",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Delhi High Court Held That Power Of ED Under Section 17 Of PMLA Extend To Any Person In Possession Of Proceeds Of Crime Or Related Records - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVlZuUXhiaXlpTXoybHd6X0haSThJZWI1R2F2aEFab3R4TkpiZnByMk5fengzN2R4SkdXWUNkakl3UlNMMWNTYWJvWWJJdGxGTGpiRERIQlU2Tk5DTVJMbXUya1ZvM1dGVHlqbUg4M3NIX2FQc2RNcXRrOEttTVdSS1doVnhRVXNsNXB3TWViMkx4TmdQdndRWUkzRUtIMG9RRG5IS01wYVdYWXVMQ3YwZ0d3R2F5WkpfdnRfME5XU0FmMm9EemtQSzZGUURGa2theDVzY29pSTlpZjZtWXJoUllxRTVhTzVEQUFndnVhN2REVEs5ZDVlZXRZbDFtbnkyTFl1XzZ2bmlZcUZlMlhLRElONWx2RkhYZ0w1aDk1cUR3dUJib1VYblFLMl9CODZG?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_825",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court Of Delhi Holds That Police Cannot Debit-freeze Bank Accounts Without Magistrate's Order - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNjlUUUhkT0FrX0piYVZJMHJsSER3Nm9hRnR2dGxKeWlPemxLR1p4U1dtX0tDdEFoMlZWbXByWHBTbDc5ZmQ3bmV5TUlPMzJJakc0cER2RWhSckNRTGxtRkJfX3l0dEpOYm1lVWdKeXZBZnY4ZVRfS18wTEtQanlVd0hLM0U3eTlSUkl0bVBaeVI3NVJQeGpzWS1mcERtbFZfYVdmLUhFNjFaOEk1bDY4T2FjZEdCSkZEX091ckpBcHdhVVB6WnBrazJLRDZOSFRrV2g0UzhXMS1WeWV4RjJrbjRwNHdSNmFURG9R?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_826",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Louisiana landowners leased a campsite for $650 a year and found damaged water and septic systems when it - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNVlg3enFXMDNtcndsb0t0b1hOTWQ0Ny0xalJWSTdOeHE3RHVvLWFzaFd5VmN5MVpza2ZaWE5fbndPMW1iRUtqVU9SbXV4eFZOcC1ZR0xYWkRuUE94SENlSF9CWS1majBVeUI1Xy16UzJRMkUteHRLSXhVTzZRM2ZiTHhjQV9tUWRjWTZHY0tVOFk2M3BOdDI4YlBkX3ZaczZkaEV0NFJUSjJsS2JGZlk3ZjR4X0xJTG9uc0JfcTQ0Zl9hSW9DbUhISXBISFRoamt3WVh4R2ZjakpHZm5OejM3R3VZaTUwM0EtLWdCVG9yODUxOXVzeGJkMXFzS3Fjc3BVdmtJUWxaZUh4NG5WNk9BMTlTVnF0UTZWU3JSMURVVHNRdlYwNjlnV3ZOTGd0TkEwbmNob2FHUGtZcl9pX3BnY1plTFVFYUxPRUcyZVk4Z3h4UEZhWW1RR3hKNWVGRE5XUEg4c3Jwd1U2VTZIU1BUVFB3d1pIcjExUWVENTA5cUlsYldnbEJV0gGMA0FVX3lxTFAtbjB4VFF1dWlkZjhaMGRUTHdFdG9EdlJzUmNEOC1pdThXbnA4alhIR3RvZzhmOXpYZlJnME1DZjU0MmFCdWwzc3BCVVFjb0xGQV9GQlNBalNLYTFYaFhlZzlUak9lWVo4Y29fQy1OeWNtVjFqS1JHbFR2VG1jZncybHRuR0c5Wm5vdWlHWkc4UHl4VXJiaHZnUDFveFRfaWR4d2tRRnhEbmJVeW8xVFZTSHRZN1Z1UEVoMVhjakp1YWpibHRsQy1mX0hYLWFHRWdPcXVnSTJndDEzcDA2TV95c2xWa3VGREdzU2dMUURjWUpXUlV1dXNjWUladU9UQnRXOTEzMXFwYjF4cVo5OU8tMWFjOGhhMEt2NDgxbklMejdnUU5YNE9DMWF1bWptU0l1ZG1CdTlQRjVxM1hPaTVQcXhqUTVfOXNmOWF3R0VBdUtEd0JWSDBCTUtmeUp1X3pVWWpObnBYbW4taWFEZHhIY3J1aXdCVVlrZkVMcThsYjBDNk5MZUo2Qmk4cQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_827",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Dharwad Women Farmers Preserve 250+ Indigenous Seeds, Win Rs 10 Lakh Award - The Better India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ1BfbG44UHNpMTk0aF9naEo2UW5ucFJnN00wSWU4ak1IczR4eHc4UHpuczJCV1lxcmxXbjVOanRBTENGVDlQSXhJOGhaX2RlR3B4NXEzUVJfdnItVkZPZE02RjBtcWxOblJuLUZMb2htZm8wajJFaGN5Wm1kQ3g0SW9oR185amxEX0FHLXdIZkZaWF9uT0N3anpTdHRlbjc1dEZ6aUNONzU0VVpBNEdQeTZB0gG3AUFVX3lxTE1jRExuLXRnUjdPak9fZy13bmNxTFhROWhzOVE0RXAwdzA3NHJ6ZXR1NzRsRnpkdFRJVG1sSWpKSkN2RnNPTVQ1bTVUdDllQUhjWjN4dFVrQkx5dU5sNjk4Ny1vUm5CUE1uVmlibFNQckxoZWZySEROMmtDOGt2dHFaQVN2d3pUaGdGazlldGxSM0pYcWhwWkRybjM4SzFoY2FsUFlveTJWazhQM2N5OXN6Q1FsTFE1WQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_828",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Barwani Police’s ‘Your Voice–With the Police’ Campaign Earns Prestigious National SKOCH Award - The Newsman of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNV2NtVklXcEhCM1lNazlDcVRJS21vRkpXWDJHdXBoODZsbjVjSkdLTUZBaGtXc25lV2t0V3B2NVBaZkNZaEhCUUduZjItX3JKQkd2TmhGWXk2T28wWE5kRWVGOGljdWo1bFhNZXhRUmp1d3VHd0laQmh4Wjl1Y2o3LS1ya1VsVHhzMDd2MVVkQ3UtLUp4M2p3eGQxWWJOUXY1VGo1ZFE5TWp2SkVmMUdfbk9rcVhvZkhHZV9vdW13?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_829",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Vidit Gujrathi and Divya Deshmukh honoured with Arjuna Award - Chess News | ChessBase",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwSl8tandRRHNxWDFxcE1MSXhyb0ZMYXBSWHdwMmFFLUl4M2F0bTFVd2NkOG9ucG5OVlNySmdJSDllYXdmZmQ5TTZmaWdxeWluaUI1Smg2cEtfYlpuQllzUmt4RDlJQ00zQ2JR?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_853",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court strikes down Karnataka law validating tainted 2011 recruitment - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbnQzbTRERnlvb3J5amZqbEdvcEFfZS13RE9qZHVfTG1XNTdWbXNQMUgtakRIYllqRmdqTzVZQXNjLTl3aDViSFI3cHAxZlZEX0NEVEwwdDZuTUNmMFMtdFQ5eGlPOHZHU29LdTNtaEIzY2V5cDg0UHVBeFg4aHduYlV5cFZNLWNDbXp4MVJRSUU3VDVoN3ZQM3FCUzhtdGgzZTBqckE5WjhtWEoxLWd0dkZtWjZSMXFqWkE0dDdfV19FdDBaR0ZxaUd1OVAzZk1pb1VZQXd4anRrV0E2VEs0SURzWVHSAeoBQVVfeXFMUFh5QTJzdTFmTTVNZldmNmZhazRmTUpOd3FSZnpqQU9aUnVEMXpOQjZhNEdEWFhvcmtBQzN6Y3Zldkt2WHVUUDZMR2RlYlMwUWY5SGZDRjA2eHkxYWxvRXdLTGhfbmVEdWR2VXZYQVQ2Ry1kenBTYmoxbjUyUmswWnM0X2RnZWJZSWFxdS1lX3ppaDJPWTdua0RWb3JESVQzSzV5d2k0VDZMZlhnajhsWWpPZkd2N1RaVG9LTDZ4U25nT1JxT1pQTzNObUdPYy1nMU85UGphSy1FTVZ3WmdPazE5Q0ZzcjZESXVR?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_863",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Pan-India Recruitment: Rajasthan High Court Says It Has Territorial Jurisdiction As Substantive Stages... - Live Law",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYmZVMnVFQ2ZlMC05THp0Rk9KR09QU1h0R3UxNEd5TjdKZ2tuOFJKR0ZrLV80aGhGc3ZDNGd6YTgzX3dHNDFfcllsZl8tVmRQczJMYmtVN0ViMUdoeGIybjd2RDNEMG03Yl91UUQ5YnBnLTk5QVhqOHZ3ZjJaSFZOTFZIcVlMV3F0UlViZ3RZeUZSU0EwVXFJalBNcnFna1d0RnBhLTJSMW5nRGVFQ3dQVWNWdzNlZUlNWmZZTWFRbWl2ckwzN1NlN01CX1RRaDMyM0R30gHYAUFVX3lxTFBvRHEtSE5NeDZJcGp0SnRfUUk2N1dKbVJtak50eV9mNUkyTzRPVVlPdGpyVFJidzE2MGNEV0RZTVdDTXg1SHhjdkduSUZlS2ZHc0NVb05ONjVRTENCbDdlV2lRaDB1MW1aMElPVkV2cTRPVUcyR0wxYXVfajNCSXVGYTdrRTJfeUhDVHZoOUgtTDZKaFlubU9yOTdJdWd2SDhvaHhJcVJQeURuY05LalZmWTI3SmVQT2NvWG9Td29zaTlRbmdqTUh6RHN3a3hUQnlUOTJTdy1QWA?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_880",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "SEBI Issues A Notification Introducing The ‘Securities And Exchange Board Of India (Alternative Investment Funds) (Second Amendment) Regulations, 2023 - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNd0xyTnZlcUtGX0pBdm92WFJzTXpuZE5uSzlid2dJTUpPRUplQUpxS29SX2FqeC1oTkstYXRVNVV4TFFPa24tU05WRVprZk5tNUdmYUNBRW5kaGplWDJNcFFaUFZJREF2eHdzTjVBTVdITldMWXF6UmlYdVJ0ODRZcjdwZzM3MGRnbFBJM0dRU05JYmpNc2VkRnE4WjllWVhqUDNLMTl5eWdncXZmWnJ6ME15VkZNbXpLV3d0U3lYNlF3MWNRX05fMlMzZ04tY0xuRDVycXVNMkloa2JaVGxncGs4TjQyZ3FjMTNCcjdqMkdRSG5ZdFZfWFFjeHhpUUducGZ6d2ctaG1sTmI1eTA3VnBDWnNZdFBCY3NsT2EzZmVFNFAwTGR5S1UxRUw5b054MWpMT082T0toZm9LeW5kd3B1d19vZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_894",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Amended Delimitation Bill likely to be tabled in special Parliament sitting from November 30 - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVVXeUROenNyelhVTFhKMDNFTUxfS011NHQ2Y2VNbFA5a01KcEtEUWtMNjE0RXNpR1JEckwxMzN2RzBOU0EwaEp0Q1ViQWFLQzdEeXF1dFVuRjlkVHJVdlRJbFlNN1BMMTJkTWM2Sk5RZ3BibTY0VU5DMXRUZllPTEtsVmVPNXFyUGdNVmFDcG1rM3h0LTI4bGduZGpDYUlzWERVanh6VGRzMWFMYzZfR3ZqNUNjVmt2TDI2Y09BZF9aOXNRZExuRVoxZlZKdGtLRTdB0gHaAUFVX3lxTFBmMDU4Ykh1NjNLTm1iamI4UXVnQ2RnU3BvUDBiOThUT2tsYmNiT1UtZ0VVS2ZUR1NocHpyMG1WS1d6UzUyS29VaUZxZDV3WjVoYTVOMS14WWJRaXEzWndhZE9VR3h5LUV0MThqekFJSFRMdXByNU5ZVUdNRU1yOEJUZFAzR3ZIU3BvaGk4SzcyTmdJTlF3OXJxRjZTZDd0RkJ5NTJ0V2xBNkV6cVUzZV93d3F6VzRMdFVKc1pGNUFwemhRcEV5WmZLRnJBMjhWaHNTUzBGWnJCUUNn?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_895",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Lok Sabha Secretariat announces four-day session to begin on November 30 - ANI News",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdUFmWXE0WVdrSjNGTUVuYlhjaWMwN1JLSkR3ZUVtZmFSLW9WMmpEa29XOGtBQzV5SmhEY1ZvTmVmbXZyRHRMN25oMjg5NWY3X0xIaHZUUzhVVGYxcFY0dkJiZk9kOGlXTDBqYXF1dk16aTlVb0cycndQUExyQi1aSFZ1SzEzby12Mjdtb2ZPYUVNQ080cWd1MFZOUUoyUHdsUEdRRkdxdlA0S05RVDlGOHpjaW5XelJVSUpIRG1RdjBDbGt4ZG9FUnFYeVFJRnVXLUE?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_896",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Modi govt hoping to get 'super-tainted' 2/3rd majority; fight on: Congress on special sitting of Parliament - The New Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMzF1ektIcDN1UTd1VTMtbTJRWVJrcDVDOENoSmNTcVdtdWpPVWlTTjJSNmM5cGRzYmc4S0RuQWZpd3U1ejRYbzNOa2JzWThKemR5SzBvRko4bzdRLUZreWx6eGhYbENQU1dObHNzMWJEdG01cnBUMTBCWEFXcE5UVXJObnBJV0tXYUZwcDA4TlVYSlBZdlNaSXhSUUlCTTV6LW9ZV3FyNUlURGdxa3praTN1MGxWVnh3d2VPN0FhUlVySWVZdDhkVnNwdmxXbC1XaEFNeXhfMVZYMHF3T25lVVdzT3BsZ3h40gH2AUFVX3lxTE1rcEc3c2hzWDBvbHZTZXg3RHlHajFvN1ZYQ3lXN0txa2Y4OEwySTRVMWlQcWJ1Z0dQNXBXUzlmQTRBU3NldFJiMmVrLVJMTUJmYnBtVGNaalFYSC04cEZmZjQ0REdNS0xCZEV6ZlJhU2dwOGdiNmQzUDRlUGhob2oxczAtQ0FOSTNMemE2THRXbDRqbDRzazJlRXJXWFpLUzJRNFczZFFxaXpNNzFRZHhWdjZEbVZfTzVzNEZIZktuRjRIQkl2X2RiVVowdjNudEdsZlg4R056Qll1Ry13TTJQMHU0ZWh2RUhsWW9LMG85YW91NFVMZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_897",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Special Parliament sitting revives buzz over delimitation, women's quota bills - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPVk5oWE5SazhMUmEydS0ydmpROHRNZU5WMG4zZkFXS2c3a09salVDejNGWWJPX1RhTGhhTFZ3M3RrWlBoaW5vNlFnUEtKczVnSXc2aVJtM3R2alBMRi1ZV2gzbWJhYXBZZm9JVW04RHphWWFfS0dYTjVfbFB4a2lkeGJ6ZHBLLVhHcy14VURLTUZ1Z1lQZVNfbHplRm9zYkdlaDBMcFFoaTF2Y3h3bW05QlNBNVltUGV3ZWp5NzVORW9FeTF2MnNIbXYxWFN6ejdxTXJpSHhldGpGeEVvNnVqZnVBN2JpSDFCaG5RN28xRVY3a2oyeFhjaDJDcXdHLTdCNHpmUUlBSzfSAY4CQVVfeXFMTnE1aUltc1M1WDBZaEU4V1piNkMtNFJoLVQwck91dGl0TUJ4dDhQRGQ4MDFidHl1QjlyX1p2Q0JIZ05DczJoc21NSkpyZ0JpREhMMW1ZUVhWN0ZvbEFlNHpTUVNJVEU2Uko5Nmlid3RLYXB5VEZJVUgxdG1QUlVsb3V1SWkwMHdRSkxMRXg0bDN1V0hSOWpUWHRDY1Q1UVJiN3ZMbDJ0YUt1aGZYeFctdk94OHN6bVViNjI2VVRCdlFaaEdXdU05TF9OWHBpNFdrN2xZZmlucVI2VlMycEh4dVE0Y2cwNVk2LUVtWlZuTUQ2QjJjWEJVX3NSdVpBVGloMjVoRklGb2FpS2o0MTd3?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_898",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Political negotiations shape the proposed Delimitation Bill before the parliamentary session - India Today - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUxSekF1Nm1NWUxOYUZVOW95UmVvYTE2QTRHeTlBbjVidDBJTVM0RU12eFN6WGdzcDhfcC10TEF2Z2ptNm94NXRBbl9UUC1TaEdKVGZBcFFNSmkzdF93Rjd1U2hxSDVQR0RwdE1EUE5saHhsTWJXWHJtS2ZzNHFkT3BCYVctTm5PZDNxVTdiRURaNWR0Ti1tdkhVdl8wLXdjbFowTXFkclJiYm9PNy14ckZEY3RiWXh3MERRbzI3dTU2bHBDZlhqdXhTRExVNFdrdFhj0gHYAUFVX3lxTE4xUXh6U2lyNWZuMHdWSGZUYTVjTjNwaWlDTjdpU2gwMHpmM2dmeGZHWWk1aXRBTmh6MVNuUlJZNlNKbXphbmd5ZDlKWEFPQzNBcmdsZGZOS21ydzdSOEZaU0RxVjdNT1FONXBKWVdmaU4tYkVvdGh2enZxVWcxM0o0SkZFZUNaU3FYalRRMmFmOXJBWWpDSHlobFNyVnpXRGVYZXlCWlRBSHU3YmVzd2NZc2Q5NEV4SGpudXJkTDNXeDktYkNtVTZqMF9XRnlzWFpEU3U4NURJUQ?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_899",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Delimitation, women's quota: What's brewing ahead of Parliament's special session? - India Today - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQMDNGdkstZlUxcW1tOS12SXpiblU4YktnRUVhLUVyaWhnTWx1aVZhMzROWXZtN3MwYllfV21YdTQwZGRMTHJKX3dwREhONFFpT3Z6eHFxVk9YcTdOWGo0R2lrUy1Delc5ZFpsMmo2MGxibTY2VEc4QkhEb1ZkV3NtbzBEMGRLemtoSUIwVDZxX05hYzlaTFdIeWFsTlNNM0J3Y1Zpb1N4N1NDb2pQdjlIWU1Pck5xODhYLVFndjBPM3U2VENmTkFibkVtQnIybUpKR2xxaFNFN3pRRWN5U1Q2cHRwODlhQzjSAecBQVVfeXFMUDAzRnZLLWZVMXFtbTktdkl6Ym5VOGJLZ0VFYS1FcmloZ01sdWlWYTM0Tll2bTdzMGJZX1dtWHU0MGRkTExySl93cERITjRRaU92enhxcVZPWHE3TlhqNEdpa1MtQ3pXOWRabDJqNjBsYm02NlRHOEJIRG9WZFdzbW8wRDBkS3praElCMFQ2cV9OYWM5WkxXSHlhbE5TTTNCd2NWaW9TeDdTQ29qUHY5SFlNT3JOcTg4WC1RZ3YwTzN1NlRDZk5BYm5FbUJyMm1KSkdscWhTRTd6UUVjeVNUNnB0cDg5YUM4?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_900",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Reforming India’s Tribunal System - www.pib.gov.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmUmxvWnlHTWQ3MDhuaEFLbUdSTkFPWXFzcmlBTVpGaGxMdnFlU1BXejRKbU82cDFib01ORl9SOGN4ckttV2ZDVFhKMy0ydjNLc3VDSGlpemF3ZXc3TklzM0dEcHZuc0c3?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_901",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Parliament clears MSME Development Bill to ensure faster payments and quicker dispute resolution - News On AIR",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZUNhNUo4enM4cmJiUHhiTUhXMVhLNmhkLURzVWU5cEhXQktnOEhkVms3Z3h6aHJ6TWRPUVlDNnN3OVZlSlFTNG11ZXVKYmd2eWRfQ3l6ZVB3dUZqYmdrZVZmeUtzbjhMbEtnbUtiNG4yUDh1dmtvcW00YzNJUlBycGZWYTZBU2IxVDRCbHRxNGU3Q0M5dTdyNWl2ZUtJZmsxajROOGNhSGxzZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_902",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Parliament passes bill to improve efficiency and transparency in Tribunal system - News On AIR",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdndVWjhuQ0p4STExVmVGUEk2Tmhpcnp6N0dMODhyYjNNVGhBQV9KM21POTBPU2tUNTFMaW9hb0Nhd3pJTWUyT3dSU1RvMUVEZ29UNTNmRUstZGlLbGtSN0Q5aF9EU2xiNFNMUk1VNEFVTXQ5ZnNTamxOWmxFWXlOaXQwU0ZSdHR1Yzd1bUE4RjRoNXd3RWYzY1dfSG9NSUFYMWxaelRxTUlRZw?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_903",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Special Parliament session this month, govt has numbers to pass delimitation, women's quota bills: Sources - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQWW0zZGlvM0xubHhINHQ1OTZKMHdXYm02emRhMGpKLWtNaFRpc3pBeTBHVEFsOFpNd3d2dEw4WGtlWDdGVndsNF9pX1o3NlpyaUNJdVRpQmdkdFlGRXFHY0I3QTUxUmJ6NkZxZGUtMzgxUmp4aEgzVXN2d2U4bmJvN1FHSjRSTHJOa0c0cTlzOEtNZ0liN0JrZTFRQ0NZRVA2Z3VLczkwbXBweDJmXzlGb2RxLXRsMVVrbWlDNDNXTTdFaFpfU0NIVnhZc21ETU8wTWhfRUQwQUVMVkJfelE4bkppTnBsbnFMemMtUEw5Wk5LNHNU0gH6AUFVX3lxTE51ME0zbkJ4aEZmRnZvdy1wSEt1ZmgzbWhDTjd3cHBaMjVqdlNYd205OW45blZJSVBTazRyekVTcnNxVmxXdHJDUXJ4c0JGb2ZGVTRxUHpNQ1RRNThxVjE5NXh5WFBtek9KOUUybGZGbTNHblJuYkV3YUlyQ2Y2Ty0zZDdPRWVmd0xGR1dsekJVS0ltalMyTHpka1BpOG82VlNHN0lOVFVJbG5Wcm9pRkpGV3IyYV9RcFR6ZWR5Q0pmNF9COWJiS0VPSjFNbkllNXRJblNlZUIyc1JOd0RkLVF6a3RQOGQ0UnZ6OWpxRjVfUFlKdG5IbFE5cWc?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_904",
+      "kind": "article",
+      "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
+      "title": "SC stays HC order for CBI probe into alleged irregularities in UP Vidhan Sabha recruitment - Deccan Herald",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUEtSNkgwMjNjOEg1VC1ocHVFS1FLMmJvRmZGdl9JeXd4SG5YLUZHZ0VHckZVMkNuX0MyaUJCdHNrbXF5NkE1UTVYMk1tTFBWSlRmZ2RoTUlmQWxiLWNJTGdQWWJzZ1ZKTS1jSUxjV1B3TFlVMDY4ODNVRDZFeUw0MXpHRzVOaktxRnNKVWZ0SXZ4NkZPNm1YamRsSmJDZ2dsS3NEUWY1YnQ5bmdkckx1eS10djR5RW53MnFjN3g2SHU3Z2lDMlhFSVNULUE4UdIB2wFBVV95cUxPU0lSMl8tTWVRazhGODBuSVhqa1VnMUVEYWtEMUhLczBlZVppQkFBLUhaeG9DaXpFbTI5TlRWWmV3UWVkOVN1RlNmWHpDTlFtenpaMXNuUHltZXRqOHU2QXFiNXFYUFgwRHV1OGtnZ0dodDFWZUdaRHhZcm5EOGJVZmRRdGlONURNVTJaSlVFWFFRS3ZRT05KYnU3cHNCN2hOY0ZqX2gzeHVFaVhKR3gwM0EweHFvNGJJMmxHNExRSm1UWm5FTmZoNEl3dU5jZFkzRUU2REl5bjhPQW8?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_905",
+      "kind": "article",
+      "category": "UP Vidhan Sabha, Vidhan Parishad News and Activities",
+      "title": "Congress Mukt Hui Vidhan Parishad, SP Aisa Kaam Na Kare Ki Vidhan Bhawan Mukt Hona Pade: CM Yogi Adityanath - Free Press Journal",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXVZMU1tcUh6a0hxNGRuamlieThKMzRpaG4teWZnMjItem5zZ1hibjR3UXh3UzNHYlY3Q25GbTRseU9aa2l5N0ZSTDVMWmNMOVdmZ0xab1VoWDY4VXlzQkVlQnJ4bFU1QTNaT0lsU1djWmEyaEtrUHV5d2F5dHVKMS1RT2hsY1BxTnpvcTBVaDI3RENYMVhhVWFqMXBLLTdXM3hMVlpNQVVfTU5Bdl81SWFYMUVGVmpZMFZZRDJkSVh1YndJUnBhNXh3ZGFwTFU5RVpNejY2bUVFVnd1d0hFczFVa21lZ9IB6wFBVV95cUxON1F6Z1AxMjNiNURNRjFjUzNOX2NFbmZmWHNORm9oZ0E5cm40SUFhOGN5dkoxdUItd0VobUFVNjVCUkFzM09od1lSUWI0UU1valFNbUlkcVFBbFQ3bkVVVk0yXzdyRmVFSTY0V3lZTmdzQTdjb045UHRwS1lRSDUtT0tfRlZ4MDBQbWtJOExFbGU3SVRaYVdmTFZwRG5GOGZpMFNxREhnN0VGWnVzU1poZUxoOXdYUUpBVlVDSUtpcFNjWkp0UFNmanNxbXhrQUNxWXk5djBBTDFTYXoyalJqYU5PU2xIUm05SHhV?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_906",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India eyes 7–8 GWh battery boost; supply diversification may cost 150 bps in margins - BusinessLine",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcEFMOTZPbnR4RFU2YXRpczN5Y0gwZ09LSGVqcmVBaGJVa1pvc25ZNnRKV1ZKTTdSWi1ocm1FbUFRMXNscHc5VmxtVGp6TFVYaTVhOGtSNjJUSVpLM0IwQ3pMRjR0Y3hfeWM5YUtTdlpWWDBNc01zM0tPc1VmNkR2eTVqM0g0T2tVX2YzenRBSFRLNTNzbXZyNG9LLUs5RzZobmtJWEdHdjFtV293NXpBZzJRUkg2TDhIdjFOT0c0NzZNVHIyVzItUkJuX3hUVFpmSGlnQ1hIRk1RS2Y5bWo0MtIB5wFBVV95cUxPbEd1OEhSX0pzaFNRSWZscHJHUm1tN2RxZ3hBS3dTLVpYeTJsejdXaFlGenFTemRpYmp1NFQxbHU0TkpIMWgzRElURVB5UjhDR2k5Wnd4RklfcHNDSElZLU9tWUhjM3FxZV92ZlBBVElKRGt4NEZxanc3ZW4xX25mTGNUR0pYdllzRmdFS3NFMGtlWURaN19STUZYVnpqczVjRTdjMGhJMkl2R2JjSTljN2p4SXpaalJrNUZKVkhpWkNPWm1lVm90dkZITUx5TTJOc1RLSXpqMm1Wb3VKdVNrM3FCUkZTN2s?oc=5",
+      "date": "2026-11-26"
+    },
+    {
+      "id": "art_907",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India’s space economy to reach 40 to 45 billion dollars in under decade as private sector drives growth, says Union Minister Jitendra Singh | Akashvani News - News On AIR",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNV2JGUGJaOFFCdjRPbGI2aWVhTDZYdmNpWGducGNvWUN5YVVrMjJYSncweWVpMGhRNHdPY2RGVmVnUi1hWV9BbWlTQUprbng2bldvdVdaa1Flcm9zeDdnV1BIMDRFMzhDeXFfbTlDQ0dJVXpheEY1Uk4xdUs4TkxnTDQyOXRDcTNlMF9KQ0Fpc2xmUkVOcU8wX2gwWHhLQlJ6LXVQQ05VMWdKczNPYVFJY3djcHcyMWJtNzV1NU1uREE0UlNkQUlEV1drSTZSWDFHQUVsUm5MS1JtUElUS1BHTFJ5WVBkVFV5NDNCRkp2cTBUMjdlVlE?oc=5",
       "date": "2026-11-26"
     }
   ]
