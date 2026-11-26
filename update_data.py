@@ -9,7 +9,6 @@ import feedparser
 DATA_FILE = "data.json"
 RETENTION_DAYS = 7
 
-# All 9 categories + Sarkari Result + reliable multi-source feeds
 SOURCES = [
     # 1. New Case Law and Recent Judgement
     {
@@ -18,6 +17,15 @@ SOURCES = [
         "source": "LiveLaw",
         "url": "https://www.livelaw.in/google_feeds.xml",
         "keywords": [],
+        "fallback_all": True,
+    },
+    {
+        "category": "New Case Law and Recent Judgement",
+        "kind": "article",
+        "source": "Bar & Bench",
+        "url": "https://www.barandbench.com/feed",
+        "keywords": [],
+        "fallback_all": True,
     },
     # 2. Daily Current Affair
     {
@@ -26,15 +34,25 @@ SOURCES = [
         "source": "The Hindu National",
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
         "keywords": [],
+        "fallback_all": True,
     },
-    # 3. Job and Vacancy -> Sarkari Result + multiple reliable feeds
+    {
+        "category": "Daily Current Affair",
+        "kind": "article",
+        "source": "Indian Express India",
+        "url": "https://indianexpress.com/section/india/feed/",
+        "keywords": [],
+        "fallback_all": True,
+    },
+    # 3. Job and Vacancy (Sarkari Result + Multi-Source Jobs & Exams)
     {
         "category": "Job and Vacancy",
         "kind": "job",
-        "source": "Sarkari Result",
+        "source": "Sarkari Result Latest Jobs",
         "url": "https://www.sarkariresult.com/latestjob.php",
         "is_sarkari": True,
         "keywords": [],
+        "fallback_all": True,
     },
     {
         "category": "Job and Vacancy",
@@ -42,6 +60,7 @@ SOURCES = [
         "source": "Lawctopus Jobs",
         "url": "https://lawctopus.com/category/jobs/feed",
         "keywords": [],
+        "fallback_all": True,
     },
     {
         "category": "Job and Vacancy",
@@ -49,6 +68,7 @@ SOURCES = [
         "source": "Bar & Bench Jobs",
         "url": "https://www.barandbench.com/category/jobs/feed",
         "keywords": [],
+        "fallback_all": True,
     },
     {
         "category": "Job and Vacancy",
@@ -56,11 +76,28 @@ SOURCES = [
         "source": "FreeJobAlert",
         "url": "https://www.freejobalert.com/feed/",
         "keywords": [],
+        "fallback_all": True,
     },
     {
         "category": "Job and Vacancy",
         "kind": "job",
-        "source": "The Hindu Recruitment",
+        "source": "Jagran Josh Jobs",
+        "url": "https://www.jagranjosh.com/rss/josh/jobs.xml",
+        "keywords": [],
+        "fallback_all": True,
+    },
+    {
+        "category": "Job and Vacancy",
+        "kind": "job",
+        "source": "Indian Express Jobs",
+        "url": "https://indianexpress.com/section/jobs/feed/",
+        "keywords": [],
+        "fallback_all": True,
+    },
+    {
+        "category": "Job and Vacancy",
+        "kind": "job",
+        "source": "The Hindu Recruitment & Exams",
         "url": "https://www.thehindu.com/news/national/feeder/default.rss",
         "keywords": [
             "recruitment",
@@ -69,12 +106,18 @@ SOURCES = [
             "post",
             "posts",
             "exam",
+            "examination",
             "upsc",
             "ssc",
             "judicial",
+            "pcs-j",
+            "pcs j",
             "apo",
+            "prosecution",
             "apply",
-            "hiring",
+            "bharti",
+            "admit card",
+            "result",
         ],
         "fallback_all": False,
     },
@@ -82,16 +125,18 @@ SOURCES = [
     {
         "category": "Internship",
         "kind": "job",
-        "source": "Lawctopus",
+        "source": "Lawctopus Internships",
         "url": "https://lawctopus.com/feed",
-        "keywords": [],
+        "keywords": ["internship", "intern", "trainee", "stipend", "fellowship"],
+        "fallback_all": True,
     },
     {
         "category": "Internship",
         "kind": "job",
-        "source": "iPleaders",
+        "source": "iPleaders Internships",
         "url": "https://blog.ipleaders.in/feed",
-        "keywords": [],
+        "keywords": ["internship", "intern", "opportunity", "clerkship"],
+        "fallback_all": False,
     },
     # 5. History Articles
     {
@@ -100,14 +145,33 @@ SOURCES = [
         "source": "Live History India",
         "url": "https://www.livehistoryindia.com/feed",
         "keywords": [],
+        "fallback_all": True,
     },
     # 6. Science and New Research (Include Archaeology Research)
     {
         "category": "Science and New Research (Include Archaeology Research)",
         "kind": "article",
-        "source": "ScienceDaily Archaeology",
+        "source": "ScienceDaily Fossils & Ruins",
         "url": "https://www.sciencedaily.com/rss/fossils_ruins.xml",
         "keywords": [],
+        "fallback_all": True,
+    },
+    {
+        "category": "Science and New Research (Include Archaeology Research)",
+        "kind": "article",
+        "source": "ScienceDaily Top Science",
+        "url": "https://www.sciencedaily.com/rss/top/science.xml",
+        "keywords": [
+            "archaeology",
+            "ancient",
+            "excavation",
+            "fossil",
+            "research",
+            "study",
+            "discovery",
+            "science",
+        ],
+        "fallback_all": False,
     },
     # 7. Parliament Update and Activities
     {
@@ -125,6 +189,8 @@ SOURCES = [
             "mp",
             "speaker",
             "constitution",
+            "adhiniyam",
+            "sanhita",
         ],
         "fallback_all": True,
     },
@@ -141,9 +207,12 @@ SOURCES = [
             "vidhan sabha",
             "vidhan parishad",
             "assembly",
+            "legislative",
             "allahabad",
+            "prayagraj",
             "yogi",
             "high court",
+            "uppsc",
         ],
         "fallback_all": True,
     },
@@ -154,6 +223,15 @@ SOURCES = [
         "source": "The Hindu Business",
         "url": "https://www.thehindu.com/business/feeder/default.rss",
         "keywords": [],
+        "fallback_all": True,
+    },
+    {
+        "category": "Economics and Commerce Article",
+        "kind": "article",
+        "source": "Financial Express",
+        "url": "https://www.financialexpress.com/feed/",
+        "keywords": [],
+        "fallback_all": True,
     },
 ]
 
@@ -169,6 +247,8 @@ QUALIFICATION_RULES = {
         "legal",
         "advocate",
         "court",
+        "bar council",
+        "judiciary",
     ],
     "Graduation": [
         "graduate",
@@ -179,9 +259,21 @@ QUALIFICATION_RULES = {
         "bsc",
         "b.com",
         "bcom",
-        "any degree",
+        "b.tech",
+        "degree",
+        "bachelor",
     ],
-    "Post Graduation": ["llm", "m.a", "ma", "m.sc", "msc", "post graduate", "pg"],
+    "Post Graduation": [
+        "llm",
+        "m.a",
+        "ma",
+        "m.sc",
+        "msc",
+        "post graduate",
+        "pg",
+        "master",
+        "phd",
+    ],
 }
 
 STATE_RULES = {
@@ -191,9 +283,12 @@ STATE_RULES = {
         "up pcs",
         "up apo",
         "allahabad",
+        "prayagraj",
         "lucknow",
         "vidhan sabha",
         "vidhan parishad",
+        "upsssc",
+        "up police",
         "bharti",
     ],
     "All India": [
@@ -205,6 +300,8 @@ STATE_RULES = {
         "central govt",
         "india",
         "sarkari",
+        "ibps",
+        "rbi",
     ],
 }
 
@@ -235,7 +332,7 @@ class SimpleLinkParser(HTMLParser):
     if tag == "a" and self.in_a:
       self.in_a = False
       title = " ".join("".join(self.current_text).split()).strip()
-      if len(title) >= 12 and self.current_href.startswith("http"):
+      if len(title) >= 8 and self.current_href.startswith("http"):
         self.links.append((title, self.current_href, title[:300]))
 
 
@@ -247,8 +344,8 @@ def fetch_sarkari_result_entries(
         url,
         headers={
             "User-Agent": (
-                "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
-                "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+                "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+                " (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
             )
         },
     )
@@ -274,16 +371,17 @@ def fetch_sarkari_result_entries(
               "post",
               "bharti",
               "apply",
+              "online",
           ]
       ):
         if low not in seen_titles:
           seen_titles.add(low)
           results.append((title, link, summary))
-      if len(results) >= 10:
+      if len(results) >= 20:
         break
     return results
   except Exception as e:
-    print(f"[Sarkari Result fetch note]: {e}")
+    print(f"[Sarkari Result Fetch Note]: {e}")
     return []
 
 
@@ -328,15 +426,20 @@ def remove_old_items(items: list[dict], cutoff_date_str: str) -> list[dict]:
 
 
 def collect_entries_for_source(src: dict) -> list[tuple[str, str, str]]:
-  parsed = feedparser.parse(src["url"])
-  entries = getattr(parsed, "entries", []) or []
+  try:
+    parsed = feedparser.parse(src["url"])
+    entries = getattr(parsed, "entries", []) or []
+  except Exception as e:
+    print(f"[Feed Fetch Note - {src['source']}]: {e}")
+    return []
+
   keywords = [k.lower() for k in src.get("keywords", [])]
   fallback_all = bool(src.get("fallback_all", False))
 
   matched = []
   all_valid = []
 
-  for entry in entries[:25]:
+  for entry in entries[:30]:
     title = (entry.get("title") or "").strip()
     link = (entry.get("link") or "").strip()
     summary = (entry.get("summary") or "").strip()[:300]
@@ -353,12 +456,12 @@ def collect_entries_for_source(src: dict) -> list[tuple[str, str, str]]:
 
   if keywords:
     if matched:
-      return matched[:10]
+      return matched[:15]
     if fallback_all:
-      return all_valid[:10]
+      return all_valid[:15]
     return []
 
-  return matched[:10]
+  return matched[:15]
 
 
 def run_update():
@@ -379,7 +482,7 @@ def run_update():
     else:
       chosen = collect_entries_for_source(src)
 
-    print(f"[{src['category']}] ({src['source']}) -> {len(chosen)} entries")
+    print(f"[{src['category']}] ({src['source']}) -> {len(chosen)} items fetched")
 
     for title, link, summary in chosen:
       item_id = make_id(src["category"], link, title)
@@ -422,10 +525,11 @@ def run_update():
     json.dump(output, f, ensure_ascii=False, indent=2)
 
   print(
-      f"Done. Articles: {len(articles)}, Jobs: {len(jobs)} (Removed items"
-      f" before {cutoff_str})"
+      f"DONE. Total Articles: {len(articles)}, Total Jobs: {len(jobs)} (Cutoff:"
+      f" {cutoff_str})"
   )
 
 
 if __name__ == "__main__":
   run_update()
+          
