@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T21:45:31.993267+00:00",
+  "last_updated": "2026-11-27T00:58:11.983353+00:00",
   "jobs": [
     {
       "id": "job_5",
@@ -2592,6 +2592,45 @@
         "General"
       ],
       "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_1022",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "BPSC Issues Notification For 935 Assistant Education Development Officer Vacancies - NDTV",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWldyOUk1TWgyWlNDYmRRTFlGOGtKS2pTamNISzY5Z3ZHTHRDYnI0Rm9PbG8tZjcycGx6enRvUXEyODN6c3Q5Nl9zQ0VtcS1aUEJCS0ZHTHp4SGJ6cDVlbzRaR2QweW1YdVQ4Slg3U2V5WDRvME9ocjBvOV9Yd0dLR2kzU3hmdE95S19HbEpFeGdZQUdyUVJIbzBVR2tFakU4U0Q1R0R0eUFRcndVNVIzZHAweDhTMk9Ya19MajRuSkt1TlYwa1ZzdzQ5WkNfTEwzUEJIa1NQeHZINGlsWlFj0gHnAUFVX3lxTE5qcWVJeEtOY2dGX1RzNGJ6TTJvVnI1QUdzVmhKY18zekNiVTg1M0ExaWo3bGg3WE1CbFV4Q0x4UURrZlY4TTM0QW9DamU3eThYcFdiX3FGTHViQjY4ZV9BR3JGV1BlWF90SEhpY0tIY0tjUjctaUx2YjhDd0U1OUNTRDFpcE5zMDUwSnBMVVA0Sjc5dnZHSHIyRzc0ZmswdHZUVlJTVU0zcGktaVR6X2xLLXk0a01DaFI0VmNjVFZURy1YZDRsUW5OYk1ON3IxbFJFU1NBTVhHTS11dDMzbFVOTlpXUXRFWQ?oc=5",
+      "date": "2026-11-27",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_1023",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "Man Poses As Bengal BJP Minister To Influence Teacher Recruitment Process, Arrested - NDTV",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3lZNFZhWGlzV3J5RU8tQldHdEdkZDBXaUtERklmaVU4TTAzUjlIblUwb1ZxM3prbXQ2bE0yY2JSWTd1ZC12TXNHYzhJS3VmN3BDSUptb2dnZldfRjk4S0oxa0xmMV9CbVp0bG1hUy1YMndwUmROSDk3dHAxNUF5dzBDN09xdVpEc1BmRjJBZ3lfdkRxakVsdGNkZlpTcFFpME5qUElZUzBsZFE3QUNfdzlGd1VmYzVSbjhHVU13N20wdE9FbUxMTC1iNGZoNzhEZGdR0gHbAUFVX3lxTFBRQzdVVTlIaG5FTjh4RXlGWnJTay12al9JX2FRcE43TDEtdjJiSGt4ZGZWY0ZmVG1PMjROa01fNGtsTHdUajBfeGt2eV9lVV96bVZCUHIyZEJVZDJjbTROSnNYakVzdzNuU0Z0cWdhNzJvNkowdU9HLWp4RjVYREc3cWRReGhZc21JSE5peTZuS2N0MklXa29YM19OVDdyZ0tCM3VrUFgzUGdLYnQ5V2pFOTRzX2RRQnZtNW1vZGJkOEtCeWpOTGRRVVRWbjhCYnJYSHpSVXVqamo2Zw?oc=5",
+      "date": "2026-11-27",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_1024",
+      "kind": "job",
+      "category": "Job and Vacancy",
+      "title": "UP Anganwadi Vacancy 2026: District-Wise Worker & Helper Posts - PW",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YX3U4RlRaNkJvaTNab2dpc2RsMGgyWFJCVVhnNHpaQUdkT1E1SFA1eVRRS0RHNDJqZll6Rk9Kai1PbFRBcXhOOC0zaVh5RXRKQWFGaElkUHlZZjFsOXRF?oc=5",
+      "date": "2026-11-27",
+      "qualifications": [
+        "General"
+      ],
+      "state": "Uttar Pradesh"
     }
   ],
   "articles": [
@@ -9902,6 +9941,240 @@
       "source": "Google News Search",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYjFReEZQYlYtMF9QOVowOWFOQVAxXzhOckhRLUlSaDdhWDk5MGUyWGRLa2tvSVd2dDB2ZkhJNGNwR1dzdU5wczJfdUxuM3FuemNDalg0bzY4d3BzTk5jNTJ3QnFTaUFvblF4TmVGTHVFazFlNXNvTHNxbGFndklQeGtTRXVqQ0NvZ2x5em5ncER4NzdsN1ZZNHpIa0ttYzdOZXVSUkZSZS0yLVpNSHdjQkZYS2RGZ2hlVXlnZnVNUVJDUzJ3RXVzQ2hCTDJ6djBMV2hOaERKcGVhUQ?oc=5",
       "date": "2026-11-26"
+    },
+    {
+      "id": "art_1012",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Shielding Creators Or Protecting Copyrights? Inside The Madhya Pradesh High Court’s Ruling On Instagram Copyright Takedowns - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPQ1hKX0ZKckZjU005ZUlfVEpFcHVWZWoxdVdNSUhsQWpFSzUzVGxQQmVfX1c5d0QzeGx3dlhDbVZvNzVvVllWT29OZDNyeWJtcmpvV2hNTjFqcVNQRGo0TkRKbVppNUo4V1BRbi1NSFBUa2JKZkk2T1REQ1JRTW1LVi1rUExVbnhjazA2Z2Vzdzk3Si16U1djWmNyRHpaZ0RiNDg3N2tGTGNmby05TWN3aklwNmViUGt5WnBMUHdlSW9uRDZDUmI0anRPV1hiNXFKaEd1M0dkbThnQk15TW03WFNWV2FPQVNJQmZfa1luTUZ2Q1E4MThLSWdQTmZSV05JMWdSM0RXdlpjS1hTbVNMUnZzTGc2UQ?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1013",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Kerala High Court ruling clarifies scope of government use of patented medicines, importance of affordability and need for evidence-based intervention - IAM Patent",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRXk3ZnQtWEJWZEFaMmlIWk9QT3k5cHVhMVB2YzVvSGJjZGRZSHVtRldGNmdUR1JUamdldXRRRXVPUWdhUDNEUEJQdU5uelJhcjBTd0NPZnFOSHhZTC1RQlpndXZ5ck9ZVG5HTXljaGJNbVQxWURMQzBwNnUzaUlObms3cmJ5alpkMktmSEVKM1dSNzdyODZYZ3ZKSG1xU1pseVpfYmxic09YeEdIc2E0S2dGMTJmMjVZUE42Znp2NUxnRlY3OE9nNWlaWUxUbjZVTXhyMXlSRHRnNjlibFd4T2M0NFZscGxYbVVKZnBHSTRmeVJ2YmJ3R1JrSFRwT09NbnB5MFNidXlQcG8?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1014",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "High Court ruling threatens right to FoRB of Overseas Citizens of India - Christian Solidarity Worldwide",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVHFuZjJQY2dRZFRLREFDUkRWbXNQNVpMdXJmaWNtZXp0ZGdQZElWUFJ4MnlDQ19ERFBTakpJYUZEamc4YU9BUER4b1VFMEdUSVNOX2VldjFCU2tRekJiQWxTaGJBaW1yWjVtU09Ga3J4aWI0R3Q0a1ZraldIUGU3NzV0ajBTRVdvY0VXaTBWRUlCRW1HeUk2aGxFb0Rrb0dOLXNJ?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1015",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "How will preventive detention cases be decided after the Supreme Court’s NSA ruling? - Supreme Court Observer",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXYxX1dnNVpiVV9wVzBMeUNXeTA0eWpvMWRzTFpNX2FVdXNoSlJVcWp2ZGw0cUNfWkVoTnNtWmhkVWVJd0Y5a3lWQUpnVTR3Zzl2SmlMR0NpQVpCV0EyMXhZUkxsVmtRU2F6bEdfN0pxb3piQXpqMWpUSkhjTDhvbnpkZFdOZ3RzeVNOOTJhdDRIbXZndDItRkVRSmJEQlAwNXBDOFFYSm4tV1hxYnVOTkZVNUpscU45LUhISF9ydTlMS2c?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1016",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "OBC Creamy Layer: Supreme Court on Parental Income and Reservation - Drishti IAS",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOE9tY3dIWkYweDBOTDM2SGJNbHlQWGgzbU9veE1nVkJNZ0xNc2poaUUybzBLc1FHVjUtWG4za2ljUUhmYVhnUUIzUGtFNUpiOHlIOUtENEVqWm5BcEZJTUd0M25qaWlMeDNjV0plaDRSck9CMkZEcUtzQm9pTHEyZ2M3Sm9tZWdncnljQVNEcWxxRjBPdGFwYmNYUVA4eFhhektNZkJTekdwUWQ1MDdwWm5TdmxyeHNlckNoOE5vcjBwSmlH?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1017",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Supreme Court reaffirms OBC creamy layer ruling, rejects Centre’s plea to limit its effect - Telegraph India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHhvTEgtbGpCTXVNSU1WdVNULXlvWkk5TWVnbDlfc19RbnpIalM0S2d0STNlYVpIRFdhSldVOU1HQmdWRnRmVnZvRDZpUmtFRjlocTk4MjBPYmlOM0xYWEgtRXpGTHdNWmoyMC1GdmxicWFkOVowSjk3bGtDM3BzRVZRcVFSdmtSTTRJN01kWW9ITVhVLWNXc0N0YWR3eldqcXNyLVBkeDdRS0xLUk1MeklvNURCSWNiX2RBa1JWd0xFVXBSNHNNYkZuc2lMS0dnSjIw0gHYAUFVX3lxTFA2VFB5bXVlXzhpUkN5ckZGdVRBQUxYZ0NhZE5WeVJiaEZqSnlSOWxYamZCWExOX3g4eVNONF8yN056Q0hCeXBSRlZtcVk0SFZRYlloODhUMnk1OWRJaXYzbzRKVmVMbEw1REdubEJscGRlQUNCY0xRdWpvUFBCNXZkYnJ6cHgyNUF4UVRETk96X1ZLblJQQjJjcDc1elhQNkR2WmVUUlNTTXRUM0hLUzhMc3VHMzR4V2lIMnJJODZObTVmNGpyaHpXaldJdUE2WXJUS1hfSi1zSg?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1018",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Specific Performance Cannot Be A Discretionary Relief: Supreme Court Of India - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUHg4OFNudlJTclhOVzBsd1BZYmZaYVprSmxnN3Y2bXhRVzlLUy0yd1JYR3JKa3BkSXR2NG5yYjZuZXB1YmpDUlhkM19wZzhPRWh1eDRHSHJJQ2FSMklhV1dSRldUS0NkUlE5eGU0dUE2V1JhZG9oZ2l0alVXWjd0QXNNMnMtT2RBZlR3VE1QM2EtOHViLWxJV3doVVpzM2c3NUF4ZkRGY1pTX3lyLWp6Q2hmNjRYZ05DUDhRbVV6X0VXOXl2SXpSY1NoZDR2SGliXzhlQzBMdGdETTBzajd3QTA4MUl2OHZ3?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1019",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Vicarious Liability Of Directors Of A Company Is Not Automatic: Supreme Court Of India - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSS13ZXZxVTE3M0JJdFF3MVcwVXV4ZXY2WjZnU3c0TFhJaEc3UU9MSmYxZll3bmxObGNUYUdaV3JxMEhhcm9yOXJVVFVrQTJsd3VSR3FraWhOMklFRGwyQ1MwTl9pUUQ3QUtGSFJWYTBUSFpUYnpLVmY2MUxQd0oxeWQ1VXE4Rkw5aTNJN3Y3eWVJYVctZ1R2RURVelVjb2VfdVAwNkU5aUhGc3dYQ2VJMHRvTmNIa2RaYjQzaHhmcDJJZFR1V2V4cGRkVEl5QnpJeDJFd0xfM0E1UW54dlU1SWtQb2FXUkdEMFE?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1020",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Indian Scientists Discover New Deep-Sea Shark Species in the Indian Ocean - www.pib.gov.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JTFhxNzdOVkJvTG1YSVk3ZUM1R3lQNURVb3RCUzlPa1ZTYWRuRHhQcEdmWl8ybVJ1T1k3T2NmR2V3X0xXUnBNLUVLUGcwMG9aWV8yODR6SUR5eTBQVXU5NUVzbG9NajJ2?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1021",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Asian Games 1962 gold medallist I Arumainayagam conferred with Lifetime Arjuna Award - All India Football Federation",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMTZqVEo1S3g1OUctY1hVU2RmUXhLellKS2o4T1NHRmM1N2NJYkgxSk40YlpoR3BTeGhqdHM0eW5hNjJmYVVldWhmVGVxQTduZWFvalhqTTVnLVAwdHJEcFJqYkVvODN4cl9KYWRLRFFjdUprbEd5eVBpREdsTUkzZEpIdUloSmZfMWdDSldqS0tyeXBERFVlWmV5X09qX3NaZElhZ2RocXR1ZTJqVlBrYlk1bVpEdlM2?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1025",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Special session of Parliament from November 30 to December 3 - Scroll.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdWFfX2t2Nmk0M1BSS1ZLQXJJdFFzMVRpV2l6SF9pcHdveGJSc01OYkpqSHhSWmVVaW9EOFlMZmVzTmxDT3NONF8wSlFXVGZ5SDAxX0cwa3FiR2w4XzJXWXE3RFp1OEpZaVEtZVRMSHRjY0RDN3ZOZFQ2c1FKbDBvR0xoSWt2cnlFSzVnY2FIcXFZcmJGeVQwQ9IBngFBVV95cUxPM2hNRXdrSG90aW5SZnhoQS1Bb2tDODBJb3Z2ejRDaXVBRjF2U0xIeXZIZW9aZExTOC1JVVVHNWlLZlI0eXFVVDhteGZkN1RpZE1GOVJXZldWdUpNZzlPSXdsc0paMU0zYklhdWNfblZmWThpTzhFd0k4MjRkV1hOYVU4WE1KUXBBVTRSeVdRVGFKcUxJZmxocDZQaUIxdw?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1026",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Special Parliament session from November 30; women’s quota on agenda - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcHNLd1lHdDJDQ0hPUktsVHUxdEtZVndrbHFZdVVhZFpiSkJtenVXZUZ6SVpKelJCTXlGTk0xMENPZ1p2V3h2ZmtMX3lCOXpqQXZ6YThBaWFGa0tNUEFUWXpuZkxQRXNmeVF6UXotR1RkMWVxWnlweXFfTDZtc3k2UXk2dHRhQkdNXzJhV3ZGLVk5MDhHR3BfS2l1SXJheWVBamxRMGEyTllKMUR3aFlaRl9Bd0haVjJKaVR0cVd5VnNiV0tNUl9PY0cwUFJtZnPSAdQBQVVfeXFMTXVGWWtkVFVHNlNPYTl6UVJ2M1c4dThIWlpoTTNmaGlXQWM0ZG5UZnF3MzZVNUduWnZHZkFuZlJUbGRCUTVKYWJmcm44aGQzdHV2X01STkZJOWZRR2ZJTUtBek8tdmJSU1ZQTW5scTlPeGRhSjJidzRsRlpFU0hPNFV4WDNMSS1LV3dyNkthWktxSWhkdk0tN3NWaDYwelNnTXA5eUR0bG1SVEdLNWNyaVVKaEpKUFFGQzBLN25peFhtS2dKeHJ5Q0hDcnZjSVpFNTVxOW4?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1027",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Opposition worried, feels government won’t risk another defeat - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTmVKSlZNcElILVNZUWdDVEI2Y3dNR3Q4T3MzejhkYnZwOHhFN0dhWk5LMURKNzc5Qk91WE91NFY0U09vNEdyRjdLSjFUNEJpSWFvRlYwNVdodHVqWTNDRmhuRS1IOXhpMk5HU1dJTkhPX0gwUExTSGxKUDdWNjcxMko0TmhDQVNfbnVkUFJ1SVRsanJ0ZTViZ2FvVkxlN1FkZURhdl9ka25XZ2Excm82aVFwUmppejV5RDg1ai1ETU84UV9DbTBv0gHMAUFVX3lxTE9WUnBLN3NGNGVzSF9mNm1GdGR4LWVsUS14SHIwT19OSm0yeTMyV0p3MnZWaHU0aEs4TWlqelEyVnV0MnF6NkxXSXd0NjBHOV9LMWxmWHpVWWx4TndKOHA0N1RYNWo0ZkdfT18wbU5iaVlCdVZHX0lmNk1tY3lZenExQnhoUUZGUmhOV3NTVUY0ZVNjVmpXdVJiS2xzckM3NG9ZZDVTRHdFQWs4VlFlNi1fZ2tHbFROY0RFZm9qSEF2aDZuYWJJNVBWenJEWQ?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1028",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Govt proposes special sitting of Parliament from Nov 30; delimitation bill likely agenda - ThePrint",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnRYRGFPN2hGVWpmQTFFclF1eENsLVlyajNSLVdCaHlZN0NkeDVIZDhpaTRGbUJFMWhjQXBpeERUdHBNSkw5aHQ4dW5aUm1haFdwdXF2Sy1LSERQRlpvTFR4RWdxMG1tTTJ5ZnN2cGtFaVZEM19oMG9mS0NpNzM2UmJ5WTNvbTNhZ25aQWpPTi1kWXcxSWRCbnctNUpSN09YSThvWVJSZmZjeDNXRnNnUFRkVlBmd01zQlg4NzNnMNIBxAFBVV95cUxNXzZYMUxfZUo2YkxZUlNUN3YxMXoyRTBUUl9pRlBjREsydEdNQVNoc2g5SUItZ0hnS2FKTXZ5VkFQZDN1YUl4WnJ1d0JwNklyYm9wVjVKZTROa01DYkhYaFloMWtoaUg1cmFSZm1xQ1RmLVlIZjFTd0MzWFBoYnZUX0o4MEZkcEYxTkw0QWMwZEdYLUR1bE9ERWZTMWJUc2tlTGRKMEk5M1AwU2VnZXRjUS1zZGs0TWVaWWlRRnhtZWQ4dEZU?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1029",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Parliament number changes show government could secure two thirds majority - India Today - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT3AxVFZKWDhzNlYwUjBDaTRSTzdPcjhCajBzSWNRMDFNTk1PM2tlMWMzWXlUQWVpLU1CdzVZXzlZRUhhQVlqbkNhYi1BM2NQd3dFYWYtdmo5SGpiMEFUam1DNmFwSGdKY0R6V1NkMVlpQmZCTkpQSEJCSnhLdVhfREdxSExkUVFzX2Q1VlM3QkEtdUlwUWJCR04wVF9HMmxLbm5BRkVpZVliUnI4TFh6WF9obTZyWm80R1hROGhuVjRScXllaV82N0twR2jSAdIBQVVfeXFMTk9sdGdReXdPbmI3YWd2YmxZUjVSYkFuVU01ckhScWJ0NEJMeE9kRWRQTHFjSlRBbmNqMENqeWlDOEtteFNPcWE3R3hlQmpGbi1nMGdXaHNuVUFoRnpBVGpKU0ZReEc5MFY5WWNZRHBPWUJXYUdoSGtUMmQzYUFCdG14aVJiMTJNVExHZnd4MWlPb1NmM0t2X0p6cUhrOXMzelhUaW83dVlnNTlJQ21rVGMzOHBmVG9feUlVbTlqNGlzYkhldHR3cjRJcWdqR0l6MTZR?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1030",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Centre seeks to reconvene Lok Sabha on Nov 30, Rajya Sabha on Dec 2 amid delimitation buzz - The New Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTm9tQWlOVi15dFkwX3ppUThheGFURGpob0FpZjlQRFREaHpsOUJDaHZUVnhJdHZtVlFBcUNRd25ZZGlNUXZDR0QxbnE1NmtacmZNLU54aFQzSW8wN1JUcmMwVWllZkczWXc1TmhXLWlkTnY5a1VpM1ljeFd1a0N5M2tvcFFhbDdMS0xjSHBYNHJuQUZHZThpTEdLWFNGNWg5SFJ4WkduUWlxTE03cFhRbjJxd1ctQmo5S0NFLW1Eb0tTcjRYdmlSZ0pqbFdMR2VreEU4NlMyTdIB5AFBVV95cUxQMDRjYzhfZmRYM3FRUUE5LV9CdUxTUG9ZQVdTX2FfNDNqWTFhbE5hQThncTVydmQ3ZExXRUJNRWhTdFZMVEVBYVpkWGVuMS1WaWlUSlg5clNXc3BDb0N0Nld6aVNRRnpqbk9Uc2IxX3F6QVF2aEtJRHpTTEY2aDNZNGlfLW9pa0xFMGwtdkpsclp3NDhzSmhTeFk0Vk1Sb2tuWWJ3X21PZHUxelAyOWFTU3JNOS1kU2ZSR1RSYW5zU245eU84eWpKNHZUWXBKMHVfUGk0NmFBMGFCNUlULW5OeGNVNzY?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1031",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Delimitation | NDA banking on DMK and NCP(SP) for numbers game in Parliament - Deccan Herald",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDFuS2V5ZmNySU91OHNaSm96em1SS192YTNTVlBITHVXWmdHa1NwZVJ0VlhMeVVNVmFLSGk3NnlmWkp0VU1BV2ZiYnFwMjI2QVNPdmZGTjh2YVFIYy02Qi1fQnRjcDBWbVRTMHVFSzh0MUpINkp4MjZ5MXF2RVpaZF9VOVJ4ZWJqRHBMZVFJaXc1M1NZSnRwV1J1b0xIdm5kUU9aejNEYkp4UWV1Q25rSTNzcw?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1032",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Parliament’s monsoon session remains unprorogued for record 88 days - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzFLRWpzcVRQaW9OMGZZUFFmOEJJaXMwWkt0Qjd0MHN0UEtHbnFwc1JaNkZiU0w4UVJJMUpvVHNDc1dteDgtZ0RiUDczSGFldk5SbzFwYkl6MFh2OU1HR3ZzbTRWMTJ6aUMwWW93MlFGbWlFaHotazlrRFRvVWxxM0k4UHJKNDgzNWRHemRQRnRmUDlMRWdWUW10UEZadkhrUWhRTGQ0SlFQT193Z2s2d3hIcFBZVy1HdXRUbjl0dS1TUDjSAcoBQVVfeXFMTlJ6QTNPT1ctZXZmcjhzVWpNZmY2d1JPeHFyVDNxaDdvVW1PdFVlcC1jLWp4dnZlZ2x4TFhWdm5ndVNfN2wwOEtaSnl2TXYtbzVkTm5FQjFRMVd3ZS00dG8zWTFqLVBJaVlpSzcxQmYzdl9YTUNOY29IWFNoMjRad054end5eUFfdVVzSVU2aFlqS3lldWpCSXZxVmo4dEFEdEducnJwRVB2Vko4R0pDNFJqeUN2SG52cG1fQnk4Z2lfWFFJMjI1SS12UQ?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1033",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Government planning special Session to clear Delimitation Bill; Congress calls it a ‘bluster’ - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSkx5dFUtWGVoT0RaX3dtM0dXS0g2Z2N0Y1I4M3R3SVF5MFdjcklEbC1YNzQ4Y1hJekROSG13Y0dGZ3VRSWd0d3ZmcVA0TjhTek9QczV6amROZ05WRmtSaDFMSVRVMm1uZ3paMkUyTlpOTkViV280ZEVVS2NCTDNGekNkaVpLQ1ZMeVFLQmluZnVIa3Jaak9STjdzLXdrSGJxNnJ1TmMyMzFhcGZnQ3hRZ2NPMGdOXzhNOS1EWE1mOGxyQVBfZ2FNajlMMXpDU0dnNnVvaTlhQ2FrSXZCNWFkLXhoa9IB6gFBVV95cUxOS2Y3RldvSld2ZmIydHRfSUJyaTgtX3N1OEVFVnJiMHZDX1c1QlY3NDZuQkd1elVYcFJyX2dBUHJfNlZVOFBKb0pXWnVRVXBTTmphMll5THhUQ1lTdXlTUHNyajBrejFqaFAyLXdRY3ZOZTFyQUd5TzVFc2pTVXA1UFdkZ0dqZkgyWXBKZFczV0QwTmtmenRENV8xcVNJVHVrSWs3NTc2ckZwMkNRYlg2Yy1ZcEI1M1FoTVhCTmRRaGkwUWpHcDJYamY2bDlnZmtIeW0xekhXOFpnNGE4R3p2TnZPa3Y4dTQ5dXc?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1034",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "What is prorogation of Parliament Session? - Manorama Yearbook",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjQ0RFR2anllcDFVMTROZlZEeU5FX2xqQTZ6SDNlaDFLOVNWWkNkMnpUd1AzcW13LUxLcVo5N1JqZUkwczQyeUxZMGl4SGJBU1djeWZqRFlpczBxelJVWFZxN093ZGhDVHpHVWRQWV9JcnlDNjVlS284ekVuZlM0eWVzMW96TDFCM3NjNjV1cWJHTlJWUTQyTUFzUXhiX2NLQnQ2VVl3?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1035",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Tibetan Parliament-in-Exile Continues Tibet Advocacy During New Delhi Outreach to Indian Parliamentarians - Central Tibetan Administration",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbUgxRHNSYmdrZVNrUXpqU2dGaFFVZEpLWHpxVmxfOS00aEN4LUhNYWN4QnpSRnZ0T2VndU1HVVBpcGpmbUVsT1gzS0ctajFxRkRwRkZpS0VwTVp1UkRXVXFXdFZtUEdQTml6aGZYd2F6b0VWMlJnS3Z4UV9SaVkwX3BRU09rSkhWLU1mWlZaV25RSUpjM2RLQXZ4ZVZfaVh1aWx6NlRrcDYyM2FheVl2TkdUdXJ0cWdPRTBRUXFRZXpuUQ?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1036",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India’s central bank repatriates another 60 tonnes of gold in 2026 as share of FX reserves drops to 14.38% - Kitco",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOGE0WUZ0UVRyeHV2dHBJRzFzTUdnQlVnT0NBQnVwSHpybk5hRV9PVHhWa1E4ak9TaGVFbFlLSVNGRERqbFQ0UVh4WldETUJkLWhnczlOSDBCcDdwMGx0dmJ0QTBvY2d6X3F6SXIxRUxDX0hRWi12ZGxmRms4VzRETlprVHVmaHFjZi1fQjVGRjltZXhCOUo5R3ZPTVNVbWN2NHdWdzc5SERVUndJdU45cXZ6QnU?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1037",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "India's 17% US tariff offer may not improve export edge over Asian rivals, exporters say - Telegraph India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbWZRbFlHWnZEaVVNSnZFS2FLNjhDVWZGTXNYWUVHa2lKWVU2RUtQdHY5bTlrekZCbTJNM0hva0JWT3BoSjFHRHFkZjV1d2E4UFpnbEtYYXM1WE1KbHphZ0FXS0trS3J1SzFpLTVITkh4ZnJNY25XeEt5TnFybWN2TWNtb3pubmxCd2hZRTNOS0NBeTEzYU9tLVZjb2M5RHo4akphYmRqY2hsY1BYNEo0SXFtODk0Q2k2SkVDMF9mWkJyNmRWdkZSMkNjQVFGMUlndFJ3aW5qZ0xxOEJfcFNvOGY4VFhEUdIB6wFBVV95cUxQRVhYbWt4Vk05YzJ5OXg3MnZHMC1LN29JSlBOSXhFT3JuZ1gwMFhPbTllU1REbzItTHRFQmQyV1FuM3plNDcxT2xfemZsNklrN21lcFlTUWRuYzZXSG5xRnpqSG5YSV9yRWlrUkhyZXAtLTJTUEFJenZ2MWtvbnB5UHg0UUVpaldLMGw3NTJNd1hkRElTdkVhUFNiRjlCZ0lWT2RWTEhFckRXNzAwbHlqYWhNb0phX21TNWtTazVDZmlHc05YcmpWSmZYblpQRGE5YzRubnV4SHBkZm5JQzVRYWhTM2VzYlJLS2Fn?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1038",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "As Trump rebuilds tariff wall, Delhi must seek trade certainty - The Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc2NsTmFSQ053RGhZd1BfSVpBM1Jtb05keEhzWTdTSDBOaHVQVV83Tks2eWxEbjZocllVcUhneFY5OGZ1UDd2WUdSeV9kV3Q0dnFYSVBFdUJZd0Uzbkc5cHF1T3NzZWVkYmV3ck9SV3FkUk53OU9HUHdHSWlaRkxMdXpPN2dIdGEtWmJESU9ZS29uVU1NQTNsemRpdENmcDB4aV9TetIBqwFBVV95cUxPVi1QbGh6QmF6U2dBazhxU2ZQNU5zSG9jVzVDbDZYYWxXMzFib1JodktWejRTdDlWUmJkRjBISzZUNFBWa3VvN3FFNjdCeEk0enB2TmQ1WG81VlpBS2IyS2FHV2dHY3BmYTBQMWdfbl9LMjBuWDVsdzl4NHRyVTZ0NE1jVzZCcXNORDZoRWZUQzV0SmdVQjc5NnhLckZyeVRldzlOQnJ1dDRYd0k?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1039",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India’s Investment Appeal Strengthens As AI Trade Unwinds, Foreign Flows Return: Motilal Oswal - BW Businessworld",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMDJYaE4zVFhfS3Jnc21CY3FBZmhWNHR4R19ZOU9zNEJpeU1hR2xVUkZNWW9nR2tjZjREdUN0alZJSlpCNjBfanVQaFEyRXhKWU1MbmxGSTNVTEVsZzV5ZHZWUkVFZjhteE9tYlM3OWNhT2tYTHFXSy1KVHpSZ2djYkpjd0ZoQk51M2JPQU9aT3BCakZDTnNaRmlLMXNsd2l3X2luYklkc0RwZ2VfbDNRbW8tNUxZTVpnZUg0UXdTaVowSGJTS1ZiVGhWc3dxYzcyREE?oc=5",
+      "date": "2026-11-27"
+    },
+    {
+      "id": "art_1040",
+      "kind": "article",
+      "category": "Daily Current Affair",
+      "title": "India–Turkey Relations - Vision IAS",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUnZQWDQ3cWlKTDdYVzFPOGNfMWY5Z1p1UWRfbWQ3bGNKU09nejhibENtQ0hub3JMTDRZdkc1UF9CcDFyN0FVRlE4aWhUbWhEcXhWRV96a0JKa1k1QVVYaVdPRTJycHByR2pIUTlzTHN3N2N4ZWYzWURhekpnRXNxcXAydkdvMWRjVk9yWkRuakZoYmVqVU05STVYaXhWZVdpS0JaT1BkY2hodHBqdDBlMg?oc=5",
+      "date": "2026-11-27"
     }
   ]
 }
