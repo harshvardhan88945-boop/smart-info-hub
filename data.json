@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-28T09:44:30.088565+00:00",
+  "last_updated": "2026-11-28T12:49:13.537926+00:00",
   "jobs": [
     {
       "id": "job_5",
@@ -4246,6 +4246,32 @@
       "date": "2026-11-28",
       "qualifications": [
         "General"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_1893",
+      "kind": "internship",
+      "category": "Internship",
+      "title": "Internship Experience @ Sharma Kemp Chambers, Indore; Drafted Writ Petitions and Appeals and Prepared Trademark Search Reports; No Stipend",
+      "source": "Lawctopus",
+      "url": "https://www.lawctopus.com/internship-experience-sharma-kemp-chambers-indore-mp/",
+      "date": "2026-11-28",
+      "qualifications": [
+        "LLB"
+      ],
+      "state": "Other / Unspecified"
+    },
+    {
+      "id": "job_1894",
+      "kind": "internship",
+      "category": "Internship",
+      "title": "Research Internship Programme at IJIRP [Online; 1 Month]: Apply Now!",
+      "source": "Lawctopus",
+      "url": "https://www.lawctopus.com/research-internship-programme-at-ijirp-online/",
+      "date": "2026-11-28",
+      "qualifications": [
+        "LLB"
       ],
       "state": "Other / Unspecified"
     }
@@ -18307,6 +18333,537 @@
       "title": "National Constitution Day of India 2026, History, Significance - Vajiram & Ravi",
       "source": "Google News Search",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLTdWd2pkbVBiUmYzTktYSjN5Z1BuYVJYbWxqMWhqTUVVbmE0RHhQeW1JLXJlbV9uRDdNaVF0YmoyY1pqbXdXSDAtUFdadHNPNFFnWkY0SWRhVHB4SFNyblpaQldKanRjT1lYM1IySUZTTzlGX3k1V0RiNTFYVXRGN2xVbVY?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1889",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "RGNUL adopts 8rney’s Agentic Legal Workspace",
+      "source": "Bar & Bench",
+      "url": "https://www.barandbench.com/Law-School/rgnul-adopts-8rneys-agentic-legal-workspace",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1890",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Kochhar & Co advises EnerSys on India leg of its global acquisition of Ultralife Corporation",
+      "source": "Bar & Bench",
+      "url": "https://www.barandbench.com/law-firms/dealstreet/kochhar-co-advises-enersys-on-india-leg-of-its-global-acquisition-of-ultralife-corporation",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1891",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "LawStrings announces India's first Box Cricket Cup for law firms and in-house legal teams",
+      "source": "Bar & Bench",
+      "url": "https://www.barandbench.com/news/lawstrings-announces-indias-first-box-cricket-cup-for-law-firms-and-in-house-legal-teams",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1892",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Law School Darshan rebooted: DSNLU, Visakhapatnam",
+      "source": "Bar & Bench",
+      "url": "https://www.barandbench.com/Law-School/law-school-darshan-rebooted-dsnlu-visakhapatnam",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1895",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Judgment Writing Competition 2026-27 by Faculty of Law, GLS University [Online; Cash Prizes of ₹18k]: Register by Dec 27",
+      "source": "Lawctopus",
+      "url": "https://www.lawctopus.com/judgment-writing-competition-2026-27-by-gls-university/",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1896",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Thiruparankundram temple dispute raises alarming questions over federalism and Supreme Court’s powers",
+      "source": "Frontline",
+      "url": "https://frontline.thehindu.com/the-nation/thiruparankundram-supreme-court-order/article71754251.ece",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1897",
+      "kind": "article",
+      "category": "History Articles",
+      "title": "The little red book",
+      "source": "Frontline",
+      "url": "https://frontline.thehindu.com/newsletter/reading-with-frontline/amar-jiban-womens-writing-and-education-in-bengal/article71741523.ece",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1898",
+      "kind": "article",
+      "category": "History Articles",
+      "title": "A breath of fresh air",
+      "source": "Frontline",
+      "url": "https://frontline.thehindu.com/books/kannada-konkani-short-stories-in-translation-review/article71707240.ece",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1899",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Madras High Court Judge Justice GR Swaminathan thanks SC judge Justice Aravind Kumar, cites his ruling on access to justice - www.indiagazette.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNY3h4b04zaTIyTDJBWlEyY05jd2o0TU5JRWR3aC1qT19RMFVKb2tSa3VSS0pRVXh2VE4wWlhIbzhDbUxDNWtOWVlCQ2RxMFRYSXNreHZtVDRXeHJObGkzdUtudlNuRTNpUVVpVEx3cm56Mk9EbzE0dGx0akhYNzdiVzFydmwwb2xpcWxzMXlRS1BUT21HZGZBaWxuUTltTHBubkRBbGNhNG53VjJXRThhUWRUN0pmTEs3QkU1cHp4N1JULUwzYUY0WlZNQUE3aGxNOE83TkJ5SzgteGZtXzc5Y2pscENwN21NVmQ0ckx1TXB4Wk5oZTUxVWhR?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1900",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Hockey India election to be held on December 5, says SC, sets aside Orissa HC orders - The Meghalayan Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNFdjd2FJNXMzT3hxTnBNV242TEFqVDJkV3c0ODRURXBiMndtRG1EVDM5akJtR1dVaDVYVHd6T3hkT1VhbVNjSDVBUkdJMnlha2Exam1LTnR3ak5oTWljRjdYUnluNFJfOXhFdDRPb2JDbkhCbHNrVVhacUZDOUN1ZVRYd1RPNHFxOWdCQWM0d0pMVnZ6SjJMOFdWNlZkY240X0ZDdXJCRnY2MURsRlM5TVpaNEJlOGc?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1901",
+      "kind": "article",
+      "category": "New Case Law and Recent Judgement",
+      "title": "Statutory Tax Charges And The IBC Waterfall: The Madras High Court Ruling In Avenue Realty - Legal 500",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZUREaHExQ3NkUFZCOVliZ2FtSTZEMFhjVWlUa0huSDg1WWgtcWxRbXdYd0xZM3RVRUk4OHVYOGhtZ05kTlNMUEk2YjR1ZFZrQVJ0aTJwVXBFWUtBS19sOWQ3OV9rcmFJb2cyTm9DMHNIbXZ1clVDZFBIak9jNEhUMWJrTHROeDFMcnk2RTk1R2lGdzhydm14LXdWWHRXYWc3b3VzdnBGWXRNNlRLTFhqb0FYZ1lPNzU2THZQQ2NUQXhmLWFiQ3IyY2JDSTlaSEFpUlZqQVdGT1hvdkhadmQ5MHFIZXI2dmxSZHF5VGk0T05IZW8yUzh3RWRB?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1902",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "Sivok-Rangpo railway project: Sikkim moves closer to first-ever rail connectivity as excavation of 14 tunnels completed - The Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDUyczE2dHNpNDFBVVBPVFhlU3N0VlpuRi1PZU9tNlNpY1EyLVZ4OVhKZlJfUXBuSEpIaXFEaWNEZENreE5NQlVGUmVTTWlGeUx6eDIyb0lFVk54VVlIVTIxV0ZOOGJKeFdIUkp3eWt4UkV1YlQ5d25rcFFhVXVoNjVtQUo5SmZxVUZ1MGx2Z3dXSHk0ZDlzVjluWlB6V1JzSWxzRzVydFBtbUdkMG8w0gG2AUFVX3lxTE9lZnhnY1NZaWMyV1hGQWxfRjdrLTR2b01kZTBtWUE4N3VNc2x1V1RSUzlRWVRhV05zQVdvZXZrZFNTSUxGb2VhRlFCVWdLdkdSR24tdGhSbnR2V1hPQnJGb2Y4NG5YdE1zbktsU05uQmp2VzJhcVJiNkFRLW1iSnlSUzR1Ni1oVHRsWDZFaDdmWEN4b3JWNnlIVUNaYXFvSjIyVktUbTgwNEtCMFhpUGFKaFozZ2lR?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1903",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Delimitation bill: INDIA bloc reiterates demands, says current Lok Sabha seats should be maintained - Scroll.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVVZGTzRyT0JIWk9BaVBCVUYycHRkWHA0Tk4wTVF0WTJqMVFTZWd1aG12VnNaajhBTW8xSnhERVVQOVRGUkFkZFQwSWpqV2NUOUFzNjFndjNwOEQ4VFczZDFTQWdnRjVCRE0zWXdnT01GN0FlTENiNWJzYTVqLUc4MWV5RHdScTI4Z2FtNHFBMTVfOU91OE4yVWNWX011elVrUS05cjcwaGprVmJzaElDQTdnbFVNYk9QMEpuUGVtTjctSEhpXy1SRWFn0gHPAUFVX3lxTE41d1Y3djU0UTFZdjFjUkp2ZFgtWjJUbHd0eGRfcUMtSzJPYzBncXhiTVFwdll3OGQwQjQ1eUNHUzVGc0tnVHpRdVotdjhpMG80N3RRc185UDhDaGVlRzNwUUJXeHRYbDJ2c3B6ZHlrXzVUcnE0SEtIT09XRTF6Mmc2cjNyYUhRWU8xWlNjSkhRWWdjQWJBaFBiYVZXd0VneWl2XzZ4cFgwMHJYeEZfc3p0Vktzb1BFdGNGRGJ4dnBsNDNLdjZrMDltZVlwX0tOdw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1904",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "INDIA bloc decides to oppose Delimitation Bill, says it is against SCs/STs, will end democracy - The Hindu",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPR2pIMGtLOFhoX1RBVV9rWi1MLTFuc1hpdVJFVUkzSlNTTWk2YnpvbEp5OFg5ZGI0Sk5MaVd2WVh0S1BVV1lPWjN4bUFZbE1ERUxpZW43cUNzNTNZaTFGSUVpUDhXRTd1NnM5a2o2cU0zekRoaWstalhSQWtTN0xqRkNkNXQ5aG9tdlJQWTkxVGVENzZ2akhqRWYyakE3c21RdXh6TUxPRXVMSGVEeExxdS1xeU54bEoyOEdyMlh6RzVmYlZmOUc5T3h3Sm9LOVJlLXRsVlpYalVlVmEtbjVkWFhYV0jSAesBQVVfeXFMUHNfSk1fVjZOaUV4ZENoUHdwUXVfNzJOMEJSRVJ5S1Q4Z2VLa2pFYU94VVB3cEhXR3Y4dmtzSXRpaFVrQTV2dE1keGdmcnYyWEVXbWxXTE50ZU9tVEpSYXdhTDJ3aHoyLTI3NFpJMGRpMGt6eWIydVJuLU9EbldWelAzWXBlOUR4c2VVNUN2dE93YW5qR0U4YTU4d1YxNnJlMUZ4NFVNRzdjYUhTeENxWFhZUWV3bXdLQ2o5UHFQTjR1MTZ1Ynh1VHpVcW1UYjc1aXo0cnVDQnI4SFJ3MXBnaGVZRkpnNUxEMFp0UQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1905",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "INDIA bloc to oppose delimitation-linked women's quota Bill; Kharge calls it 'an injustice' to SCs, STs - The New Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNRmNYcWhaNVIzUTFCTWctZ3BPcEs5X0NrMTJFUWxaeTJQVHMxMzdKUXREQ0F0dkRXUFpzVVVNbnBlbTJQUjhaZTRrdzFVMHF3SVZEVnAtUG1jOW5SN3hObXdyYjlzMlFqT0F6MnVIWjdlNXB2RUpveElPSURpMkNoa2hWcllHY1NnWHlSMGppMlZIcHFPY3dYZDUtM2laTmlTb3hTTmFQa05lS1F1cTgwSExHdjljUzdKTkFfWDJTZUhRa3hieWJUQ1FaRDdYM3oyR05YVGptME5IOEI1ejhPM0JXNNIB8AFBVV95cUxOYXVPbWllM1dFZUNHdHRnYUtUNzJBRGgteEFjTUQtdHVIaGsya0VXR1pPT21taHBoRnRQa3NCdTdJRlYtQXZ2dkJaTk4ySDNHa1lwN3ZTT0VlTlRKWWNSQzI3UXlOdE9WTlcwNHlKU3dxcGYyckQ3T1VnTVl1YTFhSS1UVDlod2poMzNrNTFaNDQ0ZVNUbXl4dEI5RklySzl6RWZjeDF1TUMxc25IOFYyV0JvX012Q0t4WnJQZmg3dXNZME1NeUpjOVQ2QVh6WDcyaEdacTJ3RVU4cTVJRzJNUEpPLTBwQ1ZYNkI0ZzZYZWk?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1906",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "President Murmu clears key procedural step for tabling of revised Delimitation Bill in Parliament - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPa2VkRjZISWhka3B1TVQ4RHJCNHoxRHh6NUdTd2JvZzVKS1VOTzF2LXJEblhmdVY3WUFLM2dRa01vVDItUGhtUnVlNmROT1VubTFNWXpQYkV1ZE1iRmdrMjlJSmN3ZFg3OUdqT0paUE5tWm9xa2tWOEl1NXV5a3l0S1k5MUZlU1FrTEJXNUNpT2g2djkyRFZONnlsM1BuakJqT3dJbGo0RHZQWlRWQjY0bXRDak5DWDU5TGUwNXdUR2lhWndhbjU2aG5OQ0ptNk9JVmpmWWFvUjlxVXIwejNiQnJkTEk0VGUzeFpBSHpEQUpiUU5qdW5vZNIB_gFBVV95cUxOWUNKcUJjbUVnRDdFeTEzdGlnY3ZibUZObjA2aHRvV2VmQkd5SThOT3YyOVBYNVFTcnhGRWV5YmMzaVl3X0lMY1M1ZlRBR193WTJTcjFqcnA1cGRoYzNVLWdGTkFXMEM4b0JMdVVTd2hzdlE1UU05TDNqb0czQ3dpMzJySFdYeWd2VXNva0NCX1BRdlhYMVU0NnBSY0ZvMGNybHYzZTN4S3o2OHpHTC1jRU5QQXE1bE16TGlua0o3ZzhGSW1XenhvTGxqbl8wUEpXaUFVenhwYXo1SndGRW5lUXYxR3VXNDdXYkRGWFhPYUlpdjh1Z0NUXzJrSzBmZw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1907",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "INDIA bloc vows joint opposition to Delimitation Bill ahead of special parliament session - The Pioneer",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWEVXOXQ5OVlpT00tLVpsbE56S01JMGpzdUYzODREdllHMTRrSjNaeHBSemZsVGFvS3ZscEFoVDlpaXI5TlpzMWlwU1ZIRUZYLXlLeFphZHRqS1RPYjZRU0JIZVN3WHp1T1JiYWcyY3k2a3lqRVhGdG50d3p4ZWtnTlNtMFI3TDNVV081RkZDSmUzRE9tZTdSdExGVnBPZWFza2tMSUk3VzNYalJSUHlKUk0xaWlCalRnU1plbNIBygFBVV95cUxOSXdmNkp3dFcybGQyczRNbnVzd0p6VXBRYWVVRFlmUk9razNvVHh0Um0tZS1TdXU1Zjhqb1BlQ0s2ekhvTFpoaWpTSVM1NWNubDlXM1R2MXVWd2VEOVhSY3VfSm9xOVZKX3Z6X1d3MjdsaTNPWjM0RHF5NkQ3XzduUHRzcWs0VUs3VkFuLUpSSlFLeVRwZ1ZxMzRXdVVnbEt3ZkJkSWdzN25Tc1VZNmx0dUMzOUpxRk0wTnhFQ0Y2QURGU3NQVHRySWNB?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1908",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Mallikarjun Kharge Calls Delimitation Bill 'Threat' Ahead Of Special Session - NDTV",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdGxmZTc1VUExMDhQd3oySGcxUDY1ZWYtWWNvYU9NNldnVlhhd3hQR0Y0SDlXMC1CSFZYQnlRZS1KRjYzTnpleGdmVndfQzZYcXlQbWVaTTIzc1hFX3MwdU9SaDRrTks4dW5fR05XUWI3d1J1TU9ab0s4eHhoT3k4LTNLV1hjbXp3NW8zX295djlfN2xSN0I4R2dCd21DbEhWdVRLZUpveWxRejBJeG5MZ1VFalVwbDhGdHlFZHZ3a181MjhxZW1kQ1dvLWN3M1o0ZGh3bHVLX2JoT3cxa0NRZmlVOUt3NE5NS0NWdjlXMlh6RGpzdEVUN2VB0gGCAkFVX3lxTE9XQ0JFRnBUQ1VrOGxEUkpkMC1IRVpMR3owRTlac09RMVZnOXZuOTF5eGFJMGdObklJZEpiN0RzejZXZ3dzNHR5aUVvMXQycU9CVWtYcFhTZmJ1UFhTVFJ6SzRGalhiamhWdUlaeFVuVjZYNmsyM3lIV2NTdVZKMUZkanVRM1c5bHBrRmgwblZHcWxLc3pkMWRvbmZDSFk0WE9CdkMwaGk1Sk1Kbk1wQS1wQ2pYUGtkazJ3STZGUGdWdXRUSmlaRmozTjVQWHE5LXBtS3p4WVpwNTNSaUN6WmdzWDF0TTJWZ0NFanQ0VWJ5T0JvLXExbDRTdGl5allKZll4UQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1909",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "SAD backs delimitation, women's reservation bills ahead of Parliament session - The New Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbGVXUTJzX2ItTVhuUkpCVnFoWjVfZndPblpjTGJPQURqMnNvRXF4ZTc0V3c3OXN2R29JZDluaVlaUDEwQU53Z3MtWWJTN01DUUV0aERlZHRja2o3TThSQ3lTTGxvYWFXMC1RazB0NXdXRV9YWXRGMm5CQnBUVGh3d0RiVVk4dDdrajVOV2lNNnViaFJkb1EzUzlzYW02c0p4VHhXWEloVGlLUHBTck9Kd1dUb3JuNGt4MHdILUt2R0IwSnhB0gHSAUFVX3lxTE1IdGtkeEhJWlFHTnFrQjhBT21jS2hMZlRtclRzckZ2NFJ3QjBXOWlkQmlwVnJFbTlYaFYyX3U2WEY1aUUzT2cteEtwUDBBY2lBcGhfNzIteENmRnRWM2ZhdVJHcnhzZmJwS3ZwRGJCemZaN05IQ0d0NENhNWpvdUE2cE1LanVXN3N0ZlBxUXJrWDhpT2gzV2d6cXByNWx6TFdvUDdrLU9RUzR1MTl0cnlyRlJpaEVaQ3RVZHpQbXFhUnlQeFFSbU1yVzhONjJuU3VaZw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1910",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "President Murmu recommends delimitation bill to Lok Sabha ahead of special Parliament session - Moneycontrol.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxON2p4RUMzR2pya090R2FCOTNtRkx0RnpmZm9VTXV6cjE1MjUwZ2wwN1lsUGNaaFpwUG4zZGVHekZQNmhrbDB1ekxrZm1SM1BrNi1yWkp2UFRyNlRPNEF4ZncxV3BUQ1drNlpxQVJHSXE0RVF3dHQtaUEtNkswa0ViMmlYa2pBQV9JNk93dHNzdldYd1JkdWxfTDl6Zi1UUEdFRjVycDdYaTZ5SWJGSERiOVh3b2swNldtay0wTjM4T045N3NBR3ZIQzRaaXZTVUxPT2hUVDUtTUhZR2x4QmN3Sg?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1911",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Rahul Gandhi's stand on women's quota mirrors Priyanka's sidelining in Congress: BJP - The New Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeFJVYWZxSk0ycm5FWHlLZTNJcWppeTVYcXhEQmNPV2NUZkl5c25YbUlwUDdNbnlrRWt5LWx0UzJsMXZJb3JjSDdON1lyTkZqOGlwRWM1VVRlUUdaaE8yRlk1LTE4VEU5a2N5VGRLUmhQalB2M09KZUlEc3lNTWt6UG1STUVCUUU4WmJScWVIdGlmOGpqeWZpU0FoZ1VRUC1oT2N6RzlnZE1vVGYwRjZ1a2FLTm83Q0hMLU9QYm9QNS00TGlOUDRicFFWb9IB2AFBVV95cUxQSWRXX1A4a211N1VSdmN3TkxXYjhHRDBVeURFUV9QR1Y3YlYzWGlLQjlwRFdyaVp6MUJtMV9DY0d1R2JiRWxrT2xFZlotbGhnV2hfNXA4cDdrQkxCOF9wTURxZGxlMzJWSEMzVzI0cnFxdThieEFEMzRfanZlOVRBTmJIOXUzTDhhOUlxSmFQdFhGNkhfckVHSTdsWUhXcFZwb3NVdjVWRzNuMU11bXFja0tUa01rWlpqU0NzbFlaeExTa0tkTTlVaGtWMEwyUjVvVkc2TWI3TjM?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1912",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Congress reminds NCP SP of Rajya Sabha favour amid row over delimitation support - The New Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPd2Utd0VUOTZCSmVpVTB1eVNzVVdUdFNlUXBIR0haTnhQc1lqNFlQNl8wMmVpM3B4YnlKMUpac3hUU1hnbmVDUm9BcVFLOWtFMGRmR2h4SXh2eUQ1V0NXem5FSDNzRW9SUG1QNGVONmVmOVRBODJLVEhsdlR6YWdoaDh1T29ieDFaT1JjWlZMVlhyMGxZMzhXQjc3RHhTX0xoaHhFcWFLVFF0bHYwbWRGck1LdE1NMlFRR1FVaXBPa2lERl9iMDhTS3V1TGUwX1ZlY0dRTlNQZldnRWt6VXdiUjRmNkhiamZDazhVTFZ6Ty1OUTB0cnRxNGw3bjJIYmpJZWfSAY8CQVVfeXFMTVliSF9jd0lXMTZUYTBieThTNl92Qm5XOWgxcEc2SlhIMmZuN0VuTWxxTERJSVA1TTdjMzZZSjF6SEQ2NkRoTEw4VkxjRTlFTE9fVXJyNTZ0d3IyLUJjNTFMSlYyZWdGMG54UnRvUGM2SGpPUWc2Vk9vdWN6d2lCcnFkTjN6bU1yTUx3VVd0NDVDb0tfVjlaYUhoTEhVblc3d2RsMlF2ZUVidEJWbWR5UmU5VUFUSFRpSnAxR1AyekJMRjRkRzdadDhXS2tJVU1uQ0M4RkVGTWV5d0VoZjJFT21uY3ZSck42SEU1OTBCcUc4UkQ2MnRiX0RGT3FWSzJDdEtlZDVEOG5nMGprNDdyVQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1913",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "President Droupadi Murmu forwards delimitation second bill 2026 to Lok Sabha for special session - India Today - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcWh2WE05akFQTnEzandRTkJKSUltX2RaR0ZzU1ZCdkhSNjVzTFJPZjViZTJMWk5ad1d3S1VjamZXdFpmX1JDeDNNSnNiSjJyUzlNMmU0QTAtM1o5VWx0b2lOdkNpZENUWE1MRVJNLTdldktUWmFNZlA5Tk5QUjMyU1Z5YjI2M2h6NHVwVUhJaG9hbGJrNmh0bkRCR1dNMFV4ZzdHajNnT2FhQ01wZnhyWXBDNkJZMjRoaExKOXR6Y2drdUJGYTlPRzd5OThNMkdfb0lSaWNMQ2nSAd4BQVVfeXFMTnA1VFE3TUJuaGhuRFRGOUY4U0RSMTZzVlNXR3FFS0xpNlJVQVRod2ZFczE3V1VZdjM5MElFNG1TS3o5SVF2dVVFb3J3Nk03RHZpWmtRZzFjM281Q3B2RVVUc2Q0VS1pSy03dEpLQlZBbFdEa2Jiekg0Ul82R0prV29DLXZMX2VkcDNkR3BxTmRmLUJvUG9rYnNyVE5xU3NFcGZVbE5GTFJMVHpVWmRrUHlZN2JDdG0wNGVTbXluY2VtQlYyZGxieVFhQWNZZWFUdGdSVkFTNWROOHF2QlR3?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1914",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "INDIA bloc resolves to oppose delimitation bill; flags impact on SC/STs - MorungExpress",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTNBTUE3UURIbk9MSlJ4YnlNMnhtWktuc1h1UlNaa2dvcTZUMENUb25Xc05CN1hILTBJSmJUbGtaRm1qa2VUMHlNV2hEQno0Ni0zWmRROXEtLXhFcFM0WG1GT0c5c2tLY2Fvel9kUGlHNk5jZlpSdXVHbnpWYkg3bnY4UFBadHU1bXhSLTRYMG1WMGRWTmRCbXRCOFhyOC1h?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1915",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "DH Deciphers | What the new delimitation bill proposes and how it will change Lok Sabha seats - Deccan Herald",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZm1PS2dBR0VjNVhPbDRmR1Z0ZXg5d09XUlpzUFFIc2dLSWpZTFRkX0phTVFSYmlXX1dkRWRRbEdkRURKN3hORWhWZG83d0J2S2RoLVNBRUJHN0tfTjdfLTdMSWFoWnFiNkYzeFhvOEN5SE0xUzM5WFRMamozbkZMbmdpNzlkU0VHZFdvRDNlRW9BZ0xmRGRlVmw2NFhiR2RITDRuNGMyU3MySGxIZjhYMWdLU0hfcS1TczFWQ29Kbk1HUng5ckN6R2hfQ0wwcEk?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1916",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "'Representation of southern states will not decrease': K Annamalai backs 132nd Constitutional Amendment Bill - www.indiagazette.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDBtcU5pX1JjWVlqRl9rZG81NklFdVF0T0dweTl3RkVIcHp4eHk1SXNQbVM4MnZONlBSc2s3MFFsY1VNcGQxWXdZUXBXalhfN2tNSlBaZWlsX1piWlhaTU5YWUJCQUoxeG5RRW5lMm8xd0lJbFZjZ2VlS05ZUEt1Z1pmTnNYYTFfTERzclEtdTBmd2lKTm1Va2pfOUpTNWhldWhkdEQtSUdmRkFMQXFWMWFJQ2sxQi1zUG1IQkg5N3FXemszMG1jWUdEMlkzd1lYNGNfbnBjLW9mTTFibXdEakl5RQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1917",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "After INDIA bloc meet, Congress calls delimitation bill an attempt to turn India into China. But does the 'opposition' really matter? - The Week",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQU2Y0WkFaQThNZS1ibEhFU3dCYnBHZXZMOE1hVHd1Z0dYQlZDRjZ3VDNueGdFLUFGVjRNeU5ISDh0VTI1bkhWSzVubm9XVGNqUkRZX3dMWG5qbUlvdlJIMVlfN1pSZmRfR0R4UGFUeTFIbkxZRzhfVDJCaHNXZl8yNTZkVmpkeG01TllwTkpiY1dKMjl2ZXhjSGRpbk0tLUhVZExjWU9ndHVCZDluWG1NcFpUZjM0OVhXbHRDZHdzcnRBV1p5LVlveGNqNllWZk1zb25hQjU2aEZPZlZrNTJMSEtsYTJ4SXpDMjZCRjF6MG9sNmR4cHpLWjdhcEdTbmVhMFprUGo4NTJzZ9IBjwJBVV95cUxOaDkwbC1QdHVNVzc1ZHpkQ0tDdndYaUdmQUlWTW5PNnJZcVdRam9CSEczbTUxSkVNYklhMUtpNmxTMW9GLUNSZWtJLTFSeWVlNWQxQXV1TlZPVk9fM0dLWHNsSzlYNk5KZXZYcjFDTTA1U1ZxRzd2RXA0ZG1VNDFjRW5TLXdZNXNFNkhqT0J0S2JCRWxBcnYyY3p1dktFdnBXWkYyTmpBQ1ZfeTA4MTdiV3FHZlgxR3JnT0hkSy1DX2RielptV3o1WU5xS0ZGamJqcXJ0RXhOdF9Ud0Nrak9UZTQwd2tiT3pRUHRCdjI2Y1djRzhDSWdsaU5XanlnOFRBOHBxUExURU1hVy1wTGZF?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1918",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Indian Govt clears way for 50 per cent increase in Parliament seats, linked to women’s quota - connectedtoindia.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOaE8tUzBtRnVuZ2puWTZCUWR3VVBDYkNVdGFXbFhRbzRQMTNuR1VYUDh2VWpHZDByS3QxTDhfVVl1Qlpja0trTHNzQ1NibWRIU054TWJ6QjJjRGZRLXRKcjlvU1FhWXpRRHc0cjZwLVVSM1luMDE0ZGxyOGZ5ZXJER1JKMWlhVVh2QjJ1X1VBVWoxQjVZS3YtcFFGd0cxVmVUZERrcTVQTndnX1lKT3M4Y3lOdzN4R0N6RDZqM3lvaHJNZw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1919",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "No party can stop women's reservation bill: Modi - Rediff.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRlA3aFNIRDBRQmNlVDNfRi1DUE9yeDhHbEdlQnpQeHM5YktQNUdKbU1wOEZjS2Z0XzZYNko1Z1RQQm53cWpLNldTcEJzT0RrTW9HZ1dVTjBsMWFRdlpDZjlyU1FfcW9xN083bWJoMDlsUnVfenlFVHpQcFdrYzNIaDVJVXoyWl94U3VTNGhTYnVkcllLOEdkX3ZR0gGcAUFVX3lxTE04ODVnRnZzcExZNVRXNVI4dXA3eTVLeWRtWE5JZUhHRmpDWTVGQ1ZWWWtRTU9sSUlOT3N4SHkwaF9VZGI4MWduZncwNzZseHBxOThzcnczVFBNUlRISW1YMjRYUjF2akdJRS16TEpNSlR5LTF0NXdxRmc5eVlGSm1yZ0o2QlZVeHdYbXhXcVhIaXJWQUVyYjVmZXNTTA?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1920",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Delimitation bill gains support from regional parties as NDA prepares to table it in Parliament - India Today - India Today",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObTJTeVF0NnZVVzRWOGRUWkpxUGlTMkFQNGhYMzRudFoxRjhtRWRzSlRPM0tNX09ocXNEeExZNGlxaFZxdUQ2UWwzT0JacTdCMFpBaUozQTNValNtWWUtXy0yWW9tOFZVYzcway1TUGRFNzN6UmdBQzZQNWVJS01BeUUwU0NaaXQ1eS1DTmFSRGNuWWpEeGtzbVlsOUxsWWJSYTBwcGRPY1RFV1Fad2VJOXhfbGFmaWQ1TnMyNVdPcTVwWjUzYTNQZTBtck8xeHJUVjMxYzhxOWpzeknSAeABQVVfeXFMTzYzNzJreHRwcXZnOVFBOS1sNVlTOS1nNXh4SnJ6b2tpMmNOU0w3cVZCMDYzcWc1SW9PcThsb1dGTW5mTW0tWEt0ZVVhNzBMTjJvTU5wekFFU1hPS1pGVEdVVmIwQmRIQmgxNFAtY2xwMXVjNS1hOHU2Qi1QY0lxbW9YTGc1V1QwNFFrbzI0TlBVWExoRFRzdHh0U09hcFJpMDd6NC1UcUtBYUwwaHIzN0V1b1RiRk9NVHBpRFZMX0p2ekQ2dVRCQWlRb2JldE5QREZxanh1cWFtVHlJcTdMM2U?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1921",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "‘Delimitation Bill BJP’s escape route to redraw India’s electoral map’: Rahul Gandhi says women’s quota an ‘excuse’ for 850-seat LS expansion - Moneycontrol.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxORUV5X1dJdjRXY3Iwb2oxbndtYzFxVEV5NGM1RG1NdE5sTTRFdkRhWktoUldzdC1WLUx5c1VVdzhVcEtvWEhoTUFXNXI4NEpkczdyclRINFpvQnNnQWpnNEtmb0RZNUVJZ2Rvb1AteXVhdXd0ZnlTaHFjTEl6SXZUY2ZpZGhrRzRmcG1FWUpFR3NwUTE0ZXhfaUFIZWVpb0F0QzIxekVCX0xYb1dydWhXUU9JQnNScjZpX01KTDRId1RFSGwxYXcya0g1dThXRlNLQmdxaU5BellRQnluT29FVkNQZ3lMNFdsUWpyZEJMbnhuREg4cUo0cmZyeTRDUGJ5c2FHaUdHZzFadkZXUjF5NW9xbkZWMFIxVFh1U195UUg?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1922",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "BRS Supports Delimitation Bill: KTR - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkk2VmhaYU1abTRFODJ2cU5GNlNSTmZXWk54OVJEQ0NhSnR1dU5nRVZFRHRpMGRpUUhlM0ZVNWZTVmpKSmdmZXBSZ2RWcnB2VS1uX185SE91WEdoY3dnUkc1eW5sVF9nY0RtVnV4ZkNMZUdsWGQ4N0dJX0NOaGJaT08xcGhhQTlOUmFGck9xaHVTc1hNT2M0djBrVlJVZEtrUExmYWR4NHV3M2xVaTZHctIBtgFBVV95cUxOTEhZOTgxclFnbnVwVHVCSmJTeHBoUUU0YUdnaW9NZHRVWTRsNWwwVS1kekZId00tTFYxNkxQWXZUWm9mSDNDVGNjT0JEcS1lSW1GeVFIU2FOTXY2ZmNVenE4UnVMNGlldHdMYXFVVFZmaUVpR2JBWG1qcXNKQmJYM190eURidmsyYWpNRDBvU3BNMlU4NjlFaTg5NFBESUc4bzNXX0lMdTFPQnQ2eV9rdXR3dXgzZw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1923",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "INDIA bloc closes ranks against Delimitation Bill, demands delinking of women’s quota - ANI News",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbTFpeVhXQmJELVRiRmd0ZlBmdjJ6OUpqNWdpTDJ0Qy1VdzdlcDlUaDlCQWhialkzenFGeVpPVTlqa1RLOENPWFUzR0JtMjExZXdkTFFMc2IzQnZXR3NvWUJtZldQY1owWlFvZVRVLTFlcF9jZ19BSnd3aVhsX2pfY2FhSDM4eDVEdXZqMXV6c2JwUk1SZE5sRDJQbEZKZDBzaWNYM05FYmRrdUNFTkxFd2R2amxTbXFMSy1CNjRISDE5bFZ5WG5NRl9IVnIxaFQ1dG1CVUdra1pkVEtPczY4TXI2ODg?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1924",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "TVK calls MK Stalin 'Savarkar 2.0' over DMK's stand on Delimitation Bill - www.indiagazette.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNd0R5ZjVEZHpVZld6dEprbmhXT2lrY2RxdG5rY1pyVW1yQklySDFvTjNmd182NnN1QXVoN1plOEx6RVpXblI2NHRXdjlsOUZjZGRpQ0RETS1admJKMlE4SEJPT05lRUhGcVd3WWppRE5oWGVCVEU0NTZlcVpVQnpNWW13YnhNajVOYW9Fd2hMQW5nd3F0c3FsVVVWNUpYRHY0ai1TSnJ0RFI4bjNpaWUxWQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1925",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "NCP (SP) Boycotts INDIA Meet As Congress Targets Pawar Over Delimitation Bill - The Quint",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUEU0cnl2MlBnZFhUaHdGYnlxU2dUa1ZzQWtuUi1QbWxsclI0eHdTWm0yekd3al9TVjhlYTZOOW0tRC1rZDc1dFZTaDRBT1hob2VGQkJvLURuQzRTWUJhQVdoSnpVUjk1UWZtT0pSd09sbVI5eUY4RnFSZlBSaERMMXlvck80UzNqVDFlSGdDWExKTnV4WGJRSDduZF_SAaoBQVVfeXFMUGZILVRDRTNhNVdEZDRlaHFYb1FpWl9Gb0FQaGxuNFBWc3doUUhjZzVwMzVnQlgwX2U0VkJaNkNYZ0FhUm5RYXdBcG1fa1JLS0wtWHoydmVPWGN6SU95dkVxaEw1X1EwVXJTVl9TT0RXZ0RzY1VFR19NRG5EQVVOTU81VExtaWlDSUVLeWpYUDVvdWp5RzdtdEZoVUxxU0I1YkJCdDlZbzhNVmc?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1926",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Delimitation Bill: Suvendu Adhikari reaches out to NCPI MPs ahead of crucial Parliament session - The Week",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcjBlUHZMWlJiTzNDZkhOQ2YtYVAtNXRFNkk1bHZCTFdmNUhUcDM4dnlIR3djS2VJWl91VVItazBhd1E0ZWdNZTdGLUhKUVZBUERTOG5FYThuTjdLNnNTYXJ1WU5WSkdHSVh6X1NOd1YyQXhDdlJJclUwRkpwZTgyWm9XLXRsVlQxR2R4TnExa0t0aWVCSXBDR0dqN0RzRWdzUncycWZTY0pZMUdRQTFEZVB2ZVBlS0Q2by10bE5jVmlaNW9fQjVTT0pWRjVoMWNNNEJ2YVUxZWZMMTZM0gHiAUFVX3lxTE51WDIxbG5wS0JvNTltTXhYMlQ3QXl1YnJCRFRLeElxYjBlblFZNk9EbWE5bHV6WEQxRVFTUWM2NzM3SGpNNEFCbnR5WmtJemxuRG0zRzRNcGIxZHRtbmFpcWVvRWJnS3JhVktvYTZXdy1uekFFcGtmMzlIZ2VLMVBSbDdxNzE1R0ZKcW5SMkNsMm1Ha1ZLZWtpZFVleHdMZDhWTndUMkRyVjBFZmNiNlVEeEcyNUF1ZXVHRE9KaW40VXMxLVhxcWZRWnk2WERpSEVWUVpSb2xmeVBzeTkwSElydVE?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1927",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "India proposes Delimitation (Second) Bill to fast-track Women’s Quota - The Indian EYE",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYU9sblBxWUk5b05CcGpVVjZ0VGRBcUhrYnRVRF9rVndwVjFZTUJRaHJhbzFxdExXSW9adFA3bVUtLUNUdW1BcHc4ZmlDQ2ZVeFRBbnhhYVh3cjNvZXRWbXdxMjFXa0E4TmJyNHQ1WThLSG04NWk3MWZwMl9RMXB1OFo0NzlNa0pqbXpxZUJjVWRRUGVRV0Q2RmIxdElOSjRSclBfS3dR?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1928",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Delimitation Bill: BRS, DMK back Centre's proposal as INDIA bloc parties oppose revised legislation - Moneycontrol.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNT0V2cGhEcHJVdlNmWG4zZzdPZTFoSGduVkFBUEU5dnVHWGtReHBmNHU4VHVIZlFvdTA0dV8taVhJTUdVejZEWkxXYXlldG5YMm1XdGp4NEROVGVON2thbTF5bEdEQ3dIaDllMUVPUFZJbXR3c2hBREZEYzJWOWNLaGJCQlBCMmZtSVh4dW9uWXJBclFDcWZMcTVGN0QwdGlSUkRLc0JhM3ZnYl96UVUyT1kzd1ItWVZMV3czNFV6aUVsQ21Ea1B4aUFTWWdwVTJTZm02RDZ0OEk4Y3NheTktdFY4TWdYUQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1929",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "INDIA bloc to oppose delimitation Bill, Kharge alleges bid to keep BJP in power - Onmanorama",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV0pzYnFNRnVpX2xhcEFTVlR1bXVUU1VfTnFZOWp2cnN3T01pZW91aTdzQ1FPaVZrYlkzWHlhM2V0ZUpVY3BVSVBiNU1BZXRhQUpPRXNhUldtUWRINVN2eFU4VjVPVmlrNmpkSHJlTWN2Q3BMVDlIcTlaR0gwTk1RNkJpbDY4YlpMWjBPT2RNUjdvdHVvNFVGYVNtOEItMXpwZ3c?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1930",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "\"Unable to secure borders, they are redrawing constituencies\": Akhilesh Yadav slams BJP over Delimitation bill - www.indiagazette.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYW5QUFVldlZ2QWplMXZtdGhMZ3dlbE5YcENpQ2Q3RXdYR29lRmM5dG1vc3hnZEljbzJDSjFYT0dCTXNMYjJYampkS3ZUalBTYzdobjZPdHN4V2kybmZLdWctSTFPUjBYMVI4VjVleHBSYk1rV3RuRnA3RzhvMGFkT1h4amsyQVhzZ1hMY1lSR2ZFSURudFNqaG1KekJyUktTUWl0OFk1aGpVS2xtOE9kbWFla3hWUUR4OUMyNGFiQ3BNamxndHlobDJwam9sOXFPOVZRUHlyaDYxUjctSEw1eWRLeEo?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1931",
+      "kind": "article",
+      "category": "Parliament Update and Activities",
+      "title": "Congress's Arif Naseem Khan calls NCP, DMK backing Bill 'very unfortunate' - https://www.indiagazette.com/",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMFMxNGJ1anlpalNKb202cWgzb3VSMEpKZjMtYWdwM2FqLWZ0d0JYcUwwNWtPd0s5LW1oeDVOdWtfaHNOYmNwaWpMdHlUV1Z2Zkx5TmhTRVVydHpBd1M5dDd4VklNMTFkN2ZpX0pFRjNlYk04MllkMldIVEprUWxXRU1wd0FIdEpQQVdXZEh5U0Q4QmQ4MndhcW54dFY1eDU0N0ticEFrenc2bnFqYXh3STRNQQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1932",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India Advances US Trade Negotiations, Targets Early 2027 EU FTA Implementation - The CSR Journal",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmk0NlZtQmMzMkd5ZU1JUF9GSER0S0lnaFIxS2dQOGFoLWZWNW5FT1JkVFFBaGhGWk8tS0JCcWxaNXFTbi10VllqOVAyZU5qMDEtS2p0VGpWTW4yYzJmcE5TNEhNQmNSanZwSENVTmRoUEs4N05sdXduaDYwdkt5bDQ1LWt5ejJBREhxaTkzdDF5MlJoZUJ2Y0NLRE9KMnFvdTNuSg?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1933",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "Korea India Trade Council Opens Chennai Office to Strengthen Bilateral Trade, Investment, Startup and Academic Partnerships - TheWire.in",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOUUJ1N1VCdmJvb096Z2RDRXNja05oVFk5a2pjdmplWExlZkh4cTZVWk5MLXItZ2F6S2Z4RmpOSWttQkNCd2xUOUtROWNVdFVMdkMzWE1Ybmd5eXFQQ0JpckVtcHM0aGhKcFFwRVd5a21EQm12R1pPUHk1a3AzTXFERFdRYnBhZFF3c3JpUmR2VTIyVE5wRi1HcVVULWFOcGhmb0hsUzcwbzMxWjRXVlI0LTI1N20ySFU5YjdldGZid2ZPaExRMW5NQ1g5U3VaZHhHeDlTcndFbl9zUURUM0NEcGRyWjVCRFoyTjNrNmVFaGIwUdIB9wFBVV95cUxPeGdDRHlRbjBWNzN1dE9KTFVVajhnV0g4RXUzdHg1aTdIc2otZW15RUc4YTEwclJoM0tpdXN4UjNPQmlZU0o4X3RrNl9DZ1lvdE9GUDFJZmlXaTUxTFFLNDhBU1QyWTVnVEMtTlNXUC1XV2g3VnJjcFNTQTliRFFsSFZlN3dnM2NuTXNqUVdpQUFPSXV2blFwWTl4ekRtY2s4dXg1aEJyVWh5M2VKMjdxemF2NHIzMEdMdmJuSWl3SW9OSXVOYXlWT1l0UDNNWUdfRWNpOUdSVi1veWZqNHpoUEdVdjJKTHZiUVJWdFZscjc2NzVpYURN?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1934",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India-Canada can double trade to $70 billion by 2030, says Canadian foreign minister Anita Anand - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNYkVmT1FvY2h5aF9DUVV5MW5LOHRMRzdNM0JVSWpMX3hlYjR1SjViQ3RhaTJHNUVIYkU3bGxGdmRwSFVLc09vTUhyRXpZeDlaa25LWjR2bDd0dHFKZUVwcExlYl9wdUpUbVBmX3pWT3hUYS1QQTI4U29kdzVFQlY2aThTbTBVTjBpMTJCRUFGVVluMnZmWjltNjF1RVoyTGszQkdjSzRzYTJxSDZvOFNNeGN0RmtMNjVkTFNWdXM5NDdyQkgtMFVMQjA2WEJNbFZZR3NtUkNPMTlKajVjNWVuSFplMWRqdGdyTGppa3B5TU01NnM3cXVwMUp2RUwzaXZxUFpkaV85TUhrT3Fh0gGSAkFVX3lxTFBKQzRNd2hybHJKaElTSFAtZEhKdVFfQmFuU0lXb0F1SE9pTENJYUVkSm14TVdOMG9XbUtCS18ydlc4X1hlYTRVUk5tT3dwM1d3S3QyZDJfQ0NYVkhGN09ZbWhhM3dndVE5ZnBJSlZtbUlrR2FudWtSdlk5U1hETndkUnk4emVCbE1GcjVrOU96Q3Z4TEZXd2pLc1JWX1d3YVowZzU1N0ZuR0FXUEp5X1dqV0JZM0R4cXlUcnFqa3ZBSFdTdUdlX2hHbkNxQ3BLZUszMjkxLWxTVzJuVkFaVTNtdVE1M3MwRnZSQkZiZHNyeFBSNlRsVGpuTWJVZDR3bGQ5Uk9VTVFmbzJMTHZMODIxY2c?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1935",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "SEBI working to deepen capital markets, simplify regulations to support 2x economy: Chairman Pandey - cfo.economictimes.indiatimes.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb2hNR3ZPVmI4U2VWa01ZMjMzRkx0Q0Z5cEdwSW1wQWtSbkJmTE4zaXNBaXduM2JiS0JRbTk2N1A3c2pjQTVac1pZYWZ4NXY3cWNYeVV3SlRwenIzNl9GV2VqdTBrS1dPOU9HRzd5Y1I0MHg1UVBkZEtuRWFZbVZReFZKTGRDaTY4aUZBMFVaaXRtbi1RVHd3UnJZMUY4QzZqdTdNdnRLVVZXTUZVRFhhWllQc1gxTTZlYzhPTHFhZ1BNV1BidDVmSVNzcEhwQ3prcjZGQll2cFJkY0REeUE4NS1NNmNFQXZkdnlvakl6TDA1M2vSAfgBQVVfeXFMUDJHMFVra3ZoZVhKY2pDR2phT09pZDJLaS1tdlBJV3dXY0tZdTQ4N3A3Znc2ZkpPb3U4cTN5TEN3aVYtbDJ0ZjlfZGZVc0tXMEJSdGJuWDNQSWtjdmVJXzJVOVY0RUIxU0luRzNzTVQ2bkNhYlJGRjc3VmNweklENkFmRDdVbHFYTEZmSWUzd0Uxa3NPRG9ZUmEwT214TUMyZXF1cUgzdXc3MVJwTmpaejJOOHFlU2U4TWF3WGZjZzFsOUsxMVhrMXBvNS1uZThGZXFBTmFBWFJUc25HSVFMS2pScjlLRGdIX0Z2eXE2WUpPeFRySmF2NEc?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1936",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India, China & Trump’s Tariff Math: Abhijit Iyer-Mitra Breaks It Down; 'Forget India-US Trade Deal' - The Times of India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWnFtSVU2X2VHNTdFNk1JcmlnMDFpR0N2ZGwwOVotMzhwaWtKM2poZFRKZmFZQ3lmdWh0b0VvLWdNdTdhdG5RN211S0F6YjJFVzdrdGVPeGxVa0d4SXFPZmRhVk1EV0dVSERxenQzQUI2UUhiOWJPajNyWkZHeTdrcmxnV25SZnJ0azNsOE5CZGZSREJQVGYyMGpZQlFzUmpVakY4MXVqOEFqVUtkNG13OGlJV04yazhtbi1OcWp5V0h0NnVSNVg1MTdYUDBaSl82a3FmcDBSNnpCV3BKQWVrelhYQlUtd1NpaFNkdlQyeVNWSEdYcXI3UnVoOTloUdIBgwJBVV95cUxQMmJxMmx6amR5bjVwRjRUaW9IY3M3TGM0bDNmY3AzalJ0c0x2RkQtVjBUMVE2Mk9RX1ROX2NyMEd0aVF0N2FxblM3eWlsWThHRTdiQ3BNekdTeTl6VDNkTU44RTRHekkyTVNmeEV0VFlHRmJfd1ZvT0dRYTFFeGFuVm5MaktUZWZUQjVXc1lWbUF5TDNkRm1BOEJUanoyQ1hyeE1IWFZDaFM2cFJrNVIwUVhKYkFGdWxrUVFYNXNvVVdkNXRvX2hickhseFpRckgzRG9FcXlHX0NXODVzdnAzbUtjYmx4THZ0VVRSRHduS2ZzNDNyYlJOcXRibW1vWk00aHhr?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1937",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "Growth to remain resilient in Q3FY27, inflation faces upside risks: FinMin - Business Standard",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ3hjYWNyQ0k5RGFVVHEybGdJcml6SWFYdk9abENTZ0FGUW5PVmdHVi1QZFlMaks5b3dhazE3NV9pNVpIaHlGaHpmMFhWRmZLTzQ1VlBBMUV6Rk51RWtqWUVZLVFoeUc2bE02WW1iUHkwYnN2T0VxVS1UdkVJRFpkdGluWFNuSTZXZW1ta1Q0YVcyQmVGR2VIYlh5LXdINXYzdGpNbEl3cW84elg2a3k0TjFqNFpHR2VPYzdnQVI1SU9sNW5KaGhIR21wRUxGblpMazcwZDdxLWRQWEQwNFhfc9IB5gFBVV95cUxOdmsySmx6b3hFaGdZeGhQSkhIaktha29zNnpCcE14NlZTUGNCaWI2aWZrU2JfQmRnck0zbGwtTWltenZ0N1FkQlFHa1pPT0tZaWE2NnBFRU9QZVFwV3pYd3UySW42c0JjYTAtWUpSQTlFWjB2N1VVMlNvMXJreXRpTGo0aWx5ZUE5YllrUGdUZDlyel9uT2x0cEx3VU9DemdQbGVRLUFfcV81MVQ0WEp1RWt2UzFpSlJPWDIxUnBhZnNEb1N5bXVJdU44a193RHQzckNfTnBvVlRSN1lsOVl2R3lCa3VNZw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1938",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India and Canada near trade deal as negotiators hold daily talks to close CEPA by year-end - PropNewsTime",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWWhqS2lGNWY2Mk1RbWx2eWx5M3lCUzlZMkJ5eE5GVk84dWhhY1J2U0g1cXEyRndwdHpVUWFFdElydC1aaTBEOXNXZm44Ulp1ei04S2doTDBvb2huNXhUUkxnelY5Z2dac2RDeWJMWFlmUXY4LVc4UVgtM2pvbDl3aF94a1Z3NHVSVHBLYkVoaF9TOEdiaUdBVkpsN1V3eEM5YmxCT0d1OTlYOWpCdkltRTB1VkRzU29PNTFKY2RaZnlHLVdxTmM1c1h4V0kzeGE4YkZzZDNGd0JNUQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1939",
+      "kind": "article",
+      "category": "Science and New Research (Include Archaeology Research)",
+      "title": "India sees robust growth momentum, flags El Nino, West Asia risks - Moneycontrol.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVWZ3WW40QXdLcVJLMlpJcVlhMnJjZktyXzhCajN5U2dibWxaR3dmUVBFQUxHU1RBQUlFUXlmcWhjZW51UElMRVRqSzltX0d2bGVKekZhblBqLV9JNHZxODAwdWtKYVJzbkJKS3FnOG43X2VVQVlhVDB5M29kQk82QUtWWEd5eVZrQ3h0UTIzd19jT3NmQTFWTFh1eWpFZEt5NkRmV2xWX2pnODlYc0NGYVpkdFl4YWJEMXM4OWk3NkhackhEbE04?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1940",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India’s Free Trade Agreements: How Indian exporters are gaining access to global markets - Bureaucrats India",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNak05UnJZV1h5aXhycTdva05QRFpZRE1aMURTaXYwMkZBOGpCUnFEQzhJLVpEMnJDMklKWEZBc3RJckJvUEs1elhZRl90QUZiWnc3SnhSalFMWDlhb3VVZDQ2MDhEYXplWEhiandubHBWb2FtcllaQnZqczVhZDd2ZFcyLXFWVDNJamFXTmxUMkpNTzNDZTJ0d2ZRY2NiWHpXSzZLcl84d2F0eS1XcVFlZTN0QzR2U25CLVdiTFFmWkt1QQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1941",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India, Canada aim to more than double bilateral trade to $70 billion by 2030: Anita Anand - MorungExpress",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUltMnpZWFEyWHBjVkZZTDBRekNBR29takluSTc0Y3dwSmVaakowV1hVbVdyZFRrOGtmQ2tpeUNjbkNGOG04ZUYtU0pNMW5lazN6NHFxVnpIMTN3YWwzdW1PRlF5Y0lETWpHRUZYa0NCQUxuQkk3bkZQcE9meEJQbGZGdC14Tk5kZ1g2RkpRUS1fRENXcWFpZFlJd2ZvQ283OFhQTVh6ZHE2LWlsMXp2Y2hDbnJkaHc?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1942",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India to enter FY28 with strong growth momentum despite inflationary pressures: Report - Moneycontrol.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQZ3ZhN2txeDFSNTVCNXdsTlMxUk1hTUIyYlozNDFqRlU5SC1OZTh6MjRTTXBsckVaUXBEUHBlM2t2RDhPUW8tMHgwbDgxRGttSmc3ck1JMENYaGFHMWdnUWFwMV9xNDJRRm5JT1dFak9ESlhzYjZWZzJpQzJJZmowbGVsUEM5Z2h1cTJnbWV3WmZmejRQQTRCV3FqVFJxSGJ2VXRPSi1VME54OWNMTzQxeEZzdjdUODNVQUh6clBxUW11Zk9YbmsyVzg3a3V0V1hfOGRXaW9HbG8tSVZlMklSMmJuOUk?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1943",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India, Canada aim to more than double bilateral trade to $70 billion by 2030: Anita Anand - https://www.indiagazette.com/",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS2psSDJvd3FnZDRWejA1cXRTbXhzZUw2XzZkMXlpcVVWYmdiTnkxcjEwM25RTlBqcVRZNHQ2bG5lZ3FxU0JqOEp6YWp2anV1MjlucXdKTlhTTnBfQXc1SEYwWHdSOUk0c1FSYmhEWTlMYzY2R0JrN3Zldnl2OEVPb2tXNmVYanVRdHJHNDJ3X2xoOTE0Y1RmT2paZGczdlhEbG1JZFhLX0FxejRkbDVSNks0RXREa0lwSVFLNUVHZGRNWFRoNTdmWW93?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1944",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "Somalia, India Discuss Maritime Security and Trade at IORA Meeting in New Delhi - www.ftlsomalia.com",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTlRJcGw0UHJ1QXpRclM2YWo5aFVZcEhTdHN1S1lqRThZMGh6VTRpZ01peG5IbVl5OXp6RVItXzRaYTdBRXg4NGpMaWtHZ2dROVBxb1U0X1NvMGM4LUYxM3lla1o4Wk1KN09zdnY4YVNqVzJYZXkyTHpaZUU3RzNlZzRhMW5hU0RRZEFUT1lJV09KWDNsOGRXZ2R0U1g0aU1RMk5fb1NmVy0xdw?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1945",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India-US trade deal nearing final stage: Piyush Goyal - Awaz The Voice",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0x2dno0dkg0ZnlLLW1WblI2RlZnUWExRnY1dW1EbjZOM3JiaUFOclFVZFFKUWx1UlpWOGlsYjFjQzB5enV0UFVhMnVydk13ek5EcEtnTUJXOEFXNTJhb3g4MDFGeFNJZ0RPU21uYmVPYXRKMjdteDJoZkFiWk1QTzFLNmFsTklvUVJBM2VGWFJBZVhFUTlzUUdzc0tCWlZXTlJjN0tpajQ?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1946",
+      "kind": "article",
+      "category": "Economics and Commerce Article",
+      "title": "India-US bilateral trade agreement is close to culmination, says Goyal - MillenniumPost",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFQ1WEFwSy01ejk5VGhhb21fVXFMcE14dXhjRVlLUjNzT1RFa21QSkV1N3JLLXZnMzh4OTRzMmtISnB4d3dGeFlDMEdYYS11LUl3b1VLU01qR1dsUnhiVzd4c0xFYWZGMUpBSDhrTjJHXzdZM2JjQThaOHk4YUkyWEluTVNOUk42NmZCN196b1Zyd1drM0YzOFNGN3Vra3ZpaDJMbEszNThMYXltbU40WE4xTlZ5UdIBuwFBVV95cUxNYm05N2x4Smdrb29DOVlCUEpPRkswc2MyNWtGZHV4emFjMG9PemZ2ZDlZSndxcnFWRUpLcTZtbGlPWEZoODdKNUE2SGJPUkI1TWZXNXpnWmRGa0F1TFp4eGhSc0RFbGkzckVCRS1hTU5YdmE3dEpFVWJzMWFCZ0J6QVJCbjU3ZXROMW5LQ1FJeXd0emd2ZUoyazctbjBwUkwtRjRManR2T0ZDNmtCQnJyRHd4Nm9ndzJIeUVB?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1947",
+      "kind": "article",
+      "category": "Daily Current Affair",
+      "title": "India’s First Chief Justice of India Museum Inaugurated at Jindal Global University - Sanskriti IAS",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX2dSRGpLdFNheHM4WGE4X3l5LWpXajlyYjlRczNPbTdnWEl6eXp2RHh2VU9oa2Q3OUl6dU0zdENkTUdoTUY1SVRrWTl6Q0xCaGZSUExJWk9NZEdlNzJYMUNxNExlbU52RFhEUUc4clhJZkJRU3RtOVBhc3hqRExHUkJIQmMxOFY2bE95TlVrdnhVdmZRMzh2anlBVzdFTkRZR3ZXTmkxNHNVM01qTHExUFNGaWlMdFkwVi1uanNRUVg3MEhLM1E?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1948",
+      "kind": "article",
+      "category": "Daily Current Affair",
+      "title": "Top 20 UPSC Current Affairs Pointers of the past week | September 28 to October 4, 2026 - The Indian Express",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVDRqcDVWdlFlWFZXRXluZW40aE05bFZkWVRha01haWRJc3NlV3B0OC1qYTg0VF9ESkV0ekxrMVB1ZnRyWnVseFJra2prZWQ2akJqRlVfQS1FMGVpdUMteXFMREIwUjBkSzl5RjJVMzhUU29pUFFLUzFkMFNoU1NNUFJkeGNJaU5Xa25VdE02d2JzU3RRdUlyNVlEOTNxX2tBbnl5b1FrUUl5TndGZzZyemxVSVVOV1hBMXV2bkpKMVpZQjVzZFQyYmw0U2lsdXQ5VmJXZEZ5dnhOX291d0HSAeQBQVVfeXFMTjNaNm9FUzVvbUd1M05NcWphUGNNLVNoZmtpOTNvYWhPME1lNEVOSDNlWHdaRnFQMEl2eVFCM2l4QmRuUlVfWm1VbFcwdGxtU2JSUW5xMHAyVG1oWUNGdUtENzVIMkhCR2ZQel9YUWlsNFdOX0lxcDlsR25CVVBqZHY3bjMtY1VOb29JQUhwblN3d09fQ0ZSZTlVeHVXUXB4RHNRdkZ3OFJqMHVuSVA0U2hxem9FeV9tdExBblRRQjdGa0RncG1sY21zTmJkZlZIdzZIR2g4UnJOcjE3ZkgxWFNRckIx?oc=5",
+      "date": "2026-11-28"
+    },
+    {
+      "id": "art_1949",
+      "kind": "article",
+      "category": "Daily Current Affair",
+      "title": "India Nears Universal Banking Coverage - Vision IAS",
+      "source": "Google News Search",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3Q1N0oxdVdKYWltMmw4Y0Q5NVNIYWp2V0w3dEF6WXVIREduY3pWSl9Ha19xbndSUzEwVUtrbHAzV19YMVhNc0twdjhuQTZ2REdHRkVSUUZzWDd6bHI2VzBoa1RBQTBFTUZQNXJjektFM1RNcFVGMnZzY1lMVm1UeUxPd2VnbllrRURIVkVVbFRrdnRnRm5XTzFES1otQWRwZDRlREo1QWE?oc=5",
       "date": "2026-11-28"
     }
   ]
